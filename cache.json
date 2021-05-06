@@ -1,88 +1,106 @@
 {
   "sources": [
     {
-      "href": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "href": "https://hnrss.org/frontpage?points=100&comments=25",
       "articles": [
         {
-          "description": "Added: Basic theme customization: Demo | Source. See documentation.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-05T07:20:50.000Z",
-          "wordCount": 280,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.4.0"
+          "description": "Article URL: https://www.spacex.com/vehicles/starship/index.html\nComments URL: https://news.ycombinator.com/item?id=27056591\nPoints: 259\n# Comments: 149",
+          "link": "https://www.spacex.com/vehicles/starship/index.html",
+          "publishedOn": "2021-05-05T22:24:47.000Z",
+          "wordCount": 1072,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Live feed of Starship SN15 flight test [video]"
         },
         {
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.3.1"
+          "description": "Article URL: https://pxlnv.com/linklog/california-exception/\nComments URL: https://news.ycombinator.com/item?id=27056300\nPoints: 111\n# Comments: 69",
+          "link": "https://pxlnv.com/linklog/california-exception/",
+          "publishedOn": "2021-05-05T21:52:35.000Z",
+          "wordCount": 405,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The California Exception"
         },
         {
-          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 293,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.3.0"
+          "description": "Article URL: https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/\nComments URL: https://news.ycombinator.com/item?id=27054753\nPoints: 275\n# Comments: 372",
+          "link": "https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/",
+          "publishedOn": "2021-05-05T19:47:02.000Z",
+          "wordCount": 3310,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Blizzard has lost almost 29% of its overall active playerbase in three years"
         },
         {
-          "description": "Changed: favicon update.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 270,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.2.3"
+          "description": "Article URL: https://www.csweapons.com\nComments URL: https://news.ycombinator.com/item?id=27054357\nPoints: 145\n# Comments: 79",
+          "link": "https://www.csweapons.com",
+          "publishedOn": "2021-05-05T19:15:41.000Z",
+          "wordCount": 7,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app"
         },
         {
-          "description": "Added: Display CLI version in footer.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 273,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.2.1"
+          "description": "Article URL: https://markodenic.com/posts/html-tips/\nComments URL: https://news.ycombinator.com/item?id=27054348\nPoints: 369\n# Comments: 66",
+          "link": "https://markodenic.com/posts/html-tips/",
+          "publishedOn": "2021-05-05T19:14:40.000Z",
+          "wordCount": 605,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "HTML Tips (2020)"
         },
         {
-          "description": "Fixed: The output website didn't have favicon.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
-          "publishedOn": "2021-05-05T05:18:40.000Z",
-          "wordCount": 274,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.1.6"
+          "description": "Article URL: http://www.macflim.com\nComments URL: https://news.ycombinator.com/item?id=27053655\nPoints: 131\n# Comments: 45",
+          "link": "http://www.macflim.com",
+          "publishedOn": "2021-05-05T18:20:35.000Z",
+          "wordCount": 1106,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "MacFlim: Full-motion video on B&W Macs"
         },
         {
-          "description": "Fixed: Item description didn't use the description property from feed item.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
-          "publishedOn": "2021-05-05T05:18:27.000Z",
-          "wordCount": 278,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.1.1"
+          "description": "Article URL: https://github.com/timvisee/send\nComments URL: https://news.ycombinator.com/item?id=27052840\nPoints: 450\n# Comments: 99",
+          "link": "https://github.com/timvisee/send",
+          "publishedOn": "2021-05-05T17:25:43.000Z",
+          "wordCount": 1215,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Send: A Fork of Mozilla's Firefox Send"
         },
         {
-          "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
-          "publishedOn": "2021-05-05T05:17:37.000Z",
-          "wordCount": 353,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.1.0"
+          "description": "Article URL: https://github.com/andymatuschak/orbit\nComments URL: https://news.ycombinator.com/item?id=27051468\nPoints: 306\n# Comments: 49",
+          "link": "https://github.com/andymatuschak/orbit",
+          "publishedOn": "2021-05-05T15:50:53.000Z",
+          "wordCount": 1508,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Orbit: an experimental platform for small tasks repeated over time"
         },
         {
-          "description": "Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.\nChanged: Build target from node12 to node14.\nChanged: Switched to a more robust rss parser: rss-parser\nFixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.\nChore: npm dependencies version updates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
-          "publishedOn": "2021-05-05T05:16:07.000Z",
-          "wordCount": 339,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.0.1"
+          "description": "Article URL: http://mobileatscale.com/\nComments URL: https://news.ycombinator.com/item?id=27050801\nPoints: 253\n# Comments: 35",
+          "link": "http://mobileatscale.com/",
+          "publishedOn": "2021-05-05T15:05:40.000Z",
+          "wordCount": 2611,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Show HN: I wrote the book Building Mobile Apps at Scale"
+        },
+        {
+          "description": "Article URL: https://blog.timescale.com/blog/40-million-to-help-developers-measure-everything-that-matters/\nComments URL: https://news.ycombinator.com/item?id=27050072\nPoints: 279\n# Comments: 120",
+          "link": "https://blog.timescale.com/blog/40-million-to-help-developers-measure-everything-that-matters/",
+          "publishedOn": "2021-05-05T14:13:53.000Z",
+          "wordCount": 3581,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "TimescaleDB raises $40M"
+        },
+        {
+          "description": "Article URL: https://github.com/ClearURLs/Addon/\nComments URL: https://news.ycombinator.com/item?id=27047243\nPoints: 680\n# Comments: 271",
+          "link": "https://github.com/ClearURLs/Addon/",
+          "publishedOn": "2021-05-05T07:46:54.000Z",
+          "wordCount": 1348,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "ClearURLs – automatically remove tracking elements from URLs"
         }
       ]
     },
