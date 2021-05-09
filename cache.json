@@ -4,6 +4,116 @@
       "href": "https://hnrss.org/frontpage?points=100&comments=25",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27089624",
+          "author": "awb",
+          "description": "Article URL: https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/\nComments URL: https://news.ycombinator.com/item?id=27089624\nPoints: 124\n# Comments: 78",
+          "link": "https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/",
+          "publishedOn": "2021-05-08T18:33:59.000Z",
+          "wordCount": 602,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "People who live past 105 years old have genes that stop DNA damage"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27089184",
+          "author": "yagizdegirmenci",
+          "description": "Article URL: https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html\nComments URL: https://news.ycombinator.com/item?id=27089184\nPoints: 125\n# Comments: 103",
+          "link": "https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html",
+          "publishedOn": "2021-05-08T17:34:31.000Z",
+          "wordCount": 772,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "ABI Mistakes"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27088884",
+          "author": "throwawaysea",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/\nComments URL: https://news.ycombinator.com/item?id=27088884\nPoints: 298\n# Comments: 123",
+          "link": "https://arstechnica.com/gadgets/2021/05/apple-brass-discussed-disclosing-128-million-iphone-hack-then-decided-not-to/",
+          "publishedOn": "2021-05-08T17:03:27.000Z",
+          "wordCount": 1502,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Apple brass discussed disclosing 128M iPhone hack, then decided not to"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27087688",
+          "author": "chdaniel",
+          "description": "Article URL: https://bychgroup.com/i-make-200000-year-by-writing-order-notes/\nComments URL: https://news.ycombinator.com/item?id=27087688\nPoints: 113\n# Comments: 97",
+          "link": "https://bychgroup.com/i-make-200000-year-by-writing-order-notes/",
+          "publishedOn": "2021-05-08T14:56:05.000Z",
+          "wordCount": 1806,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "My service to check whether an item is counterfeit or not"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27087469",
+          "author": "Hooke",
+          "description": "Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258\nComments URL: https://news.ycombinator.com/item?id=27087469\nPoints: 219\n# Comments: 52",
+          "link": "https://www.sciencedirect.com/science/article/abs/pii/S0168159121001258",
+          "publishedOn": "2021-05-08T14:35:38.000Z",
+          "wordCount": 528,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "If I fits I sits: illusory contour susceptibility in domestic cats"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27086701",
+          "author": "teleforce",
+          "description": "Article URL: https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/\nComments URL: https://news.ycombinator.com/item?id=27086701\nPoints: 245\n# Comments: 75",
+          "link": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
+          "publishedOn": "2021-05-08T12:52:06.000Z",
+          "wordCount": 1073,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Linux Foundation starts AgStack, an open-source agtech initiative"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27086582",
+          "author": "thunderbong",
+          "description": "Article URL: https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj\nComments URL: https://news.ycombinator.com/item?id=27086582\nPoints: 428\n# Comments: 226",
+          "link": "https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj",
+          "publishedOn": "2021-05-08T12:35:31.000Z",
+          "wordCount": 304,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Chrome extension recommends local businesses while shopping on Amazon or eBay"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27085979",
+          "author": "nsoonhui",
+          "description": "Article URL: http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1\nComments URL: https://news.ycombinator.com/item?id=27085979\nPoints: 199\n# Comments: 156",
+          "link": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+          "publishedOn": "2021-05-08T11:04:40.000Z",
+          "wordCount": 18637,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Dark Matter: The Situation Has Changed"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27085952",
+          "author": "cassepipe",
+          "description": "Article URL: https://justine.lol/endian.html\nComments URL: https://news.ycombinator.com/item?id=27085952\nPoints: 276\n# Comments: 280",
+          "link": "https://justine.lol/endian.html",
+          "publishedOn": "2021-05-08T11:00:12.000Z",
+          "wordCount": 1579,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "The Byte Order Fiasco"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27085692",
+          "author": "edward",
+          "description": "Article URL: https://twitter.com/jjcollinsworth/status/1390328342533054472\nComments URL: https://news.ycombinator.com/item?id=27085692\nPoints: 125\n# Comments: 125",
+          "link": "https://twitter.com/jjcollinsworth/status/1390328342533054472",
+          "publishedOn": "2021-05-08T10:17:49.000Z",
+          "wordCount": 196,
+          "sourceHref": "https://hnrss.org/frontpage?points=100&comments=25",
+          "sourceTitle": "Hacker News: Front Page",
+          "title": "Afraid to Google a thing because I don't want the algorithm to think I like it"
+        },
+        {
           "description": "Article URL: https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/\nComments URL: https://news.ycombinator.com/item?id=27080859\nPoints: 191\n# Comments: 48",
           "link": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/",
           "publishedOn": "2021-05-07T21:06:19.000Z",
@@ -777,5 +887,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
