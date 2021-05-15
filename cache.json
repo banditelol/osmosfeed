@@ -6,6 +6,123 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27158277",
+          "author": "andy_herbert",
+          "description": "Article URL: https://www.hyperion-entertainment.com/\nComments URL: https://news.ycombinator.com/item?id=27158277\nPoints: 104\n# Comments: 41",
+          "link": "https://www.hyperion-entertainment.com/",
+          "publishedOn": "2021-05-14T18:53:21.000Z",
+          "wordCount": 1405,
+          "title": "AmigaOS 3.2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27158088",
+          "author": "tracyhenry",
+          "description": "Article URL: http://www.paulgraham.com/corpdev.html\nComments URL: https://news.ycombinator.com/item?id=27158088\nPoints: 122\n# Comments: 76",
+          "link": "http://www.paulgraham.com/corpdev.html",
+          "publishedOn": "2021-05-14T18:38:50.000Z",
+          "wordCount": 1275,
+          "title": "Don't Talk to Corp Dev (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27157225",
+          "author": "tmfi",
+          "description": "Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload\nComments URL: https://news.ycombinator.com/item?id=27157225\nPoints: 110\n# Comments: 148",
+          "link": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
+          "publishedOn": "2021-05-14T17:39:15.000Z",
+          "wordCount": null,
+          "title": "Overcoming Tab Overload"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156859",
+          "author": "throwkeep",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 195\n# Comments: 147",
+          "link": "https://www.nature.com/articles/d41586-021-01299-y",
+          "publishedOn": "2021-05-14T17:17:27.000Z",
+          "wordCount": 1370,
+          "title": "Delaying a Covid vaccine’s second dose boosts immune response"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27156106",
+          "author": "ykdojo",
+          "description": "Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/\nComments URL: https://news.ycombinator.com/item?id=27156106\nPoints: 750\n# Comments: 190",
+          "link": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
+          "publishedOn": "2021-05-14T16:28:21.000Z",
+          "wordCount": 265,
+          "title": "A URL Lengthener"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27155497",
+          "author": "feross",
+          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 583\n# Comments: 478",
+          "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
+          "publishedOn": "2021-05-14T15:47:30.000Z",
+          "wordCount": 2049,
+          "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27154368",
+          "author": "Dowwie",
+          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 106\n# Comments: 81",
+          "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
+          "publishedOn": "2021-05-14T13:58:39.000Z",
+          "wordCount": 362,
+          "title": "Work from Home and Productivity"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27153800",
+          "author": "danso",
+          "description": "Article URL: https://news.yahoo.com/online-mug-shots-forever-states-181700675.html\nComments URL: https://news.ycombinator.com/item?id=27153800\nPoints: 118\n# Comments: 118",
+          "link": "https://news.yahoo.com/online-mug-shots-forever-states-181700675.html",
+          "publishedOn": "2021-05-14T13:04:57.000Z",
+          "wordCount": 4741,
+          "title": "Online, mug shots are forever – some states want to change that"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27153254",
+          "author": "herrjemand",
+          "description": "Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566\nComments URL: https://news.ycombinator.com/item?id=27153254\nPoints: 198\n# Comments: 241",
+          "link": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
+          "publishedOn": "2021-05-14T11:57:05.000Z",
+          "wordCount": 1600,
+          "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152920",
+          "author": "linkdd",
+          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 218\n# Comments: 125",
+          "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
+          "publishedOn": "2021-05-14T11:01:06.000Z",
+          "wordCount": 886,
+          "title": "Rust Weird Expressions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152785",
+          "author": "ramshorst",
+          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 179\n# Comments: 64",
+          "link": "https://elderguide.com/tech/elderjs/",
+          "publishedOn": "2021-05-14T10:38:29.000Z",
+          "wordCount": 12943,
+          "title": "Elder.js – An Opinionated, SEO Focused, Svelte Framework"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27152571",
+          "author": "blopeur",
+          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 187\n# Comments: 73",
+          "link": "http://antirez.com/news/135",
+          "publishedOn": "2021-05-14T09:56:38.000Z",
+          "wordCount": 795,
+          "title": "Programming and Writing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27151993",
+          "author": "alexellisuk",
+          "description": "Article URL: https://github.com/AkihiroSuda/lima/tree/master\nComments URL: https://news.ycombinator.com/item?id=27151993\nPoints: 169\n# Comments: 228",
+          "link": "https://github.com/AkihiroSuda/lima/tree/master",
+          "publishedOn": "2021-05-14T08:19:47.000Z",
+          "wordCount": 1626,
+          "title": "Lima: Linux-on-Mac"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27135776",
           "author": "seigando",
           "description": "Article URL: https://twitter.com/elonmusk/status/1392602041025843203\nComments URL: https://news.ycombinator.com/item?id=27135776\nPoints: 232\n# Comments: 196",
@@ -256,6 +373,69 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 1881,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 749,
+          "title": "HTML Boilerplates"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340490",
+          "author": "Chris Coyier",
+          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
+          "publishedOn": "2021-05-13T23:22:45.000Z",
+          "wordCount": 1594,
+          "title": "DevTools for CSS layouts 2021 edition"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340573",
+          "author": "Chris Coyier",
+          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
+          "publishedOn": "2021-05-13T22:55:35.000Z",
+          "wordCount": 605,
+          "title": "2021 Design Systems (Survey/Courses)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340036",
+          "author": "Temani Afif",
+          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
+          "publishedOn": "2021-05-13T14:24:42.000Z",
+          "wordCount": 2745,
+          "title": "Advanced CSS Animation Using cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340118",
+          "author": "Chris Coyier",
+          "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
+          "publishedOn": "2021-05-13T14:24:35.000Z",
+          "wordCount": 986,
+          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
+        },
+        {
           "id": "https://css-tricks.com/?p=339960",
           "author": "Sandrina Pereira",
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -442,6 +622,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
+          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "publishedOn": "2021-05-14T10:30:00.000Z",
+          "wordCount": 2393,
+          "title": "Tree-Shaking: A Reference Guide"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -648,42 +837,6 @@
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "author": "hello@smashingmagazine.com (Stephen Roe)",
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "title": "How To Get Web Design Clients Fast (Part 2)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
-          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
-          "publishedOn": "2021-04-14T11:00:00.000Z",
-          "wordCount": 1917,
-          "title": "Overflow Issues In CSS"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "author": "hello@smashingmagazine.com (Deven Rathore)",
-          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
-          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-          "publishedOn": "2021-04-13T14:00:00.000Z",
-          "wordCount": 3154,
-          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         }
       ]
     },
@@ -692,6 +845,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "609d63e962ab9107fe5aa2ce",
+          "author": "",
+          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
+          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
+          "publishedOn": "2021-05-14T20:31:30.000Z",
+          "wordCount": 1293,
+          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+        },
+        {
+          "id": "609ea83362ab9107fe5aa920",
+          "author": "",
+          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
+          "publishedOn": "2021-05-14T20:17:37.000Z",
+          "wordCount": 3252,
+          "title": "React for Beginners: Complete React Cheatsheet for 2021"
+        },
+        {
+          "id": "609e8c2162ab9107fe5aa77d",
+          "author": "",
+          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
+          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
+          "publishedOn": "2021-05-14T17:13:14.000Z",
+          "wordCount": 1598,
+          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+        },
+        {
+          "id": "609414f32cd0545b5e943526",
+          "author": "",
+          "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
+          "publishedOn": "2021-05-13T21:19:40.000Z",
+          "wordCount": 1733,
+          "title": "How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send"
+        },
+        {
+          "id": "609952396008950828b3ea8d",
+          "author": "",
+          "description": "Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should",
+          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
+          "publishedOn": "2021-05-13T19:27:45.000Z",
+          "wordCount": 1826,
+          "title": "What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects"
+        },
+        {
+          "id": "609bcc6a62ab9107fe5a9f08",
+          "author": "",
+          "description": "Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/",
+          "publishedOn": "2021-05-13T18:17:49.000Z",
+          "wordCount": 1775,
+          "title": "React Tutorial – How to Work with Multiple Checkboxes"
+        },
+        {
+          "id": "609ccb0d62ab9107fe5aa0ce",
+          "author": "",
+          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before",
+          "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
+          "publishedOn": "2021-05-13T16:25:03.000Z",
+          "wordCount": 4002,
+          "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
+        },
         {
           "id": "5fde208ae6787e09839407c3",
           "author": "",
