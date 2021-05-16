@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T00:29:41.983Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T00:33:29.887Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Bibliogram – Open-source front-end for Instagram]]></title>
+        <id>https://news.ycombinator.com/item?id=27167729</id>
+        <link href="https://bibliogram.art"/>
+        <updated>2021-05-15T18:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bibliogram.art
+Comments URL: https://news.ycombinator.com/item?id=27167729
+Points: 117
+# Comments: 30]]></summary>
+        <author>
+            <name>commoner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The True Size of Africa (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27167604</id>
+        <link href="http://kai.sub.blue/en/africa.html"/>
+        <updated>2021-05-15T18:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://kai.sub.blue/en/africa.html
+Comments URL: https://news.ycombinator.com/item?id=27167604
+Points: 157
+# Comments: 101]]></summary>
+        <author>
+            <name>metahost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptoqueen: A woman scammed the world, then vanished (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27166271</id>
+        <link href="https://www.bbc.com/news/stories-50435014"/>
+        <updated>2021-05-15T15:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/stories-50435014
+Comments URL: https://news.ycombinator.com/item?id=27166271
+Points: 206
+# Comments: 141]]></summary>
+        <author>
+            <name>mgh2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsix: Parse Don't Validate]]></title>
+        <id>https://news.ycombinator.com/item?id=27166162</id>
+        <link href="https://github.com/parsix/parsix"/>
+        <updated>2021-05-15T15:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/parsix/parsix
+Comments URL: https://news.ycombinator.com/item?id=27166162
+Points: 112
+# Comments: 60]]></summary>
+        <author>
+            <name>Iazel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Javascript: Everything you missed over the last 10 years (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27165954</id>
+        <link href="https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years"/>
+        <updated>2021-05-15T15:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+Comments URL: https://news.ycombinator.com/item?id=27165954
+Points: 660
+# Comments: 381]]></summary>
+        <author>
+            <name>EntICOnc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nim 2.0 thoughts]]></title>
+        <id>https://news.ycombinator.com/item?id=27165366</id>
+        <link href="https://forum.nim-lang.org/t/7983"/>
+        <updated>2021-05-15T14:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forum.nim-lang.org/t/7983
+Comments URL: https://news.ycombinator.com/item?id=27165366
+Points: 203
+# Comments: 95]]></summary>
+        <author>
+            <name>michaelsbradley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML model can classify sex from retinal photograph, clinicians can't]]></title>
+        <id>https://news.ycombinator.com/item?id=27165307</id>
+        <link href="https://rdcu.be/ckFPK"/>
+        <updated>2021-05-15T13:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rdcu.be/ckFPK
+Comments URL: https://news.ycombinator.com/item?id=27165307
+Points: 136
+# Comments: 113]]></summary>
+        <author>
+            <name>jeffbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design structured diagrams, built to increase your team's trust in your docs]]></title>
+        <id>https://news.ycombinator.com/item?id=27164769</id>
+        <link href="https://icepanel.io/"/>
+        <updated>2021-05-15T12:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://icepanel.io/
+Comments URL: https://news.ycombinator.com/item?id=27164769
+Points: 208
+# Comments: 62]]></summary>
+        <author>
+            <name>JacobDesigns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watches from the Soviet Union]]></title>
+        <id>https://news.ycombinator.com/item?id=27164417</id>
+        <link href="https://www.rbth.com/longreads/soviet-watches/"/>
+        <updated>2021-05-15T11:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rbth.com/longreads/soviet-watches/
+Comments URL: https://news.ycombinator.com/item?id=27164417
+Points: 103
+# Comments: 35]]></summary>
+        <author>
+            <name>gscott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things you can’t do in Rust (and what to do instead)]]></title>
+        <id>https://news.ycombinator.com/item?id=27164000</id>
+        <link href="https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/"/>
+        <updated>2021-05-15T10:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
+Comments URL: https://news.ycombinator.com/item?id=27164000
+Points: 271
+# Comments: 215]]></summary>
+        <author>
+            <name>weinzierl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
         <id>https://css-tricks.com/?p=340136</id>
@@ -36,6 +166,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shirts of Peter Norvig]]></title>
+        <id>https://news.ycombinator.com/item?id=27158680</id>
+        <link href="http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig"/>
+        <updated>2021-05-14T19:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig
+Comments URL: https://news.ycombinator.com/item?id=27158680
+Points: 121
+# Comments: 27]]></summary>
+        <author>
+            <name>reikonomusha</name>
         </author>
     </entry>
     <entry>
@@ -1360,16 +1503,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven Mistakes To Avoid In Your Technical Interviews]]></title>
-        <id>https://smashingmagazine.com/2021/04/mistakes-technical-interviews/</id>
-        <link href="https://smashingmagazine.com/2021/04/mistakes-technical-interviews/"/>
-        <updated>2021-04-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emma Bostian)</name>
         </author>
     </entry>
 </feed>
