@@ -2,10 +2,241 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:33:29.887Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-18T00:33:40.830Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
+        <id>https://news.ycombinator.com/item?id=27188854</id>
+        <link href="https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand"/>
+        <updated>2021-05-17T21:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
+Comments URL: https://news.ycombinator.com/item?id=27188854
+Points: 121
+# Comments: 50]]></summary>
+        <author>
+            <name>diplodocusaur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering “lost” treasure-filled floppy discs with an oscilloscope]]></title>
+        <id>https://news.ycombinator.com/item?id=27187435</id>
+        <link href="https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html"/>
+        <updated>2021-05-17T19:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html
+Comments URL: https://news.ycombinator.com/item?id=27187435
+Points: 164
+# Comments: 26]]></summary>
+        <author>
+            <name>scarybeast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index]]></title>
+        <id>https://news.ycombinator.com/item?id=27186959</id>
+        <link href="https://www.sec.gov/news/press-release/2021-84"/>
+        <updated>2021-05-17T19:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-84
+Comments URL: https://news.ycombinator.com/item?id=27186959
+Points: 142
+# Comments: 45]]></summary>
+        <author>
+            <name>epa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes]]></title>
+        <id>https://news.ycombinator.com/item?id=27186778</id>
+        <link href="https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/"/>
+        <updated>2021-05-17T18:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/
+Comments URL: https://news.ycombinator.com/item?id=27186778
+Points: 104
+# Comments: 61]]></summary>
+        <author>
+            <name>IMAYousaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the Gaza Strip blurry on Google Maps?]]></title>
+        <id>https://news.ycombinator.com/item?id=27186675</id>
+        <link href="https://www.bbc.com/news/57102499"/>
+        <updated>2021-05-17T18:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57102499
+Comments URL: https://news.ycombinator.com/item?id=27186675
+Points: 618
+# Comments: 306]]></summary>
+        <author>
+            <name>vanusa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
+        <id>https://news.ycombinator.com/item?id=27186436</id>
+        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
+        <updated>2021-05-17T18:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/
+Comments URL: https://news.ycombinator.com/item?id=27186436
+Points: 175
+# Comments: 137]]></summary>
+        <author>
+            <name>pessimizer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uxn: a portable 8-bit virtual computer]]></title>
+        <id>https://news.ycombinator.com/item?id=27185950</id>
+        <link href="https://100r.co/site/uxn.html"/>
+        <updated>2021-05-17T17:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://100r.co/site/uxn.html
+Comments URL: https://news.ycombinator.com/item?id=27185950
+Points: 160
+# Comments: 28]]></summary>
+        <author>
+            <name>bpierre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
+        <id>https://css-tricks.com/?p=339522</id>
+        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
+        <updated>2021-05-17T14:27:22.000Z</updated>
+        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
+The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ashley Kolodziej</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euismod]]></title>
+        <id>https://css-tricks.com/?p=340594</id>
+        <link href="https://www.euismod.dev/"/>
+        <updated>2021-05-17T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
+The post Euismod appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghosts of Unix past, part 3: Unfixable designs (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=27183784</id>
+        <link href="https://lwn.net/Articles/414618/"/>
+        <updated>2021-05-17T14:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/414618/
+Comments URL: https://news.ycombinator.com/item?id=27183784
+Points: 141
+# Comments: 61]]></summary>
+        <author>
+            <name>wmanley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music Announces Spatial Audio and Lossless Audio]]></title>
+        <id>https://news.ycombinator.com/item?id=27182946</id>
+        <link href="https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/"/>
+        <updated>2021-05-17T13:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/
+Comments URL: https://news.ycombinator.com/item?id=27182946
+Points: 614
+# Comments: 591]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive]]></title>
+        <id>https://news.ycombinator.com/item?id=27182536</id>
+        <link href="https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024"/>
+        <updated>2021-05-17T12:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024
+Comments URL: https://news.ycombinator.com/item?id=27182536
+Points: 143
+# Comments: 61]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umami – An alternative to Google Analytics]]></title>
+        <id>https://news.ycombinator.com/item?id=27181622</id>
+        <link href="https://github.com/mikecao/umami"/>
+        <updated>2021-05-17T09:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/mikecao/umami
+Comments URL: https://news.ycombinator.com/item?id=27181622
+Points: 175
+# Comments: 34]]></summary>
+        <author>
+            <name>sandebert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Bibliogram – Open-source front-end for Instagram]]></title>
         <id>https://news.ycombinator.com/item?id=27167729</id>
@@ -134,6 +365,19 @@ Points: 271
 # Comments: 215]]></summary>
         <author>
             <name>weinzierl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Scientists Urge Broad Inquiry into Coronavirus Origins]]></title>
+        <id>https://news.ycombinator.com/item?id=27160898</id>
+        <link href="https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html"/>
+        <updated>2021-05-14T23:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html
+Comments URL: https://news.ycombinator.com/item?id=27160898
+Points: 308
+# Comments: 223]]></summary>
+        <author>
+            <name>temp8964</name>
         </author>
     </entry>
     <entry>
