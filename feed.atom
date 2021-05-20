@@ -2,10 +2,351 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T00:33:40.830Z</updated>
+    <updated>2021-05-20T00:29:27.127Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notion API]]></title>
+        <id>https://css-tricks.com/?p=340731</id>
+        <link href="https://css-tricks.com/notion-api/"/>
+        <updated>2021-05-19T23:18:42.000Z</updated>
+        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
+The post Notion API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
+        <id>60a42386906c5207e3a7dfe2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
+        <updated>2021-05-19T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube ads in Safari: you see them now, will you see them in the future?]]></title>
+        <id>https://news.ycombinator.com/item?id=27212812</id>
+        <link href="https://adguard.com/en/blog/youtube-ads-in-safari-explained.html"/>
+        <updated>2021-05-19T18:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html
+Comments URL: https://news.ycombinator.com/item?id=27212812
+Points: 119
+# Comments: 134]]></summary>
+        <author>
+            <name>taxyovio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking the San Francisco Tech Exodus]]></title>
+        <id>https://news.ycombinator.com/item?id=27212423</id>
+        <link href="https://sfciti.org/sf-tech-exodus/"/>
+        <updated>2021-05-19T18:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sfciti.org/sf-tech-exodus/
+Comments URL: https://news.ycombinator.com/item?id=27212423
+Points: 167
+# Comments: 204]]></summary>
+        <author>
+            <name>kyleblarson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing learnings about our image cropping algorithm]]></title>
+        <id>https://news.ycombinator.com/item?id=27212270</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html"/>
+        <updated>2021-05-19T18:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
+Comments URL: https://news.ycombinator.com/item?id=27212270
+Points: 128
+# Comments: 64]]></summary>
+        <author>
+            <name>dsr12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Explorer 11 (IE11) to be retired on June 15, 2022]]></title>
+        <id>https://news.ycombinator.com/item?id=27212127</id>
+        <link href="https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/"/>
+        <updated>2021-05-19T18:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
+Comments URL: https://news.ycombinator.com/item?id=27212127
+Points: 298
+# Comments: 161]]></summary>
+        <author>
+            <name>smukherjee19</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
+        <id>60a469ec906c5207e3a7e1b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
+        <updated>2021-05-19T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Previews of software updates designed for people with disabilities]]></title>
+        <id>https://news.ycombinator.com/item?id=27211583</id>
+        <link href="https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/"/>
+        <updated>2021-05-19T17:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/
+Comments URL: https://news.ycombinator.com/item?id=27211583
+Points: 339
+# Comments: 145]]></summary>
+        <author>
+            <name>ArmandGrillet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC and several states sue Frontier Communications regarding internet speeds]]></title>
+        <id>https://news.ycombinator.com/item?id=27211517</id>
+        <link href="https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4"/>
+        <updated>2021-05-19T17:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4
+Comments URL: https://news.ycombinator.com/item?id=27211517
+Points: 296
+# Comments: 125]]></summary>
+        <author>
+            <name>marc__1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)]]></title>
+        <id>https://news.ycombinator.com/item?id=27210460</id>
+        <link href="https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/"/>
+        <updated>2021-05-19T16:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/
+Comments URL: https://news.ycombinator.com/item?id=27210460
+Points: 133
+# Comments: 27]]></summary>
+        <author>
+            <name>csmajorfive</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Firefox stability on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=27209412</id>
+        <link href="https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/"/>
+        <updated>2021-05-19T14:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/
+Comments URL: https://news.ycombinator.com/item?id=27209412
+Points: 418
+# Comments: 151]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
+        <id>https://css-tricks.com/?p=340692</id>
+        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
+        <updated>2021-05-19T14:28:19.000Z</updated>
+        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
+The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shubham Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Libera Chat]]></title>
+        <id>https://news.ycombinator.com/item?id=27207734</id>
+        <link href="https://libera.chat/news/welcome-to-libera-chat"/>
+        <updated>2021-05-19T12:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://libera.chat/news/welcome-to-libera-chat
+Comments URL: https://news.ycombinator.com/item?id=27207734
+Points: 1073
+# Comments: 389]]></summary>
+        <author>
+            <name>smitop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squeezebox Keyboard]]></title>
+        <id>https://news.ycombinator.com/item?id=27207333</id>
+        <link href="https://peterlyons.com/problog/2021/04/squeezebox-keyboard/"/>
+        <updated>2021-05-19T11:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://peterlyons.com/problog/2021/04/squeezebox-keyboard/
+Comments URL: https://news.ycombinator.com/item?id=27207333
+Points: 199
+# Comments: 81]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over the past 10 years, the LHC has found more than 50 new hadrons]]></title>
+        <id>https://news.ycombinator.com/item?id=27207330</id>
+        <link href="https://home.cern/news/news/physics/59-new-hadrons-and-counting"/>
+        <updated>2021-05-19T11:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://home.cern/news/news/physics/59-new-hadrons-and-counting
+Comments URL: https://news.ycombinator.com/item?id=27207330
+Points: 100
+# Comments: 29]]></summary>
+        <author>
+            <name>graderjs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
+        <updated>2021-05-19T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Amish as a source of tech-savvy guidance]]></title>
+        <id>https://news.ycombinator.com/item?id=27207049</id>
+        <link href="https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish"/>
+        <updated>2021-05-19T11:17:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish
+Comments URL: https://news.ycombinator.com/item?id=27207049
+Points: 143
+# Comments: 104]]></summary>
+        <author>
+            <name>choult</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A teenager's guide to avoiding actual work]]></title>
+        <id>https://news.ycombinator.com/item?id=27206552</id>
+        <link href="https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual"/>
+        <updated>2021-05-19T10:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual
+Comments URL: https://news.ycombinator.com/item?id=27206552
+Points: 995
+# Comments: 181]]></summary>
+        <author>
+            <name>mad_ned</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
+        <id>60a53182906c5207e3a7e588</id>
+        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
+        <updated>2021-05-18T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=340613</id>
+        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
+        <updated>2021-05-18T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
+A fella wrote to me a while back outlining a situation he was in. His company has …
+The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
+        <id>60a3780f906c5207e3a7db5f</id>
+        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
+        <updated>2021-05-18T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
+        <id>6068f146d5756f080ba9402d</id>
+        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
+        <updated>2021-05-18T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
+        <id>609bea6b62ab9107fe5a9f89</id>
+        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
+        <updated>2021-05-18T16:36:22.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
+        <id>609fc4cc62ab9107fe5aac91</id>
+        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
+        <updated>2021-05-18T16:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
+        <id>60685767d5756f080ba93df4</id>
+        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
+        <updated>2021-05-18T16:08:27.000Z</updated>
+        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/?p=340420</id>
+        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
+        <updated>2021-05-18T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
+The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Silvia O'Dwyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From apes to birds, animal species that “laugh”]]></title>
+        <id>https://news.ycombinator.com/item?id=27193602</id>
+        <link href="https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/"/>
+        <updated>2021-05-18T12:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/
+Comments URL: https://news.ycombinator.com/item?id=27193602
+Points: 107
+# Comments: 44]]></summary>
+        <author>
+            <name>Engineering-MD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
+        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
+        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
+        <updated>2021-05-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
         <id>https://css-tricks.com/?p=340716</id>
@@ -39,6 +380,16 @@ Points: 121
         <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
         <updated>2021-05-17T21:11:58.000Z</updated>
         <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
+        <id>60a536e1906c5207e3a7e6b5</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
+        <updated>2021-05-17T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
         <author>
             <name/>
         </author>
@@ -1727,26 +2078,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Saunders)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making GraphQL Work In WordPress]]></title>
-        <id>https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/</id>
-        <link href="https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/"/>
-        <updated>2021-04-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An In-Depth Guide To Measuring Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/"/>
-        <updated>2021-04-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>
