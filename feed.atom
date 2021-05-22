@@ -2,10 +2,303 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-20T00:29:27.127Z</updated>
+    <updated>2021-05-22T00:31:19.831Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
+        <id>https://css-tricks.com/?p=340991</id>
+        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
+        <updated>2021-05-21T23:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
+The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada declares plastics toxic, paving the way for restrictions]]></title>
+        <id>https://news.ycombinator.com/item?id=27240796</id>
+        <link href="https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/"/>
+        <updated>2021-05-21T22:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/
+Comments URL: https://news.ycombinator.com/item?id=27240796
+Points: 212
+# Comments: 96]]></summary>
+        <author>
+            <name>robin_reala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft and Apple wage war on gadget right-to-repair laws]]></title>
+        <id>https://news.ycombinator.com/item?id=27240008</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws"/>
+        <updated>2021-05-21T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws
+Comments URL: https://news.ycombinator.com/item?id=27240008
+Points: 161
+# Comments: 71]]></summary>
+        <author>
+            <name>holmesworcester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlutterFlow: Low-code Flutter apps]]></title>
+        <id>https://news.ycombinator.com/item?id=27238381</id>
+        <link href="https://flutterflow.io/launch"/>
+        <updated>2021-05-21T18:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flutterflow.io/launch
+Comments URL: https://news.ycombinator.com/item?id=27238381
+Points: 151
+# Comments: 54]]></summary>
+        <author>
+            <name>dested</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Talk About Hot Tub Streams]]></title>
+        <id>https://news.ycombinator.com/item?id=27238317</id>
+        <link href="https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/"/>
+        <updated>2021-05-21T18:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/
+Comments URL: https://news.ycombinator.com/item?id=27238317
+Points: 105
+# Comments: 162]]></summary>
+        <author>
+            <name>danso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaked emails show crime app Citizen is testing on-demand security force]]></title>
+        <id>https://news.ycombinator.com/item?id=27237520</id>
+        <link href="https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails"/>
+        <updated>2021-05-21T17:56:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails
+Comments URL: https://news.ycombinator.com/item?id=27237520
+Points: 255
+# Comments: 307]]></summary>
+        <author>
+            <name>codq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text editing hates you too (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27236874</id>
+        <link href="https://lord.io/text-editing-hates-you-too/"/>
+        <updated>2021-05-21T17:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lord.io/text-editing-hates-you-too/
+Comments URL: https://news.ycombinator.com/item?id=27236874
+Points: 229
+# Comments: 122]]></summary>
+        <author>
+            <name>tate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice2json: Offline speech and intent recognition on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=27235970</id>
+        <link href="https://voice2json.org/"/>
+        <updated>2021-05-21T16:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://voice2json.org/
+Comments URL: https://news.ycombinator.com/item?id=27235970
+Points: 355
+# Comments: 78]]></summary>
+        <author>
+            <name>easrng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
+        <id>6098ce302cd0545b5e944d0b</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
+        <updated>2021-05-21T15:33:45.000Z</updated>
+        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
+        <id>https://css-tricks.com/?p=340825</id>
+        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
+        <updated>2021-05-21T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
+The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Hell]]></title>
+        <id>https://css-tricks.com/?p=340919</id>
+        <link href="https://csshell.dev/"/>
+        <updated>2021-05-21T14:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
+From Stefánia Péter. 
+Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
+The post CSS Hell appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Ford F-150 Lightning]]></title>
+        <id>https://news.ycombinator.com/item?id=27234039</id>
+        <link href="https://www.ford.com/trucks/f150/f150-lightning/2022/"/>
+        <updated>2021-05-21T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/
+Comments URL: https://news.ycombinator.com/item?id=27234039
+Points: 570
+# Comments: 1207]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Journey (YC W21) – a better tool for selling software]]></title>
+        <id>https://news.ycombinator.com/item?id=27233718</id>
+        <link href="https://news.ycombinator.com/item?id=27233718"/>
+        <updated>2021-05-21T13:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Hi, we’re pclark, bweitz and anilsevim, the founders of Journey (https://journey.io). We want to make buying and selling software a better experience. We do this by allowing sellers and marketers to combine all sorts of content—slides, videos, forms, calendars, text—into one sharable webpage, which they can then easily personalize for specific prospects. Think of it like a website that is specifically designed for a specific individual to take a specific action, which answers any questions or objections the…]]></summary>
+        <author>
+            <name>pclark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS]]></title>
+        <id>https://news.ycombinator.com/item?id=27233019</id>
+        <link href="https://web.dev/learn/css/"/>
+        <updated>2021-05-21T12:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://web.dev/learn/css/
+Comments URL: https://news.ycombinator.com/item?id=27233019
+Points: 714
+# Comments: 169]]></summary>
+        <author>
+            <name>markodenic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
+        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
+        <updated>2021-05-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON in CSS]]></title>
+        <id>https://css-tricks.com/?p=340599</id>
+        <link href="https://css-tricks.com/json-in-css/"/>
+        <updated>2021-05-20T22:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
+The post JSON in CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS!]]></title>
+        <id>https://css-tricks.com/?p=340933</id>
+        <link href="https://web.dev/learn/css/"/>
+        <updated>2021-05-20T21:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
+The post Learn CSS! appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
+        <id>60a6b3ab906c5207e3a7f5fa</id>
+        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
+        <updated>2021-05-20T19:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
+        <id>60a694ab906c5207e3a7f544</id>
+        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
+        <updated>2021-05-20T17:12:29.000Z</updated>
+        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
+        <id>60a4b5c7906c5207e3a7e2bb</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
+        <updated>2021-05-20T15:20:53.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
+        <id>60a36742906c5207e3a7da6e</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
+        <updated>2021-05-20T14:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
+        <id>https://css-tricks.com/?p=340715</id>
+        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
+        <updated>2021-05-20T14:24:12.000Z</updated>
+        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
+The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
+        <id>https://css-tricks.com/?p=340897</id>
+        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
+        <updated>2021-05-20T14:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
+The post fit-content and fit-content() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
+        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
+        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
+        <updated>2021-05-20T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
+        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
+        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
+        <updated>2021-05-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion API]]></title>
         <id>https://css-tricks.com/?p=340731</id>
@@ -16,6 +309,16 @@ The post Notion API appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
+        <id>60a341f5906c5207e3a7da61</id>
+        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
+        <updated>2021-05-19T23:17:21.000Z</updated>
+        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
+        <author>
+            <name/>
         </author>
     </entry>
     <entry>
@@ -2058,26 +2361,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
-        <updated>2021-04-21T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lee Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
-        <updated>2021-04-21T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matt Saunders)</name>
         </author>
     </entry>
 </feed>
