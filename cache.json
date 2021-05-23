@@ -6,6 +6,96 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27250068",
+          "author": "WarOnPrivacy",
+          "description": "Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/\nComments URL: https://news.ycombinator.com/item?id=27250068\nPoints: 157\n# Comments: 84",
+          "link": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+          "publishedOn": "2021-05-22T20:40:31.000Z",
+          "wordCount": 1445,
+          "title": "Sixth grader expelled after Zoom provided possibly inaccurate IP address"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27249555",
+          "author": "Avamander",
+          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 127\n# Comments: 101",
+          "link": "https://github.com/mikroskeem/tosh",
+          "publishedOn": "2021-05-22T19:26:09.000Z",
+          "wordCount": 922,
+          "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27249082",
+          "author": "Aaronmacaron",
+          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 320\n# Comments: 83",
+          "link": "https://instruments.digital/inflation-adjusted-hn/",
+          "publishedOn": "2021-05-22T18:30:57.000Z",
+          "wordCount": 382,
+          "title": "Show HN: Inflation-adjusted Hacker News"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27249075",
+          "author": "luke2m",
+          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 175\n# Comments: 54",
+          "link": "http://www.kolibrios.org/en/",
+          "publishedOn": "2021-05-22T18:29:47.000Z",
+          "wordCount": 206,
+          "title": "KolibriOS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27247621",
+          "author": "bananaoomarang",
+          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 295\n# Comments: 144",
+          "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
+          "publishedOn": "2021-05-22T15:47:37.000Z",
+          "wordCount": 2370,
+          "title": "An early look at Postgres 14: Performance and monitoring Improvements"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27247612",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 101\n# Comments: 45",
+          "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+          "publishedOn": "2021-05-22T15:46:56.000Z",
+          "wordCount": 1548,
+          "title": "Floppinux – An Embedded Linux on a Single Floppy"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27245696",
+          "author": "umangkeshri",
+          "description": "Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/\nComments URL: https://news.ycombinator.com/item?id=27245696\nPoints: 115\n# Comments: 31",
+          "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+          "publishedOn": "2021-05-22T12:02:54.000Z",
+          "wordCount": 3858,
+          "title": "An Introduction to Knowledge Graphs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27245680",
+          "author": "Jaxtek",
+          "description": "Article URL: https://nav.al/rich\nComments URL: https://news.ycombinator.com/item?id=27245680\nPoints: 206\n# Comments: 327",
+          "link": "https://nav.al/rich",
+          "publishedOn": "2021-05-22T12:00:49.000Z",
+          "wordCount": 43429,
+          "title": "How to get rich without being lucky (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27245450",
+          "author": "richardw",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun\nComments URL: https://news.ycombinator.com/item?id=27245450\nPoints: 177\n# Comments: 124",
+          "link": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
+          "publishedOn": "2021-05-22T11:20:21.000Z",
+          "wordCount": 1801,
+          "title": "Initial Stress-Derived Noun"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27245310",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/p-e-w/plotinus\nComments URL: https://news.ycombinator.com/item?id=27245310\nPoints: 128\n# Comments: 34",
+          "link": "https://github.com/p-e-w/plotinus",
+          "publishedOn": "2021-05-22T10:52:00.000Z",
+          "wordCount": 1593,
+          "title": "Plotinus: A searchable command palette in every modern GTK+ application"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27240796",
           "author": "robin_reala",
           "description": "Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/\nComments URL: https://news.ycombinator.com/item?id=27240796\nPoints: 212\n# Comments: 96",
@@ -94,6 +184,42 @@
           "publishedOn": "2021-05-21T12:10:56.000Z",
           "wordCount": 1040,
           "title": "Learn CSS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27232552",
+          "author": "edent",
+          "description": "Article URL: https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/\nComments URL: https://news.ycombinator.com/item?id=27232552\nPoints: 137\n# Comments: 72",
+          "link": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+          "publishedOn": "2021-05-21T11:04:08.000Z",
+          "wordCount": 962,
+          "title": "What’s your API’s “Time To 200”?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27232297",
+          "author": "diibv",
+          "description": "Article URL: https://blog.freesound.org/?p=1340\nComments URL: https://news.ycombinator.com/item?id=27232297\nPoints: 302\n# Comments: 27",
+          "link": "https://blog.freesound.org/?p=1340",
+          "publishedOn": "2021-05-21T10:25:05.000Z",
+          "wordCount": 806,
+          "title": "Freesound just reached 500K Creative Commons sounds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27231521",
+          "author": "antonmry",
+          "description": "Article URL: https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html\nComments URL: https://news.ycombinator.com/item?id=27231521\nPoints: 162\n# Comments: 91",
+          "link": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
+          "publishedOn": "2021-05-21T07:52:39.000Z",
+          "wordCount": 2637,
+          "title": "My thoughts about the Principal role"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27231269",
+          "author": "nkjoep",
+          "description": "Article URL: https://github.com/cassiozen/useStateMachine\nComments URL: https://news.ycombinator.com/item?id=27231269\nPoints: 210\n# Comments: 83",
+          "link": "https://github.com/cassiozen/useStateMachine",
+          "publishedOn": "2021-05-21T07:01:14.000Z",
+          "wordCount": 1465,
+          "title": "useStateMachine: A ½ kb state machine hook for React"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27212812",
@@ -1386,24 +1512,6 @@
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2431,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         }
       ]
     },

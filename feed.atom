@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T00:31:19.831Z</updated>
+    <updated>2021-05-23T00:35:03.169Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sixth grader expelled after Zoom provided possibly inaccurate IP address]]></title>
+        <id>https://news.ycombinator.com/item?id=27250068</id>
+        <link href="https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/"/>
+        <updated>2021-05-22T20:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/
+Comments URL: https://news.ycombinator.com/item?id=27250068
+Points: 157
+# Comments: 84]]></summary>
+        <author>
+            <name>WarOnPrivacy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP]]></title>
+        <id>https://news.ycombinator.com/item?id=27249555</id>
+        <link href="https://github.com/mikroskeem/tosh"/>
+        <updated>2021-05-22T19:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/mikroskeem/tosh
+Comments URL: https://news.ycombinator.com/item?id=27249555
+Points: 127
+# Comments: 101]]></summary>
+        <author>
+            <name>Avamander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Inflation-adjusted Hacker News]]></title>
+        <id>https://news.ycombinator.com/item?id=27249082</id>
+        <link href="https://instruments.digital/inflation-adjusted-hn/"/>
+        <updated>2021-05-22T18:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
+Comments URL: https://news.ycombinator.com/item?id=27249082
+Points: 320
+# Comments: 83]]></summary>
+        <author>
+            <name>Aaronmacaron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KolibriOS]]></title>
+        <id>https://news.ycombinator.com/item?id=27249075</id>
+        <link href="http://www.kolibrios.org/en/"/>
+        <updated>2021-05-22T18:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
+Comments URL: https://news.ycombinator.com/item?id=27249075
+Points: 175
+# Comments: 54]]></summary>
+        <author>
+            <name>luke2m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An early look at Postgres 14: Performance and monitoring Improvements]]></title>
+        <id>https://news.ycombinator.com/item?id=27247621</id>
+        <link href="https://pganalyze.com/blog/postgres-14-performance-monitoring"/>
+        <updated>2021-05-22T15:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
+Comments URL: https://news.ycombinator.com/item?id=27247621
+Points: 295
+# Comments: 144]]></summary>
+        <author>
+            <name>bananaoomarang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floppinux – An Embedded Linux on a Single Floppy]]></title>
+        <id>https://news.ycombinator.com/item?id=27247612</id>
+        <link href="https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/"/>
+        <updated>2021-05-22T15:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
+Comments URL: https://news.ycombinator.com/item?id=27247612
+Points: 101
+# Comments: 45]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Knowledge Graphs]]></title>
+        <id>https://news.ycombinator.com/item?id=27245696</id>
+        <link href="http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/"/>
+        <updated>2021-05-22T12:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
+Comments URL: https://news.ycombinator.com/item?id=27245696
+Points: 115
+# Comments: 31]]></summary>
+        <author>
+            <name>umangkeshri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get rich without being lucky (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27245680</id>
+        <link href="https://nav.al/rich"/>
+        <updated>2021-05-22T12:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nav.al/rich
+Comments URL: https://news.ycombinator.com/item?id=27245680
+Points: 206
+# Comments: 327]]></summary>
+        <author>
+            <name>Jaxtek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial Stress-Derived Noun]]></title>
+        <id>https://news.ycombinator.com/item?id=27245450</id>
+        <link href="https://en.wikipedia.org/wiki/Initial-stress-derived_noun"/>
+        <updated>2021-05-22T11:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
+Comments URL: https://news.ycombinator.com/item?id=27245450
+Points: 177
+# Comments: 124]]></summary>
+        <author>
+            <name>richardw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plotinus: A searchable command palette in every modern GTK+ application]]></title>
+        <id>https://news.ycombinator.com/item?id=27245310</id>
+        <link href="https://github.com/p-e-w/plotinus"/>
+        <updated>2021-05-22T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/p-e-w/plotinus
+Comments URL: https://news.ycombinator.com/item?id=27245310
+Points: 128
+# Comments: 34]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
         <id>https://css-tricks.com/?p=340991</id>
@@ -189,6 +319,58 @@ Points: 714
         <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s your API’s “Time To 200”?]]></title>
+        <id>https://news.ycombinator.com/item?id=27232552</id>
+        <link href="https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/"/>
+        <updated>2021-05-21T11:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/
+Comments URL: https://news.ycombinator.com/item?id=27232552
+Points: 137
+# Comments: 72]]></summary>
+        <author>
+            <name>edent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freesound just reached 500K Creative Commons sounds]]></title>
+        <id>https://news.ycombinator.com/item?id=27232297</id>
+        <link href="https://blog.freesound.org/?p=1340"/>
+        <updated>2021-05-21T10:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.freesound.org/?p=1340
+Comments URL: https://news.ycombinator.com/item?id=27232297
+Points: 302
+# Comments: 27]]></summary>
+        <author>
+            <name>diibv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My thoughts about the Principal role]]></title>
+        <id>https://news.ycombinator.com/item?id=27231521</id>
+        <link href="https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html"/>
+        <updated>2021-05-21T07:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html
+Comments URL: https://news.ycombinator.com/item?id=27231521
+Points: 162
+# Comments: 91]]></summary>
+        <author>
+            <name>antonmry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[useStateMachine: A ½ kb state machine hook for React]]></title>
+        <id>https://news.ycombinator.com/item?id=27231269</id>
+        <link href="https://github.com/cassiozen/useStateMachine"/>
+        <updated>2021-05-21T07:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/cassiozen/useStateMachine
+Comments URL: https://news.ycombinator.com/item?id=27231269
+Points: 210
+# Comments: 83]]></summary>
+        <author>
+            <name>nkjoep</name>
         </author>
     </entry>
     <entry>
@@ -2341,26 +2523,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
-        <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
-        <updated>2021-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
