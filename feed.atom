@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:35:03.169Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-25T00:33:09.622Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance]]></title>
+        <id>https://css-tricks.com/?p=340808</id>
+        <link href="https://css-tricks.com/links-on-performance/"/>
+        <updated>2021-05-24T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
+…
+The post Links on Performance appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=27270070</id>
+        <link href="https://inkscape.org/news/2021/05/24/welcome-inkscape-11/"/>
+        <updated>2021-05-24T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/
+Comments URL: https://news.ycombinator.com/item?id=27270070
+Points: 196
+# Comments: 61]]></summary>
+        <author>
+            <name>RaitoBezarius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
+        <id>60aaba5911ffb70827ef5ffc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
+        <updated>2021-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
+        <id>60ac07ec11ffb70827ef66e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
+        <updated>2021-05-24T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit now supports every programming language in Nix]]></title>
+        <id>https://news.ycombinator.com/item?id=27269292</id>
+        <link href="https://blog.replit.com/nix"/>
+        <updated>2021-05-24T20:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.replit.com/nix
+Comments URL: https://news.ycombinator.com/item?id=27269292
+Points: 113
+# Comments: 27]]></summary>
+        <author>
+            <name>bobrenjc93</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urbit: The good, the bad, and the insane]]></title>
+        <id>https://news.ycombinator.com/item?id=27268462</id>
+        <link href="https://wejn.org/2021/02/urbit-good-bad-insane/"/>
+        <updated>2021-05-24T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/
+Comments URL: https://news.ycombinator.com/item?id=27268462
+Points: 162
+# Comments: 80]]></summary>
+        <author>
+            <name>deegles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Pythonic Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27267066</id>
+        <link href="http://www.cmyr.net/blog/rust-python-learnings.html"/>
+        <updated>2021-05-24T17:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.cmyr.net/blog/rust-python-learnings.html
+Comments URL: https://news.ycombinator.com/item?id=27267066
+Points: 165
+# Comments: 124]]></summary>
+        <author>
+            <name>zbentley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complexity is a source of income in open source ecosystems (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27266485</id>
+        <link href="https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/"/>
+        <updated>2021-05-24T16:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/
+Comments URL: https://news.ycombinator.com/item?id=27266485
+Points: 233
+# Comments: 146]]></summary>
+        <author>
+            <name>teleforce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did bar ends go away from mountain bikes?]]></title>
+        <id>https://news.ycombinator.com/item?id=27265645</id>
+        <link href="https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/"/>
+        <updated>2021-05-24T15:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/
+Comments URL: https://news.ycombinator.com/item?id=27265645
+Points: 127
+# Comments: 207]]></summary>
+        <author>
+            <name>de_keyboard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
+        <id>60a5248c906c5207e3a7e54b</id>
+        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
+        <updated>2021-05-24T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOOM Captcha]]></title>
+        <id>https://news.ycombinator.com/item?id=27264988</id>
+        <link href="https://vivirenremoto.github.io/doomcaptcha/"/>
+        <updated>2021-05-24T14:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vivirenremoto.github.io/doomcaptcha/
+Comments URL: https://news.ycombinator.com/item?id=27264988
+Points: 322
+# Comments: 102]]></summary>
+        <author>
+            <name>jukkakoskinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Flashcards to learn AWS skills]]></title>
+        <id>https://news.ycombinator.com/item?id=27264500</id>
+        <link href="https://cloudbite.attejuvonen.fi/"/>
+        <updated>2021-05-24T14:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cloudbite.attejuvonen.fi/
+Comments URL: https://news.ycombinator.com/item?id=27264500
+Points: 273
+# Comments: 88]]></summary>
+        <author>
+            <name>baobabKoodaa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
+        <id>https://css-tricks.com/?p=340626</id>
+        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
+        <updated>2021-05-24T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
+The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
+        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
+        <updated>2021-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complexities of e-mail validation logic]]></title>
+        <id>https://news.ycombinator.com/item?id=27263141</id>
+        <link href="https://www.netmeister.org/blog/email.html"/>
+        <updated>2021-05-24T11:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.netmeister.org/blog/email.html
+Comments URL: https://news.ycombinator.com/item?id=27263141
+Points: 255
+# Comments: 340]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In praise of --dry-run]]></title>
+        <id>https://news.ycombinator.com/item?id=27263136</id>
+        <link href="https://www.gresearch.co.uk/article/in-praise-of-dry-run/"/>
+        <updated>2021-05-24T11:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gresearch.co.uk/article/in-praise-of-dry-run/
+Comments URL: https://news.ycombinator.com/item?id=27263136
+Points: 319
+# Comments: 128]]></summary>
+        <author>
+            <name>Smaug123</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temptation of the Apple: Dolphin on macOS M1]]></title>
+        <id>https://news.ycombinator.com/item?id=27262960</id>
+        <link href="https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/"/>
+        <updated>2021-05-24T10:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/
+Comments URL: https://news.ycombinator.com/item?id=27262960
+Points: 481
+# Comments: 322]]></summary>
+        <author>
+            <name>svenpeter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheese photo leads to Liverpool drug dealer's downfall]]></title>
+        <id>https://news.ycombinator.com/item?id=27262788</id>
+        <link href="https://www.bbc.co.uk/news/uk-england-merseyside-57226165"/>
+        <updated>2021-05-24T10:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/uk-england-merseyside-57226165
+Comments URL: https://news.ycombinator.com/item?id=27262788
+Points: 292
+# Comments: 179]]></summary>
+        <author>
+            <name>mnw21cam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Wormhole: Get things from one computer to another, safely]]></title>
+        <id>https://news.ycombinator.com/item?id=27262193</id>
+        <link href="https://github.com/magic-wormhole/magic-wormhole"/>
+        <updated>2021-05-24T08:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/magic-wormhole/magic-wormhole
+Comments URL: https://news.ycombinator.com/item?id=27262193
+Points: 190
+# Comments: 113]]></summary>
+        <author>
+            <name>jstanley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sixth grader expelled after Zoom provided possibly inaccurate IP address]]></title>
         <id>https://news.ycombinator.com/item?id=27250068</id>
