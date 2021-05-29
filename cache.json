@@ -6,6 +6,132 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27319923",
+          "author": "arcanus",
+          "description": "Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent\nComments URL: https://news.ycombinator.com/item?id=27319923\nPoints: 127\n# Comments: 101",
+          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
+          "publishedOn": "2021-05-28T20:14:00.000Z",
+          "wordCount": 4079,
+          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27319457",
+          "author": "astlouis44",
+          "description": "Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/\nComments URL: https://news.ycombinator.com/item?id=27319457\nPoints: 239\n# Comments: 132",
+          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
+          "publishedOn": "2021-05-28T19:23:34.000Z",
+          "wordCount": 3482,
+          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27319099",
+          "author": "spenvo",
+          "description": "Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/\nComments URL: https://news.ycombinator.com/item?id=27319099\nPoints: 384\n# Comments: 167",
+          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
+          "publishedOn": "2021-05-28T18:48:34.000Z",
+          "wordCount": 1488,
+          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27319070",
+          "author": "user_235711",
+          "description": "Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds\nComments URL: https://news.ycombinator.com/item?id=27319070\nPoints: 211\n# Comments: 134",
+          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
+          "publishedOn": "2021-05-28T18:46:39.000Z",
+          "wordCount": 911,
+          "title": "Overwork killed more than 745k people in a year, WHO study finds"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27318588",
+          "author": "Bluestein",
+          "description": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560\nComments URL: https://news.ycombinator.com/item?id=27318588\nPoints: 163\n# Comments: 169",
+          "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
+          "publishedOn": "2021-05-28T18:04:04.000Z",
+          "wordCount": 70237,
+          "title": "Court rules climate change “duty of care” to future generations exists"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27317859",
+          "author": "1experience",
+          "description": "Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/\nComments URL: https://news.ycombinator.com/item?id=27317859\nPoints: 231\n# Comments: 176",
+          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
+          "publishedOn": "2021-05-28T17:02:28.000Z",
+          "wordCount": 1644,
+          "title": "Why Russians do not smile (2002)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27317655",
+          "author": "there",
+          "description": "Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/\nComments URL: https://news.ycombinator.com/item?id=27317655\nPoints: 923\n# Comments: 161",
+          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
+          "publishedOn": "2021-05-28T16:47:35.000Z",
+          "wordCount": 745,
+          "title": "I quit my job to focus on SerenityOS full time"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27316752",
+          "author": "zeeshanqureshi",
+          "description": "Article URL: https://ninfex.com/hello\nComments URL: https://news.ycombinator.com/item?id=27316752\nPoints: 110\n# Comments: 34",
+          "link": "https://ninfex.com/hello",
+          "publishedOn": "2021-05-28T15:42:21.000Z",
+          "wordCount": 194,
+          "title": "Show HN: An experimental, people-powered search engine"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27316115",
+          "author": "0xedb",
+          "description": "Article URL: https://twitter.com/wongmjane/status/1398022730553860102\nComments URL: https://news.ycombinator.com/item?id=27316115\nPoints: 363\n# Comments: 604",
+          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
+          "publishedOn": "2021-05-28T14:57:19.000Z",
+          "wordCount": 196,
+          "title": "Twitter confirms Twitter Blue"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27315074",
+          "author": "azth",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01442-9\nComments URL: https://news.ycombinator.com/item?id=27315074\nPoints: 115\n# Comments: 230",
+          "link": "https://www.nature.com/articles/d41586-021-01442-9",
+          "publishedOn": "2021-05-28T13:27:47.000Z",
+          "wordCount": 1517,
+          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27314827",
+          "author": "phonebucket",
+          "description": "Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e\nComments URL: https://news.ycombinator.com/item?id=27314827\nPoints: 109\n# Comments: 75",
+          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
+          "publishedOn": "2021-05-28T12:58:08.000Z",
+          "wordCount": null,
+          "title": "Physical Warp Drives"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27303347",
+          "author": "ds",
+          "description": "Article URL: https://redact.dev/?hn\nComments URL: https://news.ycombinator.com/item?id=27303347\nPoints: 109\n# Comments: 52",
+          "link": "https://redact.dev/?hn",
+          "publishedOn": "2021-05-27T14:10:45.000Z",
+          "wordCount": 16,
+          "title": "Show HN: Redact – Automated deletion for your content on social networks"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27301879",
+          "author": "jasonkester",
+          "description": "Article URL: https://joust.life/\nComments URL: https://news.ycombinator.com/item?id=27301879\nPoints: 232\n# Comments: 82",
+          "link": "https://joust.life/",
+          "publishedOn": "2021-05-27T11:50:16.000Z",
+          "wordCount": 32,
+          "title": "Show HN: I Built Multiplayer Deathmatch Joust"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27301651",
+          "author": "ptr",
+          "description": "Article URL: https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/\nComments URL: https://news.ycombinator.com/item?id=27301651\nPoints: 199\n# Comments: 35",
+          "link": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+          "publishedOn": "2021-05-27T11:23:55.000Z",
+          "wordCount": 3802,
+          "title": "Elliptic Curve Cryptography Explained (2019)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27295906",
           "author": "djoldman",
           "description": "Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext\nComments URL: https://news.ycombinator.com/item?id=27295906\nPoints: 238\n# Comments: 136",
@@ -112,6 +238,15 @@
           "publishedOn": "2021-05-26T10:03:57.000Z",
           "wordCount": 1236,
           "title": "The only Buddhist region in Europe"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27288079",
+          "author": "valprop1",
+          "description": "Article URL: https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/\nComments URL: https://news.ycombinator.com/item?id=27288079\nPoints: 193\n# Comments: 58",
+          "link": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+          "publishedOn": "2021-05-26T09:08:24.000Z",
+          "wordCount": 775,
+          "title": "Google says Rowhammer attacks are gaining range as RAM is getting denser"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27273399",
@@ -1156,6 +1291,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341163",
+          "author": "Thomas Park",
+          "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
+          "publishedOn": "2021-05-28T14:36:47.000Z",
+          "wordCount": 1844,
+          "title": "Dynamic Favicons for WordPress"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341298",
+          "author": "Chris Coyier",
+          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
+          "publishedOn": "2021-05-27T18:22:11.000Z",
+          "wordCount": 1288,
+          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341020",
+          "author": "Robin Rendle",
+          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-show-images-on-click/",
+          "publishedOn": "2021-05-27T14:25:29.000Z",
+          "wordCount": 1491,
+          "title": "How to Show Images on Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340910",
+          "author": "Michael Rispoli",
+          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
+          "publishedOn": "2021-05-27T14:23:23.000Z",
+          "wordCount": 2452,
+          "title": "Rethinking Postgres in a Post-Server World"
+        },
+        {
           "id": "https://css-tricks.com/?p=339759",
           "author": "Chris Coyier",
           "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1604,6 +1775,48 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
+          "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
+          "publishedOn": "2021-05-28T11:00:00.000Z",
+          "wordCount": 10214,
+          "title": "Adding A Commenting System To A WYSIWYG Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
+          "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
+          "publishedOn": "2021-05-27T13:30:00.000Z",
+          "wordCount": 3735,
+          "title": "Useful VS Code Extensions For Front-End Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
+          "author": "hello@smashingmagazine.com (Miroslav Bekyarov)",
+          "description": "While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.",
+          "link": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
+          "publishedOn": "2021-05-27T09:30:00.000Z",
+          "wordCount": 2676,
+          "title": "How To Build And Launch Responsive Websites Faster With Editor X",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3eaf20c-08e9-4f1c-829b-f0bbd7309e0d/21-build-launch-responsive-websites-editorx.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "author": "hello@smashingmagazine.com (Carie Fisher)",
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
@@ -1833,24 +2046,6 @@
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         }
       ]
     },
@@ -1859,6 +2054,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
+          "publishedOn": "2021-05-28T22:58:18.000Z",
+          "wordCount": 2775,
+          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
+        },
+        {
+          "id": "60b08d8811ffb70827ef8c7b",
+          "author": null,
+          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
+          "publishedOn": "2021-05-28T16:01:05.000Z",
+          "wordCount": 1568,
+          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
+        },
+        {
+          "id": "60b0de2211ffb70827ef8d7c",
+          "author": null,
+          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "publishedOn": "2021-05-28T12:26:38.000Z",
+          "wordCount": 368,
+          "title": "Advanced Computer Vision with Python"
+        },
+        {
+          "id": "60af931811ffb70827ef85d3",
+          "author": null,
+          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
+          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
+          "publishedOn": "2021-05-27T17:55:23.000Z",
+          "wordCount": 1828,
+          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
+        },
+        {
+          "id": "60a325c6906c5207e3a7da25",
+          "author": null,
+          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
+          "publishedOn": "2021-05-27T15:16:34.000Z",
+          "wordCount": 1399,
+          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
+        },
         {
           "id": "60a44b9f906c5207e3a7e098",
           "author": null,
