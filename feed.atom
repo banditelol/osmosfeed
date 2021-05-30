@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T00:57:21.587Z</updated>
+    <updated>2021-05-30T01:02:46.378Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trials begin on lozenge that rebuilds tooth enamel]]></title>
+        <id>https://news.ycombinator.com/item?id=27328663</id>
+        <link href="https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/"/>
+        <updated>2021-05-29T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
+Comments URL: https://news.ycombinator.com/item?id=27328663
+Points: 265
+# Comments: 124]]></summary>
+        <author>
+            <name>beefman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phacility is winding down, Phabricator no longer actively maintained]]></title>
+        <id>https://news.ycombinator.com/item?id=27328404</id>
+        <link href="https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/"/>
+        <updated>2021-05-29T21:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
+Comments URL: https://news.ycombinator.com/item?id=27328404
+Points: 122
+# Comments: 56]]></summary>
+        <author>
+            <name>carwyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
+        <id>https://news.ycombinator.com/item?id=27328087</id>
+        <link href="https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/"/>
+        <updated>2021-05-29T20:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
+Comments URL: https://news.ycombinator.com/item?id=27328087
+Points: 125
+# Comments: 78]]></summary>
+        <author>
+            <name>throwaway888abc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using fake reviews to find dangerous extensions]]></title>
+        <id>https://news.ycombinator.com/item?id=27326268</id>
+        <link href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/"/>
+        <updated>2021-05-29T16:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
+Comments URL: https://news.ycombinator.com/item?id=27326268
+Points: 179
+# Comments: 88]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google made it nearly impossible for users to keep their location private]]></title>
+        <id>https://news.ycombinator.com/item?id=27324755</id>
+        <link href="https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5"/>
+        <updated>2021-05-29T12:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5
+Comments URL: https://news.ycombinator.com/item?id=27324755
+Points: 537
+# Comments: 335]]></summary>
+        <author>
+            <name>CapitalistCartr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost Stations of the Paris Metro]]></title>
+        <id>https://news.ycombinator.com/item?id=27324406</id>
+        <link href="https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/"/>
+        <updated>2021-05-29T10:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/
+Comments URL: https://news.ycombinator.com/item?id=27324406
+Points: 230
+# Comments: 64]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
         <id>60acf28e11ffb70827ef6dd9</id>
@@ -3433,16 +3511,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
