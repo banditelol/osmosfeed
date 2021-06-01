@@ -6,6 +6,132 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27347818",
+          "author": "ve55",
+          "description": "Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/\nComments URL: https://news.ycombinator.com/item?id=27347818\nPoints: 113\n# Comments: 64",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
+          "publishedOn": "2021-05-31T20:35:20.000Z",
+          "wordCount": 1693,
+          "title": "Sodium rutin extends lifespan and health span in mice by 10%"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347039",
+          "author": "exolymph",
+          "description": "Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1\nComments URL: https://news.ycombinator.com/item?id=27347039\nPoints: 158\n# Comments: 49",
+          "link": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
+          "publishedOn": "2021-05-31T18:50:23.000Z",
+          "wordCount": 38340,
+          "title": "The May 18 Gwangju Uprising"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27347035",
+          "author": "exolymph",
+          "description": "Article URL: https://annagat.substack.com/p/on-smoking\nComments URL: https://news.ycombinator.com/item?id=27347035\nPoints: 170\n# Comments: 157",
+          "link": "https://annagat.substack.com/p/on-smoking",
+          "publishedOn": "2021-05-31T18:50:07.000Z",
+          "wordCount": 637,
+          "title": "On Smoking"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345837",
+          "author": "lhenk",
+          "description": "Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/\nComments URL: https://news.ycombinator.com/item?id=27345837\nPoints: 146\n# Comments: 86",
+          "link": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
+          "publishedOn": "2021-05-31T16:38:04.000Z",
+          "wordCount": 2192,
+          "title": "UUID, serial or identity columns for PostgreSQL auto-generated primary keys?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345784",
+          "author": "as89",
+          "description": "Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering\nComments URL: https://news.ycombinator.com/item?id=27345784\nPoints: 325\n# Comments: 117",
+          "link": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
+          "publishedOn": "2021-05-31T16:34:16.000Z",
+          "wordCount": 2828,
+          "title": "The most expensive number in engineering"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27345075",
+          "author": "stanrivers",
+          "description": "Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/\nComments URL: https://news.ycombinator.com/item?id=27345075\nPoints: 243\n# Comments: 127",
+          "link": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
+          "publishedOn": "2021-05-31T15:35:18.000Z",
+          "wordCount": 1505,
+          "title": "We only ever talk about the third attack on Pearl Harbor"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344978",
+          "author": "yarapavan",
+          "description": "Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/\nComments URL: https://news.ycombinator.com/item?id=27344978\nPoints: 147\n# Comments: 31",
+          "link": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
+          "publishedOn": "2021-05-31T15:25:59.000Z",
+          "wordCount": 2013,
+          "title": "Donating my time to grow a VC-funded company: why I quit mentoring at Plato"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344639",
+          "author": "jkatz05",
+          "description": "Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html\nComments URL: https://news.ycombinator.com/item?id=27344639\nPoints: 243\n# Comments: 27",
+          "link": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
+          "publishedOn": "2021-05-31T14:53:15.000Z",
+          "wordCount": 1436,
+          "title": "PostGIS at 20, the Beginning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344617",
+          "author": "devnerd239",
+          "description": "Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken\nComments URL: https://news.ycombinator.com/item?id=27344617\nPoints: 170\n# Comments: 167",
+          "link": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
+          "publishedOn": "2021-05-31T14:50:03.000Z",
+          "wordCount": 1050,
+          "title": "Google’s new popup will further weaken Facebook’s advertisement business"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344426",
+          "author": "rhabarba",
+          "description": "Article URL: http://wordtsar.ca/\nComments URL: https://news.ycombinator.com/item?id=27344426\nPoints: 165\n# Comments: 92",
+          "link": "http://wordtsar.ca/",
+          "publishedOn": "2021-05-31T14:32:16.000Z",
+          "wordCount": 1342,
+          "title": "WordTsar, a WordStar Clone"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27344010",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40\nComments URL: https://news.ycombinator.com/item?id=27344010\nPoints: 143\n# Comments: 240",
+          "link": "https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40",
+          "publishedOn": "2021-05-31T13:47:02.000Z",
+          "wordCount": 3296,
+          "title": "Rethinking the computer ‘desktop’ as a concept"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27343150",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s\nComments URL: https://news.ycombinator.com/item?id=27343150\nPoints: 172\n# Comments: 65",
+          "link": "https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s",
+          "publishedOn": "2021-05-31T12:01:51.000Z",
+          "wordCount": 2823,
+          "title": "How the Commodore Amiga powered cable systems in the 90s"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27342763",
+          "author": "gadf",
+          "description": "Article URL: https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true\nComments URL: https://news.ycombinator.com/item?id=27342763\nPoints: 216\n# Comments: 144",
+          "link": "https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true",
+          "publishedOn": "2021-05-31T11:10:13.000Z",
+          "wordCount": 2230,
+          "title": "Chinese paddlefish, one of the world's largest fish, declared extinct"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27342509",
+          "author": "ushakov",
+          "description": "Article URL: https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/\nComments URL: https://news.ycombinator.com/item?id=27342509\nPoints: 234\n# Comments: 135",
+          "link": "https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/",
+          "publishedOn": "2021-05-31T10:30:27.000Z",
+          "wordCount": 3080,
+          "title": "Neural networks emulate any guitar pedal for $120"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27328663",
           "author": "beefman",
           "description": "Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/\nComments URL: https://news.ycombinator.com/item?id=27328663\nPoints: 265\n# Comments: 124",
@@ -1345,6 +1471,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1796,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 981,
+          "title": "Local: Always Getting Better"
+        },
+        {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1828,6 +1972,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
+          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "publishedOn": "2021-05-31T11:30:00.000Z",
+          "wordCount": 2490,
+          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",

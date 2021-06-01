@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T01:02:46.378Z</updated>
+    <updated>2021-06-01T01:28:08.815Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sodium rutin extends lifespan and health span in mice by 10%]]></title>
+        <id>https://news.ycombinator.com/item?id=27347818</id>
+        <link href="https://pubmed.ncbi.nlm.nih.gov/33555034/"/>
+        <updated>2021-05-31T20:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/
+Comments URL: https://news.ycombinator.com/item?id=27347818
+Points: 113
+# Comments: 64]]></summary>
+        <author>
+            <name>ve55</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The May 18 Gwangju Uprising]]></title>
+        <id>https://news.ycombinator.com/item?id=27347039</id>
+        <link href="https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1"/>
+        <updated>2021-05-31T18:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1
+Comments URL: https://news.ycombinator.com/item?id=27347039
+Points: 158
+# Comments: 49]]></summary>
+        <author>
+            <name>exolymph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Smoking]]></title>
+        <id>https://news.ycombinator.com/item?id=27347035</id>
+        <link href="https://annagat.substack.com/p/on-smoking"/>
+        <updated>2021-05-31T18:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://annagat.substack.com/p/on-smoking
+Comments URL: https://news.ycombinator.com/item?id=27347035
+Points: 170
+# Comments: 157]]></summary>
+        <author>
+            <name>exolymph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UUID, serial or identity columns for PostgreSQL auto-generated primary keys?]]></title>
+        <id>https://news.ycombinator.com/item?id=27345837</id>
+        <link href="https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/"/>
+        <updated>2021-05-31T16:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/
+Comments URL: https://news.ycombinator.com/item?id=27345837
+Points: 146
+# Comments: 86]]></summary>
+        <author>
+            <name>lhenk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most expensive number in engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=27345784</id>
+        <link href="https://surjan.substack.com/p/the-most-expensive-number-in-engineering"/>
+        <updated>2021-05-31T16:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering
+Comments URL: https://news.ycombinator.com/item?id=27345784
+Points: 325
+# Comments: 117]]></summary>
+        <author>
+            <name>as89</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We only ever talk about the third attack on Pearl Harbor]]></title>
+        <id>https://news.ycombinator.com/item?id=27345075</id>
+        <link href="https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/"/>
+        <updated>2021-05-31T15:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/
+Comments URL: https://news.ycombinator.com/item?id=27345075
+Points: 243
+# Comments: 127]]></summary>
+        <author>
+            <name>stanrivers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donating my time to grow a VC-funded company: why I quit mentoring at Plato]]></title>
+        <id>https://news.ycombinator.com/item?id=27344978</id>
+        <link href="https://blog.pragmaticengineer.com/quit-mentoring-at-plato/"/>
+        <updated>2021-05-31T15:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/
+Comments URL: https://news.ycombinator.com/item?id=27344978
+Points: 147
+# Comments: 31]]></summary>
+        <author>
+            <name>yarapavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostGIS at 20, the Beginning]]></title>
+        <id>https://news.ycombinator.com/item?id=27344639</id>
+        <link href="http://blog.cleverelephant.ca/2021/05/postgis-20-years.html"/>
+        <updated>2021-05-31T14:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
+Comments URL: https://news.ycombinator.com/item?id=27344639
+Points: 243
+# Comments: 27]]></summary>
+        <author>
+            <name>jkatz05</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s new popup will further weaken Facebook’s advertisement business]]></title>
+        <id>https://news.ycombinator.com/item?id=27344617</id>
+        <link href="https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken"/>
+        <updated>2021-05-31T14:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken
+Comments URL: https://news.ycombinator.com/item?id=27344617
+Points: 170
+# Comments: 167]]></summary>
+        <author>
+            <name>devnerd239</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordTsar, a WordStar Clone]]></title>
+        <id>https://news.ycombinator.com/item?id=27344426</id>
+        <link href="http://wordtsar.ca/"/>
+        <updated>2021-05-31T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://wordtsar.ca/
+Comments URL: https://news.ycombinator.com/item?id=27344426
+Points: 165
+# Comments: 92]]></summary>
+        <author>
+            <name>rhabarba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking the computer ‘desktop’ as a concept]]></title>
+        <id>https://news.ycombinator.com/item?id=27344010</id>
+        <link href="https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40"/>
+        <updated>2021-05-31T13:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40
+Comments URL: https://news.ycombinator.com/item?id=27344010
+Points: 143
+# Comments: 240]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Commodore Amiga powered cable systems in the 90s]]></title>
+        <id>https://news.ycombinator.com/item?id=27343150</id>
+        <link href="https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s"/>
+        <updated>2021-05-31T12:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s
+Comments URL: https://news.ycombinator.com/item?id=27343150
+Points: 172
+# Comments: 65]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
+        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
+        <updated>2021-05-31T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese paddlefish, one of the world's largest fish, declared extinct]]></title>
+        <id>https://news.ycombinator.com/item?id=27342763</id>
+        <link href="https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true"/>
+        <updated>2021-05-31T11:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true
+Comments URL: https://news.ycombinator.com/item?id=27342763
+Points: 216
+# Comments: 144]]></summary>
+        <author>
+            <name>gadf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural networks emulate any guitar pedal for $120]]></title>
+        <id>https://news.ycombinator.com/item?id=27342509</id>
+        <link href="https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/"/>
+        <updated>2021-05-31T10:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/
+Comments URL: https://news.ycombinator.com/item?id=27342509
+Points: 234
+# Comments: 135]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trials begin on lozenge that rebuilds tooth enamel]]></title>
         <id>https://news.ycombinator.com/item?id=27328663</id>
