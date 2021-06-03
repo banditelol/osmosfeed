@@ -2,10 +2,395 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:28:08.815Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-03T01:17:29.084Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
+        <id>60afce3011ffb70827ef869c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
+        <updated>2021-06-02T23:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
+        <id>60b3a25211ffb70827ef9b39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
+        <updated>2021-06-02T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyoming site of new nuclear power plant from Bill Gates' TerraPower]]></title>
+        <id>https://news.ycombinator.com/item?id=27374840</id>
+        <link href="https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html"/>
+        <updated>2021-06-02T22:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html
+Comments URL: https://news.ycombinator.com/item?id=27374840
+Points: 105
+# Comments: 31]]></summary>
+        <author>
+            <name>spenrose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King County, WA bans facial recognition software]]></title>
+        <id>https://news.ycombinator.com/item?id=27374173</id>
+        <link href="https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software"/>
+        <updated>2021-06-02T21:21:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software
+Comments URL: https://news.ycombinator.com/item?id=27374173
+Points: 260
+# Comments: 156]]></summary>
+        <author>
+            <name>sharkweek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
+        <id>60b3ccee11ffb70827ef9bc0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
+        <updated>2021-06-02T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
+        <id>https://css-tricks.com/?p=341724</id>
+        <link href="https://css-tricks.com/debugging-ios-safari/"/>
+        <updated>2021-06-02T21:15:28.000Z</updated>
+        <summary type="html"><![CDATA[How do I debug Safari on iOS?
+These are my general steps, starting with not even using iOS Safari.
+1. Is this just a small-screen problem?
+Lemme just use the device mode in Chrome quick.
+Note that this does a …
+The post Debugging iOS Safari appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
+        <id>60a699b0906c5207e3a7f5ab</id>
+        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
+        <updated>2021-06-02T20:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
+        <id>60b0f11411ffb70827ef8dbc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
+        <updated>2021-06-02T19:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
+        <id>60b4ff4711ffb70827ef9eb2</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
+        <updated>2021-06-02T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massachusetts Steamship Authority hit by ransomware attack; ferries delayed]]></title>
+        <id>https://news.ycombinator.com/item?id=27372431</id>
+        <link href="https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/"/>
+        <updated>2021-06-02T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/
+Comments URL: https://news.ycombinator.com/item?id=27372431
+Points: 130
+# Comments: 189]]></summary>
+        <author>
+            <name>SocksCanClose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaky Abstractions]]></title>
+        <id>https://news.ycombinator.com/item?id=27372292</id>
+        <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
+        <updated>2021-06-02T18:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
+Comments URL: https://news.ycombinator.com/item?id=27372292
+Points: 262
+# Comments: 34]]></summary>
+        <author>
+            <name>jakub_g</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 2.93 LTS]]></title>
+        <id>https://news.ycombinator.com/item?id=27372285</id>
+        <link href="https://www.blender.org/download/releases/2-93/"/>
+        <updated>2021-06-02T18:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/2-93/
+Comments URL: https://news.ycombinator.com/item?id=27372285
+Points: 172
+# Comments: 29]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal shuts down long-time Tor supporter]]></title>
+        <id>https://news.ycombinator.com/item?id=27371787</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse"/>
+        <updated>2021-06-02T17:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse
+Comments URL: https://news.ycombinator.com/item?id=27371787
+Points: 330
+# Comments: 108]]></summary>
+        <author>
+            <name>tirz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making JavaScript run fast on WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=27370138</id>
+        <link href="https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly"/>
+        <updated>2021-06-02T15:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
+Comments URL: https://news.ycombinator.com/item?id=27370138
+Points: 163
+# Comments: 66]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow sold to Prosus for $1.8B]]></title>
+        <id>https://news.ycombinator.com/item?id=27370026</id>
+        <link href="https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400"/>
+        <updated>2021-06-02T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+Comments URL: https://news.ycombinator.com/item?id=27370026
+Points: 1577
+# Comments: 655]]></summary>
+        <author>
+            <name>DavidWilkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's low-code strategy paints a target on UIPath and other RPA companies]]></title>
+        <id>https://news.ycombinator.com/item?id=27369752</id>
+        <link href="https://www.infoq.com/articles/cloud-vendors-low-code/"/>
+        <updated>2021-06-02T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.infoq.com/articles/cloud-vendors-low-code/
+Comments URL: https://news.ycombinator.com/item?id=27369752
+Points: 178
+# Comments: 147]]></summary>
+        <author>
+            <name>tlochhead</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
+        <id>60b51f6e11ffb70827ef9f7c</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
+        <updated>2021-06-02T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
+        <id>https://css-tricks.com/?p=341442</id>
+        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
+        <updated>2021-06-02T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
+The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Dmitry Mayorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
+        <id>https://css-tricks.com/?p=341572</id>
+        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
+        <updated>2021-06-02T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
+The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost half of local Twitter trending topics in Turkey are fake – study]]></title>
+        <id>https://news.ycombinator.com/item?id=27368214</id>
+        <link href="https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/"/>
+        <updated>2021-06-02T13:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/
+Comments URL: https://news.ycombinator.com/item?id=27368214
+Points: 430
+# Comments: 168]]></summary>
+        <author>
+            <name>FridayoLeary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Render Jupyter notebooks as interactive articles]]></title>
+        <id>https://news.ycombinator.com/item?id=27367948</id>
+        <link href="https://deepnote.com/viewer"/>
+        <updated>2021-06-02T12:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepnote.com/viewer
+Comments URL: https://news.ycombinator.com/item?id=27367948
+Points: 191
+# Comments: 31]]></summary>
+        <author>
+            <name>adlha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
+        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
+        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
+        <updated>2021-06-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
+        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
+        <updated>2021-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etsy to buy fashion reseller Depop for $1.63B]]></title>
+        <id>https://news.ycombinator.com/item?id=27367001</id>
+        <link href="https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/"/>
+        <updated>2021-06-02T10:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/
+Comments URL: https://news.ycombinator.com/item?id=27367001
+Points: 242
+# Comments: 175]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built my own analog drum machine]]></title>
+        <id>https://news.ycombinator.com/item?id=27365989</id>
+        <link href="https://reverb.com/news/why-i-painstakingly-built-my-own-analog-drum-machine"/>
+        <updated>2021-06-02T07:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reverb.com/news/why-i-painstakingly-built-my-own-analog-drum-machine
+Comments URL: https://news.ycombinator.com/item?id=27365989
+Points: 123
+# Comments: 27]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code blocks, but better]]></title>
+        <id>https://css-tricks.com/?p=341720</id>
+        <link href="https://ped.ro/blog/code-blocks-but-better"/>
+        <updated>2021-06-01T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
+The post Code blocks, but better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
+        <id>60b1eed311ffb70827ef9504</id>
+        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
+        <updated>2021-06-01T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js and Make React Development Simpler]]></title>
+        <id>60b668c0acb62507dd1d710b</id>
+        <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
+        <updated>2021-06-01T17:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
+        <id>https://css-tricks.com/?p=341342</id>
+        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
+        <updated>2021-06-01T14:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
+The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Evgeny Klimenchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
+        <id>https://css-tricks.com/?p=341296</id>
+        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
+        <updated>2021-06-01T14:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
+The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
+        <updated>2021-06-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
+        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
+        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
+        <updated>2021-06-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sodium rutin extends lifespan and health span in mice by 10%]]></title>
         <id>https://news.ycombinator.com/item?id=27347818</id>
@@ -3701,36 +4086,6 @@ The post Let’s use (X, X, X, X) for talking about specificity appeared first o
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
-        <id>6090187c8eb3fb07cf09a060</id>
-        <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
-        <updated>2021-05-03T17:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
         </author>
     </entry>
 </feed>

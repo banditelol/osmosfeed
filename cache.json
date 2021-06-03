@@ -6,6 +6,123 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27374840",
+          "author": "spenrose",
+          "description": "Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html\nComments URL: https://news.ycombinator.com/item?id=27374840\nPoints: 105\n# Comments: 31",
+          "link": "https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html",
+          "publishedOn": "2021-06-02T22:29:40.000Z",
+          "wordCount": 3056,
+          "title": "Wyoming site of new nuclear power plant from Bill Gates' TerraPower"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27374173",
+          "author": "sharkweek",
+          "description": "Article URL: https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software\nComments URL: https://news.ycombinator.com/item?id=27374173\nPoints: 260\n# Comments: 156",
+          "link": "https://komonews.com/news/local/king-county-is-first-in-the-country-to-ban-facial-recognition-software",
+          "publishedOn": "2021-06-02T21:21:08.000Z",
+          "wordCount": 23,
+          "title": "King County, WA bans facial recognition software"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27372431",
+          "author": "SocksCanClose",
+          "description": "Article URL: https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/\nComments URL: https://news.ycombinator.com/item?id=27372431\nPoints: 130\n# Comments: 189",
+          "link": "https://www.nbcboston.com/news/local/mass-steamship-authority-delayed-due-to-cyber-attack/2395477/",
+          "publishedOn": "2021-06-02T18:47:00.000Z",
+          "wordCount": 756,
+          "title": "Massachusetts Steamship Authority hit by ransomware attack; ferries delayed"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27372292",
+          "author": "jakub_g",
+          "description": "Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/\nComments URL: https://news.ycombinator.com/item?id=27372292\nPoints: 262\n# Comments: 34",
+          "link": "https://textslashplain.com/2021/06/02/leaky-abstractions/",
+          "publishedOn": "2021-06-02T18:35:16.000Z",
+          "wordCount": 1686,
+          "title": "Leaky Abstractions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27372285",
+          "author": "Tomte",
+          "description": "Article URL: https://www.blender.org/download/releases/2-93/\nComments URL: https://news.ycombinator.com/item?id=27372285\nPoints: 172\n# Comments: 29",
+          "link": "https://www.blender.org/download/releases/2-93/",
+          "publishedOn": "2021-06-02T18:34:22.000Z",
+          "wordCount": 1491,
+          "title": "Blender 2.93 LTS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27371787",
+          "author": "tirz",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse\nComments URL: https://news.ycombinator.com/item?id=27371787\nPoints: 330\n# Comments: 108",
+          "link": "https://www.eff.org/deeplinks/2021/06/paypal-shuts-down-long-time-tor-supporter-no-recourse",
+          "publishedOn": "2021-06-02T17:51:07.000Z",
+          "wordCount": 2582,
+          "title": "PayPal shuts down long-time Tor supporter"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27370138",
+          "author": "0xedb",
+          "description": "Article URL: https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly\nComments URL: https://news.ycombinator.com/item?id=27370138\nPoints: 163\n# Comments: 66",
+          "link": "https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly",
+          "publishedOn": "2021-06-02T15:53:14.000Z",
+          "wordCount": 3184,
+          "title": "Making JavaScript run fast on WebAssembly"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27370026",
+          "author": "DavidWilkinson",
+          "description": "Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400\nComments URL: https://news.ycombinator.com/item?id=27370026\nPoints: 1577\n# Comments: 655",
+          "link": "https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
+          "publishedOn": "2021-06-02T15:44:42.000Z",
+          "wordCount": 1529,
+          "title": "Stack Overflow sold to Prosus for $1.8B"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27369752",
+          "author": "tlochhead",
+          "description": "Article URL: https://www.infoq.com/articles/cloud-vendors-low-code/\nComments URL: https://news.ycombinator.com/item?id=27369752\nPoints: 178\n# Comments: 147",
+          "link": "https://www.infoq.com/articles/cloud-vendors-low-code/",
+          "publishedOn": "2021-06-02T15:22:48.000Z",
+          "wordCount": 5018,
+          "title": "Microsoft's low-code strategy paints a target on UIPath and other RPA companies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27368214",
+          "author": "FridayoLeary",
+          "description": "Article URL: https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/\nComments URL: https://news.ycombinator.com/item?id=27368214\nPoints: 430\n# Comments: 168",
+          "link": "https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/",
+          "publishedOn": "2021-06-02T13:05:23.000Z",
+          "wordCount": 777,
+          "title": "Almost half of local Twitter trending topics in Turkey are fake – study"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27367948",
+          "author": "adlha",
+          "description": "Article URL: https://deepnote.com/viewer\nComments URL: https://news.ycombinator.com/item?id=27367948\nPoints: 191\n# Comments: 31",
+          "link": "https://deepnote.com/viewer",
+          "publishedOn": "2021-06-02T12:35:31.000Z",
+          "wordCount": 6,
+          "title": "Show HN: Render Jupyter notebooks as interactive articles"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27367001",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/\nComments URL: https://news.ycombinator.com/item?id=27367001\nPoints: 242\n# Comments: 175",
+          "link": "https://www.reuters.com/business/etsy-buy-gen-z-focused-fashion-marketplace-depop-163-billion-2021-06-02/",
+          "publishedOn": "2021-06-02T10:29:02.000Z",
+          "wordCount": 725,
+          "title": "Etsy to buy fashion reseller Depop for $1.63B"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27365989",
+          "author": "danboarder",
+          "description": "Article URL: https://reverb.com/news/why-i-painstakingly-built-my-own-analog-drum-machine\nComments URL: https://news.ycombinator.com/item?id=27365989\nPoints: 123\n# Comments: 27",
+          "link": "https://reverb.com/news/why-i-painstakingly-built-my-own-analog-drum-machine",
+          "publishedOn": "2021-06-02T07:36:54.000Z",
+          "wordCount": 2095,
+          "title": "I built my own analog drum machine"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27347818",
           "author": "ve55",
           "description": "Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/\nComments URL: https://news.ycombinator.com/item?id=27347818\nPoints: 113\n# Comments: 64",
@@ -1471,6 +1588,60 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341724",
+          "author": "Chris Coyier",
+          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/debugging-ios-safari/",
+          "publishedOn": "2021-06-02T21:15:28.000Z",
+          "wordCount": 974,
+          "title": "Debugging iOS Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341442",
+          "author": "Dmitry Mayorov",
+          "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
+          "publishedOn": "2021-06-02T13:35:53.000Z",
+          "wordCount": 4169,
+          "title": "A Crash Course in WordPress Block Filters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341572",
+          "author": "Chris Coyier",
+          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
+          "publishedOn": "2021-06-02T13:35:40.000Z",
+          "wordCount": 1058,
+          "title": "Are Custom Properties a “Menu of What Will Change”?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341720",
+          "author": "Chris Coyier",
+          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-06-01T22:08:48.000Z",
+          "wordCount": 3202,
+          "title": "Code blocks, but better"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341342",
+          "author": "Evgeny Klimenchenko",
+          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
+          "publishedOn": "2021-06-01T14:17:43.000Z",
+          "wordCount": 3993,
+          "title": "Front-End Testing is For Everyone"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341296",
+          "author": "Geoff Graham",
+          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
+          "publishedOn": "2021-06-01T14:16:55.000Z",
+          "wordCount": 926,
+          "title": "Jetpack Boost Handles Critical CSS For You"
+        },
+        {
           "id": "https://css-tricks.com/?p=340465",
           "author": "Jason Lengstorf",
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1973,6 +2144,62 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
+          "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "publishedOn": "2021-06-02T12:30:00.000Z",
+          "wordCount": 4327,
+          "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
+          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
+          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "publishedOn": "2021-06-02T10:30:00.000Z",
+          "wordCount": 5387,
+          "title": "Improving The Performance Of An Online Store (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "publishedOn": "2021-06-01T14:00:00.000Z",
+          "wordCount": 7115,
+          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
+          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "publishedOn": "2021-06-01T09:00:00.000Z",
+          "wordCount": 1362,
+          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
@@ -2231,24 +2458,6 @@
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
           "title": "A Guide To Undoing Mistakes With Git"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
         }
       ]
     },
@@ -2257,6 +2466,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60afce3011ffb70827ef869c",
+          "author": null,
+          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
+          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
+          "publishedOn": "2021-06-02T23:14:01.000Z",
+          "wordCount": 2282,
+          "title": "What is Commit Signing in Git?"
+        },
+        {
+          "id": "60b3a25211ffb70827ef9b39",
+          "author": null,
+          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
+          "publishedOn": "2021-06-02T22:54:18.000Z",
+          "wordCount": 1415,
+          "title": "How to Use Environment Variables in VanillaJS"
+        },
+        {
+          "id": "60b3ccee11ffb70827ef9bc0",
+          "author": null,
+          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
+          "publishedOn": "2021-06-02T21:18:15.000Z",
+          "wordCount": 2365,
+          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
+        },
+        {
+          "id": "60a699b0906c5207e3a7f5ab",
+          "author": null,
+          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
+          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
+          "publishedOn": "2021-06-02T20:44:22.000Z",
+          "wordCount": 3441,
+          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
+        },
+        {
+          "id": "60b0f11411ffb70827ef8dbc",
+          "author": null,
+          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
+          "publishedOn": "2021-06-02T19:39:05.000Z",
+          "wordCount": 1155,
+          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
+        },
+        {
+          "id": "60b4ff4711ffb70827ef9eb2",
+          "author": null,
+          "description": "What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release",
+          "link": "https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/",
+          "publishedOn": "2021-06-02T19:14:53.000Z",
+          "wordCount": 2649,
+          "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
+        },
+        {
+          "id": "60b51f6e11ffb70827ef9f7c",
+          "author": null,
+          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
+          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
+          "publishedOn": "2021-06-02T14:45:18.000Z",
+          "wordCount": 3302,
+          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
+        },
+        {
+          "id": "60b5025111ffb70827ef9ebe",
+          "author": null,
+          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "publishedOn": "2021-06-01T23:47:33.000Z",
+          "wordCount": 1861,
+          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
+        },
+        {
+          "id": "60b1eed311ffb70827ef9504",
+          "author": null,
+          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
+          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
+          "publishedOn": "2021-06-01T20:47:43.000Z",
+          "wordCount": 1416,
+          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
+        },
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
         {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
@@ -2841,18 +3140,9 @@
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
-        },
-        {
-          "id": "6090187c8eb3fb07cf09a060",
-          "author": "",
-          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
-          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
-          "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2501,
-          "title": "How to Fetch Data in React from a GraphQL API"
         }
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
