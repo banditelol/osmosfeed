@@ -2,10 +2,364 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:17:29.084Z</updated>
+    <updated>2021-06-05T00:52:34.463Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lol just got kicked out of  @ycombinator]]></title>
+        <id>https://news.ycombinator.com/item?id=27399581</id>
+        <link href="https://twitter.com/paulbiggar/status/1400904600421535744"/>
+        <updated>2021-06-04T22:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/paulbiggar/status/1400904600421535744
+Comments URL: https://news.ycombinator.com/item?id=27399581
+Points: 570
+# Comments: 242]]></summary>
+        <author>
+            <name>bqe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Carmack on JPEG]]></title>
+        <id>https://news.ycombinator.com/item?id=27399416</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/1400930510671601666"/>
+        <updated>2021-06-04T21:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666
+Comments URL: https://news.ycombinator.com/item?id=27399416
+Points: 165
+# Comments: 96]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++]]></title>
+        <id>https://news.ycombinator.com/item?id=27397208</id>
+        <link href="https://binji.github.io/posts/pokegb/"/>
+        <updated>2021-06-04T18:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://binji.github.io/posts/pokegb/
+Comments URL: https://news.ycombinator.com/item?id=27397208
+Points: 365
+# Comments: 41]]></summary>
+        <author>
+            <name>brundolf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra-processed food targets bone quality via endochondral ossification]]></title>
+        <id>https://news.ycombinator.com/item?id=27396873</id>
+        <link href="https://www.nature.com/articles/s41413-020-00127-9"/>
+        <updated>2021-06-04T18:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41413-020-00127-9
+Comments URL: https://news.ycombinator.com/item?id=27396873
+Points: 112
+# Comments: 89]]></summary>
+        <author>
+            <name>myth_drannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling]]></title>
+        <id>https://news.ycombinator.com/item?id=27396848</id>
+        <link href="https://www.eejournal.com/article/we-interrupt-this-program/"/>
+        <updated>2021-06-04T18:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eejournal.com/article/we-interrupt-this-program/
+Comments URL: https://news.ycombinator.com/item?id=27396848
+Points: 151
+# Comments: 82]]></summary>
+        <author>
+            <name>eklitzke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroic Rat Retiring from Detecting Land Mines]]></title>
+        <id>https://news.ycombinator.com/item?id=27396803</id>
+        <link href="https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer"/>
+        <updated>2021-06-04T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer
+Comments URL: https://news.ycombinator.com/item?id=27396803
+Points: 104
+# Comments: 63]]></summary>
+        <author>
+            <name>packet_nerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
+        <id>60b2a4c611ffb70827ef9842</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
+        <updated>2021-06-04T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Linux DNS Lookup]]></title>
+        <id>https://news.ycombinator.com/item?id=27396208</id>
+        <link href="https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/"/>
+        <updated>2021-06-04T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
+Comments URL: https://news.ycombinator.com/item?id=27396208
+Points: 114
+# Comments: 31]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social virtual spaces with Elixir at Mozilla]]></title>
+        <id>https://news.ycombinator.com/item?id=27395861</id>
+        <link href="https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/"/>
+        <updated>2021-06-04T17:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/
+Comments URL: https://news.ycombinator.com/item?id=27395861
+Points: 173
+# Comments: 52]]></summary>
+        <author>
+            <name>thibaut_barrere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There are no results for tank man]]></title>
+        <id>https://news.ycombinator.com/item?id=27395635</id>
+        <link href="https://www.bing.com/images/search?q=tank+man"/>
+        <updated>2021-06-04T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bing.com/images/search?q=tank+man
+Comments URL: https://news.ycombinator.com/item?id=27395635
+Points: 1678
+# Comments: 416]]></summary>
+        <author>
+            <name>rcoveson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Should End the Data Economy]]></title>
+        <id>https://news.ycombinator.com/item?id=27394983</id>
+        <link href="https://thereboot.com/why-we-should-end-the-data-economy/"/>
+        <updated>2021-06-04T16:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thereboot.com/why-we-should-end-the-data-economy/
+Comments URL: https://news.ycombinator.com/item?id=27394983
+Points: 395
+# Comments: 325]]></summary>
+        <author>
+            <name>oppodeldoc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control]]></title>
+        <id>https://news.ycombinator.com/item?id=27393047</id>
+        <link href="http://gvv.mpi-inf.mpg.de/projects/NeuralActor/"/>
+        <updated>2021-06-04T12:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/
+Comments URL: https://news.ycombinator.com/item?id=27393047
+Points: 136
+# Comments: 40]]></summary>
+        <author>
+            <name>Hard_Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK and EU launch antitrust probes into Facebook]]></title>
+        <id>https://news.ycombinator.com/item?id=27392607</id>
+        <link href="https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667"/>
+        <updated>2021-06-04T11:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667
+Comments URL: https://news.ycombinator.com/item?id=27392607
+Points: 135
+# Comments: 29]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Unbelievable Demo]]></title>
+        <id>https://news.ycombinator.com/item?id=27390512</id>
+        <link href="https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html"/>
+        <updated>2021-06-04T04:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
+Comments URL: https://news.ycombinator.com/item?id=27390512
+Points: 2080
+# Comments: 415]]></summary>
+        <author>
+            <name>SerCe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Buren is a victory against overbroad interpretations of the CFAA]]></title>
+        <id>https://news.ycombinator.com/item?id=27389500</id>
+        <link href="https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security"/>
+        <updated>2021-06-04T01:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security
+Comments URL: https://news.ycombinator.com/item?id=27389500
+Points: 180
+# Comments: 73]]></summary>
+        <author>
+            <name>sohkamyung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>60b11ff811ffb70827ef8f94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2021-06-03T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called "Schofield's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
+        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
+        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
+        <updated>2021-06-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
         <id>60afce3011ffb70827ef869c</id>
@@ -3952,140 +4306,6 @@ The post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro]]></title>
-        <id>https://css-tricks.com/?p=339563</id>
-        <link href="https://css-tricks.com/astro/"/>
-        <updated>2021-05-05T21:49:23.000Z</updated>
-        <summary type="html"><![CDATA[You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. 
-I gotta admit: it looks awesome. I&#8217;m bullish &#8230;
-The post Astro appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
-        <id>609307e801fc34080ef8191e</id>
-        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
-        <updated>2021-05-05T21:11:40.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
-        <id>https://css-tricks.com/?p=339954</id>
-        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
-        <updated>2021-05-05T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
-The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Vendor Prefixing Dead?]]></title>
-        <id>https://css-tricks.com/?p=339518</id>
-        <link href="https://css-tricks.com/is-vendor-prefixing-dead/"/>
-        <updated>2021-05-05T14:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!
-It‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;
-The post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Rob O'Leary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16px or Larger Text Prevents iOS Form Zoom]]></title>
-        <id>https://css-tricks.com/?p=339455</id>
-        <link href="https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/"/>
-        <updated>2021-05-04T21:16:04.000Z</updated>
-        <summary type="html"><![CDATA[This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;
-The post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders]]></title>
-        <id>https://css-tricks.com/?p=339867</id>
-        <link href="https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/"/>
-        <updated>2021-05-04T21:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;
-The post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s use (X, X, X, X) for talking about specificity]]></title>
-        <id>https://css-tricks.com/?p=339449</id>
-        <link href="https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/"/>
-        <updated>2021-05-04T14:19:55.000Z</updated>
-        <summary type="html"><![CDATA[I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;
-The post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

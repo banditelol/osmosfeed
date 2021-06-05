@@ -6,6 +6,132 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27399581",
+          "author": "bqe",
+          "description": "Article URL: https://twitter.com/paulbiggar/status/1400904600421535744\nComments URL: https://news.ycombinator.com/item?id=27399581\nPoints: 570\n# Comments: 242",
+          "link": "https://twitter.com/paulbiggar/status/1400904600421535744",
+          "publishedOn": "2021-06-04T22:01:55.000Z",
+          "wordCount": 196,
+          "title": "Lol just got kicked out of  @ycombinator"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27399416",
+          "author": "tosh",
+          "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666\nComments URL: https://news.ycombinator.com/item?id=27399416\nPoints: 165\n# Comments: 96",
+          "link": "https://twitter.com/ID_AA_Carmack/status/1400930510671601666",
+          "publishedOn": "2021-06-04T21:43:53.000Z",
+          "wordCount": 196,
+          "title": "John Carmack on JPEG"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27397208",
+          "author": "brundolf",
+          "description": "Article URL: https://binji.github.io/posts/pokegb/\nComments URL: https://news.ycombinator.com/item?id=27397208\nPoints: 365\n# Comments: 41",
+          "link": "https://binji.github.io/posts/pokegb/",
+          "publishedOn": "2021-06-04T18:31:27.000Z",
+          "wordCount": 11960,
+          "title": "Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27396873",
+          "author": "myth_drannon",
+          "description": "Article URL: https://www.nature.com/articles/s41413-020-00127-9\nComments URL: https://news.ycombinator.com/item?id=27396873\nPoints: 112\n# Comments: 89",
+          "link": "https://www.nature.com/articles/s41413-020-00127-9",
+          "publishedOn": "2021-06-04T18:11:44.000Z",
+          "wordCount": 10035,
+          "title": "Ultra-processed food targets bone quality via endochondral ossification"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27396848",
+          "author": "eklitzke",
+          "description": "Article URL: https://www.eejournal.com/article/we-interrupt-this-program/\nComments URL: https://news.ycombinator.com/item?id=27396848\nPoints: 151\n# Comments: 82",
+          "link": "https://www.eejournal.com/article/we-interrupt-this-program/",
+          "publishedOn": "2021-06-04T18:10:27.000Z",
+          "wordCount": 2487,
+          "title": "Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27396803",
+          "author": "packet_nerd",
+          "description": "Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer\nComments URL: https://news.ycombinator.com/item?id=27396803\nPoints: 104\n# Comments: 63",
+          "link": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
+          "publishedOn": "2021-06-04T18:08:14.000Z",
+          "wordCount": 1111,
+          "title": "Heroic Rat Retiring from Detecting Land Mines"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27396208",
+          "author": "belter",
+          "description": "Article URL: https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/\nComments URL: https://news.ycombinator.com/item?id=27396208\nPoints: 114\n# Comments: 31",
+          "link": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
+          "publishedOn": "2021-06-04T17:28:44.000Z",
+          "wordCount": 3610,
+          "title": "Anatomy of a Linux DNS Lookup"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395861",
+          "author": "thibaut_barrere",
+          "description": "Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/\nComments URL: https://news.ycombinator.com/item?id=27395861\nPoints: 173\n# Comments: 52",
+          "link": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
+          "publishedOn": "2021-06-04T17:06:33.000Z",
+          "wordCount": 1271,
+          "title": "Social virtual spaces with Elixir at Mozilla"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27395635",
+          "author": "rcoveson",
+          "description": "Article URL: https://www.bing.com/images/search?q=tank+man\nComments URL: https://news.ycombinator.com/item?id=27395635\nPoints: 1678\n# Comments: 416",
+          "link": "https://www.bing.com/images/search?q=tank+man",
+          "publishedOn": "2021-06-04T16:51:37.000Z",
+          "wordCount": 219,
+          "title": "There are no results for tank man"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27394983",
+          "author": "oppodeldoc",
+          "description": "Article URL: https://thereboot.com/why-we-should-end-the-data-economy/\nComments URL: https://news.ycombinator.com/item?id=27394983\nPoints: 395\n# Comments: 325",
+          "link": "https://thereboot.com/why-we-should-end-the-data-economy/",
+          "publishedOn": "2021-06-04T16:02:21.000Z",
+          "wordCount": 1788,
+          "title": "Why We Should End the Data Economy"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27393047",
+          "author": "Hard_Space",
+          "description": "Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/\nComments URL: https://news.ycombinator.com/item?id=27393047\nPoints: 136\n# Comments: 40",
+          "link": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
+          "publishedOn": "2021-06-04T12:48:22.000Z",
+          "wordCount": 608,
+          "title": "Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27392607",
+          "author": "helsinkiandrew",
+          "description": "Article URL: https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667\nComments URL: https://news.ycombinator.com/item?id=27392607\nPoints: 135\n# Comments: 29",
+          "link": "https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667",
+          "publishedOn": "2021-06-04T11:44:15.000Z",
+          "wordCount": 974,
+          "title": "UK and EU launch antitrust probes into Facebook"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27390512",
+          "author": "SerCe",
+          "description": "Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html\nComments URL: https://news.ycombinator.com/item?id=27390512\nPoints: 2080\n# Comments: 415",
+          "link": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
+          "publishedOn": "2021-06-04T04:21:31.000Z",
+          "wordCount": 2557,
+          "title": "An Unbelievable Demo"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27389500",
+          "author": "sohkamyung",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security\nComments URL: https://news.ycombinator.com/item?id=27389500\nPoints: 180\n# Comments: 73",
+          "link": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
+          "publishedOn": "2021-06-04T01:32:47.000Z",
+          "wordCount": 2942,
+          "title": "Van Buren is a victory against overbroad interpretations of the CFAA"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27374840",
           "author": "spenrose",
           "description": "Article URL: https://trib.com/news/state-and-regional/wyoming-selected-as-site-of-new-nuclear-power-plant-in-partnership-with-bill-gates-terrapower/article_ab632119-c5c5-53b0-9468-677ef87fd80a.html\nComments URL: https://news.ycombinator.com/item?id=27374840\nPoints: 105\n# Comments: 31",
@@ -1588,6 +1714,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341968",
+          "author": "Chris Coyier",
+          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/canihas.html",
+          "publishedOn": "2021-06-04T14:37:59.000Z",
+          "wordCount": 1327,
+          "title": "Can I :has()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341584",
+          "author": "Temani Afif",
+          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "publishedOn": "2021-06-03T14:25:57.000Z",
+          "wordCount": 5032,
+          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341494",
+          "author": "Chris Coyier",
+          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
+          "publishedOn": "2021-06-03T14:25:19.000Z",
+          "wordCount": 955,
+          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
+        },
+        {
           "id": "https://css-tricks.com/?p=341724",
           "author": "Chris Coyier",
           "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -2081,60 +2243,6 @@
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
           "title": "Custom State Pseudo-Classes in Chrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339563",
-          "author": "Chris Coyier",
-          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/astro/",
-          "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 920,
-          "title": "Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339954",
-          "author": "Chris Coyier",
-          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://infrequently.org/2021/04/progress-delayed/",
-          "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6686,
-          "title": "Progress Delayed Is Progress Denied"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339518",
-          "author": "Rob O'Leary",
-          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
-          "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3140,
-          "title": "Is Vendor Prefixing Dead?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339455",
-          "author": "Chris Coyier",
-          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
-          "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 758,
-          "title": "16px or Larger Text Prevents iOS Form Zoom"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339867",
-          "author": "Geoff Graham",
-          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
-          "publishedOn": "2021-05-04T21:15:57.000Z",
-          "wordCount": 450,
-          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339449",
-          "author": "Chris Coyier",
-          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
-          "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 970,
-          "title": "Let’s use (X, X, X, X) for talking about specificity"
         }
       ]
     },
@@ -2143,6 +2251,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
+          "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
+          "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "publishedOn": "2021-06-03T10:30:00.000Z",
+          "wordCount": 3498,
+          "title": "Managing Shared State In Vue 3",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
@@ -2431,33 +2567,6 @@
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
         }
       ]
     },
@@ -2466,6 +2575,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
+        {
+          "id": "60ba33d7acb62507dd1d9050",
+          "author": null,
+          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
+          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
+          "publishedOn": "2021-06-04T20:58:07.000Z",
+          "wordCount": 1544,
+          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
+        },
+        {
+          "id": "60b8f5c7acb62507dd1d8500",
+          "author": null,
+          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
+          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
+          "publishedOn": "2021-06-04T20:41:29.000Z",
+          "wordCount": 2163,
+          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
+        },
+        {
+          "id": "60b2a4c611ffb70827ef9842",
+          "author": null,
+          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
+          "publishedOn": "2021-06-04T18:01:00.000Z",
+          "wordCount": 2225,
+          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
+        {
+          "id": "60b11ff811ffb70827ef8f94",
+          "author": null,
+          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "publishedOn": "2021-06-03T21:44:03.000Z",
+          "wordCount": 3978,
+          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
+        },
+        {
+          "id": "60afd68611ffb70827ef86d8",
+          "author": null,
+          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called \"Schofield's",
+          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
+          "publishedOn": "2021-06-03T18:46:12.000Z",
+          "wordCount": 1595,
+          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
+        },
+        {
+          "id": "60b7c02cacb62507dd1d7b80",
+          "author": null,
+          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
+          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
+          "publishedOn": "2021-06-03T18:42:20.000Z",
+          "wordCount": 1748,
+          "title": "Lists in Python – A Comprehensive Guide"
+        },
+        {
+          "id": "60affbe411ffb70827ef8951",
+          "author": null,
+          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
+          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
+          "publishedOn": "2021-06-03T18:07:17.000Z",
+          "wordCount": 2708,
+          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
+        },
+        {
+          "id": "60aa708711ffb70827ef5f4b",
+          "author": null,
+          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
+          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
+          "publishedOn": "2021-06-03T16:51:37.000Z",
+          "wordCount": 1453,
+          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
+        },
         {
           "id": "60afce3011ffb70827ef869c",
           "author": null,
@@ -3113,33 +3312,6 @@
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
-        },
-        {
-          "id": "609307e801fc34080ef8191e",
-          "author": "",
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
-          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
-          "publishedOn": "2021-05-05T21:11:40.000Z",
-          "wordCount": 352,
-          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
-        },
-        {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
-        },
-        {
-          "id": "608f5ad48eb3fb07cf099ddb",
-          "author": "",
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1018,
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         }
       ]
     }
