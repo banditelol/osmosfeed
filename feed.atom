@@ -2,10 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T00:52:34.463Z</updated>
+    <updated>2021-06-06T00:44:49.721Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[El Salvador to adopt Bitcoin as legal tender]]></title>
+        <id>https://news.ycombinator.com/item?id=27408683</id>
+        <link href="https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html"/>
+        <updated>2021-06-05T21:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
+Comments URL: https://news.ycombinator.com/item?id=27408683
+Points: 148
+# Comments: 85]]></summary>
+        <author>
+            <name>ncpa-cpl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justice Department withdraws FBI subpoena for USA Today records ID'ing readers]]></title>
+        <id>https://news.ycombinator.com/item?id=27408647</id>
+        <link href="https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/"/>
+        <updated>2021-06-05T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/
+Comments URL: https://news.ycombinator.com/item?id=27408647
+Points: 131
+# Comments: 59]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Password Managers]]></title>
+        <id>https://news.ycombinator.com/item?id=27407603</id>
+        <link href="https://lock.cmpxchg8b.com/passmgrs.html"/>
+        <updated>2021-06-05T18:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
+Comments URL: https://news.ycombinator.com/item?id=27407603
+Points: 166
+# Comments: 131]]></summary>
+        <author>
+            <name>arthurmorgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All controversial trades by Senators in the 2020 Congressional insider trading]]></title>
+        <id>https://news.ycombinator.com/item?id=27406243</id>
+        <link href="https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/"/>
+        <updated>2021-06-05T16:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/
+Comments URL: https://news.ycombinator.com/item?id=27406243
+Points: 201
+# Comments: 64]]></summary>
+        <author>
+            <name>chetangoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The modern web on a slow connection (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27406132</id>
+        <link href="https://danluu.com/web-bloat/"/>
+        <updated>2021-06-05T16:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
+Comments URL: https://news.ycombinator.com/item?id=27406132
+Points: 176
+# Comments: 118]]></summary>
+        <author>
+            <name>x14km2d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mandelbrot Monk (1999)]]></title>
+        <id>https://news.ycombinator.com/item?id=27405450</id>
+        <link href="https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html"/>
+        <updated>2021-06-05T14:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
+Comments URL: https://news.ycombinator.com/item?id=27405450
+Points: 143
+# Comments: 46]]></summary>
+        <author>
+            <name>rfreytag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IconVG is a compact, binary format for simple vector graphics]]></title>
+        <id>https://news.ycombinator.com/item?id=27404301</id>
+        <link href="https://github.com/google/iconvg"/>
+        <updated>2021-06-05T12:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
+Comments URL: https://news.ycombinator.com/item?id=27404301
+Points: 111
+# Comments: 53]]></summary>
+        <author>
+            <name>bpierre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7: Rich nations back deal to tax multinationals]]></title>
+        <id>https://news.ycombinator.com/item?id=27404018</id>
+        <link href="https://www.bbc.co.uk/news/world-57368247"/>
+        <updated>2021-06-05T11:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-57368247
+Comments URL: https://news.ycombinator.com/item?id=27404018
+Points: 857
+# Comments: 738]]></summary>
+        <author>
+            <name>ddek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ftxui: C++ Functional Terminal User Interface]]></title>
+        <id>https://news.ycombinator.com/item?id=27403877</id>
+        <link href="https://github.com/ArthurSonzogni/FTXUI"/>
+        <updated>2021-06-05T10:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ArthurSonzogni/FTXUI
+Comments URL: https://news.ycombinator.com/item?id=27403877
+Points: 131
+# Comments: 59]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lol just got kicked out of  @ycombinator]]></title>
         <id>https://news.ycombinator.com/item?id=27399581</id>
@@ -4216,96 +4333,6 @@ The post Links on Typography appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I Email…]]></title>
-        <id>https://css-tricks.com/?p=339822</id>
-        <link href="https://www.caniemail.com/"/>
-        <updated>2021-05-07T02:38:56.000Z</updated>
-        <summary type="html"><![CDATA[While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;
-The post Can I Email&#8230; appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is &quot;Lifting State Up&quot; in React?]]></title>
-        <id>609409c201fc34080ef81f97</id>
-        <link href="https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/"/>
-        <updated>2021-05-06T21:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Here is a simple and practical example what it means to "lift state up" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apparently, You Can Use Route53 as a Blazingly Fast Database]]></title>
-        <id>https://css-tricks.com/?p=340015</id>
-        <link href="https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005"/>
-        <updated>2021-05-06T20:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:
-When you think about it, DNS configuration is actually a 
-&#8230;
-The post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Google’s New Page Experience Update Means for Images on Your Website]]></title>
-        <id>https://css-tricks.com/?p=339936</id>
-        <link href="https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/"/>
-        <updated>2021-05-06T19:57:40.000Z</updated>
-        <summary type="html"><![CDATA[It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;
-The post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Use the Chrome DevTools to Troubleshoot Websites]]></title>
-        <id>609415eb2cd0545b5e943534</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/"/>
-        <updated>2021-05-06T16:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optional Types in Swift – How to Use and Unwrap Optionals]]></title>
-        <id>60939bde01fc34080ef81a19</id>
-        <link href="https://www.freecodecamp.org/news/optional-types-in-swift/"/>
-        <updated>2021-05-06T16:06:35.000Z</updated>
-        <summary type="html"><![CDATA[If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or "optionals". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom State Pseudo-Classes in Chrome]]></title>
-        <id>https://css-tricks.com/?p=339586</id>
-        <link href="https://css-tricks.com/custom-state-pseudo-classes-in-chrome/"/>
-        <updated>2021-05-06T14:28:53.000Z</updated>
-        <summary type="html"><![CDATA[There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;
-The post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
         </author>
     </entry>
 </feed>

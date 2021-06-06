@@ -6,6 +6,87 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27408683",
+          "author": "ncpa-cpl",
+          "description": "Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html\nComments URL: https://news.ycombinator.com/item?id=27408683\nPoints: 148\n# Comments: 85",
+          "link": "https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html",
+          "publishedOn": "2021-06-05T21:43:27.000Z",
+          "wordCount": 849,
+          "title": "El Salvador to adopt Bitcoin as legal tender"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27408647",
+          "author": "prostoalex",
+          "description": "Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/\nComments URL: https://news.ycombinator.com/item?id=27408647\nPoints: 131\n# Comments: 59",
+          "link": "https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/",
+          "publishedOn": "2021-06-05T21:37:32.000Z",
+          "wordCount": 721,
+          "title": "Justice Department withdraws FBI subpoena for USA Today records ID'ing readers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27407603",
+          "author": "arthurmorgan",
+          "description": "Article URL: https://lock.cmpxchg8b.com/passmgrs.html\nComments URL: https://news.ycombinator.com/item?id=27407603\nPoints: 166\n# Comments: 131",
+          "link": "https://lock.cmpxchg8b.com/passmgrs.html",
+          "publishedOn": "2021-06-05T18:52:23.000Z",
+          "wordCount": 1691,
+          "title": "Password Managers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27406243",
+          "author": "chetangoti",
+          "description": "Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/\nComments URL: https://news.ycombinator.com/item?id=27406243\nPoints: 201\n# Comments: 64",
+          "link": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
+          "publishedOn": "2021-06-05T16:13:15.000Z",
+          "wordCount": 1609,
+          "title": "All controversial trades by Senators in the 2020 Congressional insider trading"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27406132",
+          "author": "x14km2d",
+          "description": "Article URL: https://danluu.com/web-bloat/\nComments URL: https://news.ycombinator.com/item?id=27406132\nPoints: 176\n# Comments: 118",
+          "link": "https://danluu.com/web-bloat/",
+          "publishedOn": "2021-06-05T16:01:44.000Z",
+          "wordCount": 4346,
+          "title": "The modern web on a slow connection (2017)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27405450",
+          "author": "rfreytag",
+          "description": "Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html\nComments URL: https://news.ycombinator.com/item?id=27405450\nPoints: 143\n# Comments: 46",
+          "link": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
+          "publishedOn": "2021-06-05T14:40:52.000Z",
+          "wordCount": 1836,
+          "title": "The Mandelbrot Monk (1999)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27404301",
+          "author": "bpierre",
+          "description": "Article URL: https://github.com/google/iconvg\nComments URL: https://news.ycombinator.com/item?id=27404301\nPoints: 111\n# Comments: 53",
+          "link": "https://github.com/google/iconvg",
+          "publishedOn": "2021-06-05T12:21:57.000Z",
+          "wordCount": 921,
+          "title": "IconVG is a compact, binary format for simple vector graphics"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27404018",
+          "author": "ddek",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-57368247\nComments URL: https://news.ycombinator.com/item?id=27404018\nPoints: 857\n# Comments: 738",
+          "link": "https://www.bbc.co.uk/news/world-57368247",
+          "publishedOn": "2021-06-05T11:24:19.000Z",
+          "wordCount": 1747,
+          "title": "G7: Rich nations back deal to tax multinationals"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27403877",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/ArthurSonzogni/FTXUI\nComments URL: https://news.ycombinator.com/item?id=27403877\nPoints: 131\n# Comments: 59",
+          "link": "https://github.com/ArthurSonzogni/FTXUI",
+          "publishedOn": "2021-06-05T10:50:03.000Z",
+          "wordCount": 716,
+          "title": "Ftxui: C++ Functional Terminal User Interface"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27399581",
           "author": "bqe",
           "description": "Article URL: https://twitter.com/paulbiggar/status/1400904600421535744\nComments URL: https://news.ycombinator.com/item?id=27399581\nPoints: 570\n# Comments: 242",
@@ -2207,42 +2288,6 @@
           "publishedOn": "2021-05-07T13:54:01.000Z",
           "wordCount": 952,
           "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339822",
-          "author": "Chris Coyier",
-          "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.caniemail.com/",
-          "publishedOn": "2021-05-07T02:38:56.000Z",
-          "wordCount": 324,
-          "title": "Can I Email…"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340015",
-          "author": "Chris Coyier",
-          "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
-          "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1523,
-          "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339936",
-          "author": "Geoff Graham",
-          "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
-          "publishedOn": "2021-05-06T19:57:40.000Z",
-          "wordCount": 2599,
-          "title": "What Google’s New Page Experience Update Means for Images on Your Website"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339586",
-          "author": "Šime Vidas",
-          "description": "There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;\nThe post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
-          "publishedOn": "2021-05-06T14:28:53.000Z",
-          "wordCount": 1025,
-          "title": "Custom State Pseudo-Classes in Chrome"
         }
       ]
     },
@@ -2558,15 +2603,6 @@
           "publishedOn": "2021-05-10T11:00:00.000Z",
           "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
         }
       ]
     },
@@ -3285,33 +3321,6 @@
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
-        },
-        {
-          "id": "609409c201fc34080ef81f97",
-          "author": "",
-          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
-          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
-          "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1349,
-          "title": "What Is &quot;Lifting State Up&quot; in React?"
-        },
-        {
-          "id": "609415eb2cd0545b5e943534",
-          "author": "",
-          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
-          "publishedOn": "2021-05-06T16:26:08.000Z",
-          "wordCount": 426,
-          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
-        },
-        {
-          "id": "60939bde01fc34080ef81a19",
-          "author": "",
-          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
-          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
-          "publishedOn": "2021-05-06T16:06:35.000Z",
-          "wordCount": 1775,
-          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         }
       ]
     }
