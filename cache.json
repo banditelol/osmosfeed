@@ -6,6 +6,150 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27427485",
+          "author": "nthitz",
+          "description": "Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside\nComments URL: https://news.ycombinator.com/item?id=27427485\nPoints: 136\n# Comments: 120",
+          "link": "https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside",
+          "publishedOn": "2021-06-07T21:46:12.000Z",
+          "wordCount": 910,
+          "title": "DOJ Seizes $2.3M in Crypto Paid to the Ransomware Extortionists Darkside"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27427330",
+          "author": "caspii",
+          "description": "Article URL: https://casparwre.de/blog/seo-scam/\nComments URL: https://news.ycombinator.com/item?id=27427330\nPoints: 498\n# Comments: 93",
+          "link": "https://casparwre.de/blog/seo-scam/",
+          "publishedOn": "2021-06-07T21:35:19.000Z",
+          "wordCount": 975,
+          "title": "The top-ranking HTML editor on Google is an SEO scam"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27427096",
+          "author": "andrewnicolalde",
+          "description": "Article URL: https://www.infoq.com/news/2021/04/intel-hidden-instructions/\nComments URL: https://news.ycombinator.com/item?id=27427096\nPoints: 154\n# Comments: 34",
+          "link": "https://www.infoq.com/news/2021/04/intel-hidden-instructions/",
+          "publishedOn": "2021-06-07T21:19:42.000Z",
+          "wordCount": 3228,
+          "title": "Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27426922",
+          "author": "infodocket",
+          "description": "Article URL: https://ourworldindata.org/battery-price-decline\nComments URL: https://news.ycombinator.com/item?id=27426922\nPoints: 186\n# Comments: 121",
+          "link": "https://ourworldindata.org/battery-price-decline",
+          "publishedOn": "2021-06-07T21:06:31.000Z",
+          "wordCount": 1903,
+          "title": "The price of batteries has declined by 97% in the last three decades"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27426739",
+          "author": "diogenesjunior",
+          "description": "Article URL: https://twitter.com/HNStatus/status/1401980524428627970\nComments URL: https://news.ycombinator.com/item?id=27426739\nPoints: 138\n# Comments: 41",
+          "link": "https://twitter.com/HNStatus/status/1401980524428627970",
+          "publishedOn": "2021-06-07T20:31:30.000Z",
+          "wordCount": 196,
+          "title": "Server is smoking, trying to figure out why"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27425622",
+          "author": "jbredeche",
+          "description": "Article URL: https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc\nComments URL: https://news.ycombinator.com/item?id=27425622\nPoints: 410\n# Comments: 183",
+          "link": "https://www.theverge.com/2021/6/7/22522889/apple-facetime-android-windows-web-ios-15-wwdc",
+          "publishedOn": "2021-06-07T17:46:24.000Z",
+          "wordCount": 678,
+          "title": "FaceTime is coming to Android and Windows via the web"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27424649",
+          "author": "farmerbb",
+          "description": "Article URL: https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/\nComments URL: https://news.ycombinator.com/item?id=27424649\nPoints: 253\n# Comments: 66",
+          "link": "https://huebnerob.com/2021/06/06/found-at-goodwill-webpad-1001-prototype/",
+          "publishedOn": "2021-06-07T16:40:04.000Z",
+          "wordCount": 907,
+          "title": "Found at Goodwill: WebPad 1001 Prototype"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27424605",
+          "author": "wwilson",
+          "description": "Article URL: https://www.foundationdb.org/files/fdb-paper.pdf\nComments URL: https://news.ycombinator.com/item?id=27424605\nPoints: 148\n# Comments: 50",
+          "link": "https://www.foundationdb.org/files/fdb-paper.pdf",
+          "publishedOn": "2021-06-07T16:37:36.000Z",
+          "wordCount": 25302,
+          "title": "FoundationDB: A Distributed, Unbundled, Transactional Key Value Store [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27424195",
+          "author": "raxod502",
+          "description": "Article URL: https://intuitiveexplanations.com/tech/replit/\nComments URL: https://news.ycombinator.com/item?id=27424195\nPoints: 2918\n# Comments: 869",
+          "link": "https://intuitiveexplanations.com/tech/replit/",
+          "publishedOn": "2021-06-07T16:08:04.000Z",
+          "wordCount": 2395,
+          "title": "Replit used legal threats to kill my open-source project"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27422719",
+          "author": "sprague",
+          "description": "Article URL: http://blog.booleanbiotech.com/human-genome-at-home.html\nComments URL: https://news.ycombinator.com/item?id=27422719\nPoints: 130\n# Comments: 32",
+          "link": "http://blog.booleanbiotech.com/human-genome-at-home.html",
+          "publishedOn": "2021-06-07T14:03:08.000Z",
+          "wordCount": 1853,
+          "title": "How to sequence your genome at home"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27422610",
+          "author": "macleginn",
+          "description": "Article URL: https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/\nComments URL: https://news.ycombinator.com/item?id=27422610\nPoints: 351\n# Comments: 309",
+          "link": "https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/",
+          "publishedOn": "2021-06-07T13:53:03.000Z",
+          "wordCount": 5269,
+          "title": "“AI promised to revolutionize radiology but so far its failing”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27422396",
+          "author": "5rest",
+          "description": "Article URL: https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed\nComments URL: https://news.ycombinator.com/item?id=27422396\nPoints: 135\n# Comments: 99",
+          "link": "https://spectrum.ieee.org/the-human-os/biomedical/devices/braincomputer-interface-smashes-previous-record-for-typing-speed",
+          "publishedOn": "2021-06-07T13:34:28.000Z",
+          "wordCount": 44,
+          "title": "Brain-Computer Interface Smashes Previous Record for Typing Speed"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27421527",
+          "author": "Anon84",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57379704\nComments URL: https://news.ycombinator.com/item?id=27421527\nPoints: 315\n# Comments: 173",
+          "link": "https://www.bbc.com/news/world-europe-57379704",
+          "publishedOn": "2021-06-07T12:01:23.000Z",
+          "wordCount": 860,
+          "title": "David Dushman, last surviving Auschwitz liberator, dies aged 98"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27421408",
+          "author": "navaneethpk",
+          "description": "Article URL: https://github.com/ToolJet/ToolJet/\nComments URL: https://news.ycombinator.com/item?id=27421408\nPoints: 381\n# Comments: 65",
+          "link": "https://github.com/ToolJet/ToolJet/",
+          "publishedOn": "2021-06-07T11:44:13.000Z",
+          "wordCount": 1192,
+          "title": "Show HN: Open-source alternative to Retool, Internal.io, etc."
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27420554",
+          "author": "rinesh",
+          "description": "Article URL: https://github.com/pedronauck/docz/issues/1634\nComments URL: https://news.ycombinator.com/item?id=27420554\nPoints: 719\n# Comments: 294",
+          "link": "https://github.com/pedronauck/docz/issues/1634",
+          "publishedOn": "2021-06-07T09:17:27.000Z",
+          "wordCount": 2707,
+          "title": "Sorry everybody, I failed with you"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27415122",
+          "author": "see-also",
+          "description": "Article URL: https://granta.com/notes-on-craft-jonathan-lee/\nComments URL: https://news.ycombinator.com/item?id=27415122\nPoints: 105\n# Comments: 69",
+          "link": "https://granta.com/notes-on-craft-jonathan-lee/",
+          "publishedOn": "2021-06-06T18:28:29.000Z",
+          "wordCount": 2078,
+          "title": "How to Start a Novel"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27408683",
           "author": "ncpa-cpl",
           "description": "Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html\nComments URL: https://news.ycombinator.com/item?id=27408683\nPoints: 148\n# Comments: 85",
@@ -1795,6 +1939,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341805",
+          "author": "Chris Coyier",
+          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-accessibility/",
+          "publishedOn": "2021-06-07T19:52:26.000Z",
+          "wordCount": 599,
+          "title": "Links on Accessibility"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340390",
+          "author": "Chris Coyier",
+          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
+          "publishedOn": "2021-06-07T14:13:50.000Z",
+          "wordCount": 1453,
+          "title": "VS Code Extensions for HTML"
+        },
+        {
           "id": "https://css-tricks.com/?p=341793",
           "author": "Chris Coyier",
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -2270,24 +2432,6 @@
           "publishedOn": "2021-05-10T14:13:12.000Z",
           "wordCount": 2838,
           "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339781",
-          "author": "Chris Coyier",
-          "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/is-css-a-programming-language/",
-          "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 3313,
-          "title": "Is CSS a Programming Language?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339574",
-          "author": "Chris Coyier",
-          "description": "These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-typography/",
-          "publishedOn": "2021-05-07T13:54:01.000Z",
-          "wordCount": 952,
-          "title": "Links on Typography"
         }
       ]
     },
@@ -2296,6 +2440,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
+          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
+          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "publishedOn": "2021-06-07T11:00:00.000Z",
+          "wordCount": 2218,
+          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "author": "hello@smashingmagazine.com (Nwani Victory)",
@@ -2611,6 +2769,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
+          "id": "60be863cd3126007592d4c36",
+          "author": null,
+          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "publishedOn": "2021-06-07T20:54:41.000Z",
+          "wordCount": 439,
+          "title": "How to Use OpenCV and Python for Computer Vision and AI"
+        },
+        {
+          "id": "5ff625967af2371468bb8645",
+          "author": null,
+          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
+          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
+          "publishedOn": "2021-06-07T18:18:01.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b136d911ffb70827ef912b",
+          "author": null,
+          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
+          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
+          "publishedOn": "2021-06-07T15:01:26.000Z",
+          "wordCount": 1547,
+          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
+        },
         {
           "id": "60b3480c11ffb70827ef9a88",
           "author": null,
@@ -3303,24 +3497,6 @@
           "publishedOn": "2021-05-10T17:04:31.000Z",
           "wordCount": 1254,
           "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
-        },
-        {
-          "id": "609558382cd0545b5e943c6f",
-          "author": "",
-          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
-          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
-          "publishedOn": "2021-05-07T21:07:57.000Z",
-          "wordCount": 1065,
-          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
-        },
-        {
-          "id": "609551f02cd0545b5e943bc0",
-          "author": "",
-          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
-          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
-          "publishedOn": "2021-05-07T16:59:53.000Z",
-          "wordCount": 1278,
-          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         }
       ]
     }
