@@ -2,10 +2,412 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T00:46:54.485Z</updated>
+    <updated>2021-06-10T00:27:47.221Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook extends its work-at-home policy to most employees]]></title>
+        <id>https://news.ycombinator.com/item?id=27453909</id>
+        <link href="https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html"/>
+        <updated>2021-06-09T22:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html
+Comments URL: https://news.ycombinator.com/item?id=27453909
+Points: 268
+# Comments: 136]]></summary>
+        <author>
+            <name>prostoalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
+        <id>60b357ad11ffb70827ef9a90</id>
+        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
+        <updated>2021-06-09T21:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating necessity of Covid-19 vaccination in previously infected individuals]]></title>
+        <id>https://news.ycombinator.com/item?id=27453721</id>
+        <link href="https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2"/>
+        <updated>2021-06-09T21:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2
+Comments URL: https://news.ycombinator.com/item?id=27453721
+Points: 112
+# Comments: 87]]></summary>
+        <author>
+            <name>bananapizza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TC Energy scraps Keystone XL pipeline project after Biden revokes key permit]]></title>
+        <id>https://news.ycombinator.com/item?id=27453226</id>
+        <link href="https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/"/>
+        <updated>2021-06-09T21:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/
+Comments URL: https://news.ycombinator.com/item?id=27453226
+Points: 170
+# Comments: 183]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
+        <id>60c0ccbed3126007592d5781</id>
+        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
+        <updated>2021-06-09T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You use more open source software than you think]]></title>
+        <id>https://news.ycombinator.com/item?id=27452151</id>
+        <link href="https://github.com/readme/unseen-oss"/>
+        <updated>2021-06-09T19:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/readme/unseen-oss
+Comments URL: https://news.ycombinator.com/item?id=27452151
+Points: 115
+# Comments: 70]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to circumvent Sci-Hub ISP block]]></title>
+        <id>https://news.ycombinator.com/item?id=27451844</id>
+        <link href="https://fragile-credences.github.io/scihub-proxy/"/>
+        <updated>2021-06-09T19:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fragile-credences.github.io/scihub-proxy/
+Comments URL: https://news.ycombinator.com/item?id=27451844
+Points: 267
+# Comments: 114]]></summary>
+        <author>
+            <name>tmkadamcz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple is threatening to remove Fanhouse unless they give 30% of creator earning]]></title>
+        <id>https://news.ycombinator.com/item?id=27451689</id>
+        <link href="https://twitter.com/jasminericegirl/status/1402691047940100100"/>
+        <updated>2021-06-09T18:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/jasminericegirl/status/1402691047940100100
+Comments URL: https://news.ycombinator.com/item?id=27451689
+Points: 324
+# Comments: 399]]></summary>
+        <author>
+            <name>amrrs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
+        <id>60c10a1dd3126007592d5988</id>
+        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
+        <updated>2021-06-09T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Universal Control on macOS Monterey Works]]></title>
+        <id>https://news.ycombinator.com/item?id=27451413</id>
+        <link href="https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad"/>
+        <updated>2021-06-09T18:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
+Comments URL: https://news.ycombinator.com/item?id=27451413
+Points: 106
+# Comments: 108]]></summary>
+        <author>
+            <name>gumby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angband 4.2.2: A free, single-player roguelike dungeon exploration game]]></title>
+        <id>https://news.ycombinator.com/item?id=27450373</id>
+        <link href="http://rephial.org/"/>
+        <updated>2021-06-09T17:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://rephial.org/
+Comments URL: https://news.ycombinator.com/item?id=27450373
+Points: 133
+# Comments: 48]]></summary>
+        <author>
+            <name>throwawaybutwhy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.06.08 Certificate Lifetime Incident]]></title>
+        <id>https://news.ycombinator.com/item?id=27450364</id>
+        <link href="https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426"/>
+        <updated>2021-06-09T17:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426
+Comments URL: https://news.ycombinator.com/item?id=27450364
+Points: 328
+# Comments: 128]]></summary>
+        <author>
+            <name>Arnavion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweden’s Northvolt raises $2.8B to supercharge EV battery output]]></title>
+        <id>https://news.ycombinator.com/item?id=27449931</id>
+        <link href="https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/"/>
+        <updated>2021-06-09T16:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/
+Comments URL: https://news.ycombinator.com/item?id=27449931
+Points: 196
+# Comments: 58]]></summary>
+        <author>
+            <name>cpach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=blank]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=blank appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you sell a house these days, the buyer might be a pension fund]]></title>
+        <id>https://news.ycombinator.com/item?id=27448175</id>
+        <link href="https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801"/>
+        <updated>2021-06-09T14:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801
+Comments URL: https://news.ycombinator.com/item?id=27448175
+Points: 581
+# Comments: 902]]></summary>
+        <author>
+            <name>zpeti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resistor Noise Can Be Deafening, and Hard to Reduce (2007)]]></title>
+        <id>https://news.ycombinator.com/item?id=27447766</id>
+        <link href="https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html"/>
+        <updated>2021-06-09T13:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
+Comments URL: https://news.ycombinator.com/item?id=27447766
+Points: 228
+# Comments: 90]]></summary>
+        <author>
+            <name>bcaa7f3a8bbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpaca Attack]]></title>
+        <id>https://news.ycombinator.com/item?id=27447348</id>
+        <link href="https://alpaca-attack.com/"/>
+        <updated>2021-06-09T12:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alpaca-attack.com/
+Comments URL: https://news.ycombinator.com/item?id=27447348
+Points: 122
+# Comments: 42]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: SMS-based two-factor authentication is not secure]]></title>
+        <id>https://news.ycombinator.com/item?id=27447206</id>
+        <link href="https://news.ycombinator.com/item?id=27447206"/>
+        <updated>2021-06-09T12:40:08.000Z</updated>
+        <summary type="html"><![CDATA[SMS-based Two-Factor Authentication is not Secure. I’ve read this before but brushed it off. It wouldn’t happen to me. It did.
+I am with Boost Mobile. On Sunday night I received a text message that my PIN was changed. Within minutes I confirmed this to be true on my PC. I used the Boost application on my phone to change the PIN and received a confirmation text.
+A few minute later I received a text message welcoming me to Metro PCS.
+A few minute later I received emails to my business email that my account security information was deleted from my person email account. They used SMS authentication to my mobile number, that they now have control of to gain access.
+A few minutes later I received an email there was an account recovery attempt on my coinbase.com account.
+It took less than 30 minutes for these events to transpire.
+I've spent about 15 hours trying to get my phone number and my email address back to my control.
+I've accumulated a list of eight other people in the Boost Mobile Reddit.com forum where the exact same thing happened to them.
+I filed a police report and filed a report with the FCC. I received a response from the FCC that they have started the inquiry and contacted Boost.
+I finally did get my cell phone number ported back to Boost. I have not gained control of my Microsoft email address.
+I didn’t realize I could only have messages of 2,000 characters.  So I will wrap this up.
+When account settings were changed, Coinbase gave me a link to lock my account, Microsoft gave me a link to log in to my account, which I no longer have control of.
+Unlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.
+I am calculating my losses and documenting all interactions.
+Comments URL: https://news.ycombinator.com/item?id=27447206
+Points: 518
+# Comments: 247]]></summary>
+        <author>
+            <name>Zolt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Years of Factorio Friday Facts (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27446910</id>
+        <link href="https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts"/>
+        <updated>2021-06-09T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts
+Comments URL: https://news.ycombinator.com/item?id=27446910
+Points: 331
+# Comments: 61]]></summary>
+        <author>
+            <name>destructuredObj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Fastly customer triggered internet meltdown]]></title>
+        <id>https://news.ycombinator.com/item?id=27446574</id>
+        <link href="https://www.bbc.co.uk/news/technology-57413224"/>
+        <updated>2021-06-09T11:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57413224
+Comments URL: https://news.ycombinator.com/item?id=27446574
+Points: 252
+# Comments: 176]]></summary>
+        <author>
+            <name>JulianMorrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lua-RTOS: a real-time operating system for ESP32]]></title>
+        <id>https://news.ycombinator.com/item?id=27446371</id>
+        <link href="https://github.com/whitecatboard/Lua-RTOS-ESP32"/>
+        <updated>2021-06-09T10:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/whitecatboard/Lua-RTOS-ESP32
+Comments URL: https://news.ycombinator.com/item?id=27446371
+Points: 158
+# Comments: 47]]></summary>
+        <author>
+            <name>lnyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
+        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
+        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-06-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
+        <id>60bfd986d3126007592d53a1</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
+        <updated>2021-06-08T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/?p=341982</id>
+        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
+        <updated>2021-06-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
+The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Todd Libby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 3D Stacks SRAM Bumplessly]]></title>
+        <id>https://news.ycombinator.com/item?id=27433523</id>
+        <link href="https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/"/>
+        <updated>2021-06-08T11:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/
+Comments URL: https://news.ycombinator.com/item?id=27433523
+Points: 151
+# Comments: 29]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kelly Criterion – how to calculate optimal bet sizes]]></title>
+        <id>https://news.ycombinator.com/item?id=27431627</id>
+        <link href="https://fhur.github.io/notes/articles/the-kelly-criterion/index.html"/>
+        <updated>2021-06-08T07:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fhur.github.io/notes/articles/the-kelly-criterion/index.html
+Comments URL: https://news.ycombinator.com/item?id=27431627
+Points: 166
+# Comments: 78]]></summary>
+        <author>
+            <name>fernandohur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
         <id>60bbd28eacb62507dd1d99fb</id>
@@ -4351,227 +4753,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
         <author>
             <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your First Developer Job through Intelligent, Genuine Networking]]></title>
-        <id>605cf4879618b008528a77e2</id>
-        <link href="https://www.freecodecamp.org/news/networking-for-aspiring-developers/"/>
-        <updated>2021-05-11T01:38:36.000Z</updated>
-        <summary type="html"><![CDATA["It's not about what you know, it's about whom you know." "70-80% of jobs are found via someone's network." Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topframe]]></title>
-        <id>https://css-tricks.com/?p=340020</id>
-        <link href="https://css-tricks.com/topframe/"/>
-        <updated>2021-05-10T21:14:15.000Z</updated>
-        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
-Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
-&#8230;
-The post Topframe appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
-        <id>https://css-tricks.com/?p=340208</id>
-        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
-        <updated>2021-05-10T21:13:23.000Z</updated>
-        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
-The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung to jump into laptop processor market with Exynos chip in H2]]></title>
-        <id>https://news.ycombinator.com/item?id=27110493</id>
-        <link href="https://www.kedglobal.com/newsView/ked202105090002"/>
-        <updated>2021-05-10T20:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kedglobal.com/newsView/ked202105090002
-Comments URL: https://news.ycombinator.com/item?id=27110493
-Points: 154
-# Comments: 103]]></summary>
-        <author>
-            <name>cbg0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using PostgreSQL as a Data Warehouse]]></title>
-        <id>https://news.ycombinator.com/item?id=27109960</id>
-        <link href="https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/"/>
-        <updated>2021-05-10T19:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/
-Comments URL: https://news.ycombinator.com/item?id=27109960
-Points: 178
-# Comments: 77]]></summary>
-        <author>
-            <name>cedricd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game developers sharing their salaries on Twitter]]></title>
-        <id>https://news.ycombinator.com/item?id=27109142</id>
-        <link href="https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html"/>
-        <updated>2021-05-10T18:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html
-Comments URL: https://news.ycombinator.com/item?id=27109142
-Points: 254
-# Comments: 293]]></summary>
-        <author>
-            <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBPF on Windows]]></title>
-        <id>https://news.ycombinator.com/item?id=27108593</id>
-        <link href="https://github.com/microsoft/ebpf-for-windows"/>
-        <updated>2021-05-10T17:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/ebpf-for-windows
-Comments URL: https://news.ycombinator.com/item?id=27108593
-Points: 175
-# Comments: 115]]></summary>
-        <author>
-            <name>praseodym</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ace Your Coding Interview – Advice from a Senior Software Engineer]]></title>
-        <id>60953e202cd0545b5e943a8b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/"/>
-        <updated>2021-05-10T17:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracking One Year of Malicious Tor Exit Relay Activities (Part II)]]></title>
-        <id>https://news.ycombinator.com/item?id=27108109</id>
-        <link href="https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df"/>
-        <updated>2021-05-10T16:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
-Comments URL: https://news.ycombinator.com/item?id=27108109
-Points: 194
-# Comments: 99]]></summary>
-        <author>
-            <name>hacka22</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does every advert look the same? Corporate Memphis]]></title>
-        <id>https://news.ycombinator.com/item?id=27107820</id>
-        <link href="https://www.wired.co.uk/article/corporate-memphis-design-tech"/>
-        <updated>2021-05-10T16:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech
-Comments URL: https://news.ycombinator.com/item?id=27107820
-Points: 131
-# Comments: 119]]></summary>
-        <author>
-            <name>dehrmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyre: A performant type-checker for Python 3]]></title>
-        <id>https://news.ycombinator.com/item?id=27107647</id>
-        <link href="https://pyre-check.org"/>
-        <updated>2021-05-10T16:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pyre-check.org
-Comments URL: https://news.ycombinator.com/item?id=27107647
-Points: 104
-# Comments: 73]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear EU: Please Don't Ruin the Root]]></title>
-        <id>https://news.ycombinator.com/item?id=27106448</id>
-        <link href="https://berthub.eu/articles/posts/dont-ruin-the-root/"/>
-        <updated>2021-05-10T14:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/
-Comments URL: https://news.ycombinator.com/item?id=27106448
-Points: 334
-# Comments: 156]]></summary>
-        <author>
-            <name>Reventlov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
-        <id>https://css-tricks.com/?p=339203</id>
-        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
-        <updated>2021-05-10T14:13:12.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
-The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing books is not really a good idea]]></title>
-        <id>https://news.ycombinator.com/item?id=27106055</id>
-        <link href="https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors"/>
-        <updated>2021-05-10T14:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors
-Comments URL: https://news.ycombinator.com/item?id=27106055
-Points: 409
-# Comments: 478]]></summary>
-        <author>
-            <name>ellegriffin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC]]></title>
-        <id>https://news.ycombinator.com/item?id=27105813</id>
-        <link href="https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/"/>
-        <updated>2021-05-10T13:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/
-Comments URL: https://news.ycombinator.com/item?id=27105813
-Points: 187
-# Comments: 44]]></summary>
-        <author>
-            <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are modern 50mm lenses so damned complicated?]]></title>
-        <id>https://news.ycombinator.com/item?id=27104271</id>
-        <link href="https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated"/>
-        <updated>2021-05-10T09:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated
-Comments URL: https://news.ycombinator.com/item?id=27104271
-Points: 286
-# Comments: 244]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
 </feed>

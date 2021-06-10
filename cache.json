@@ -6,6 +6,177 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27453909",
+          "author": "prostoalex",
+          "description": "Article URL: https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html\nComments URL: https://news.ycombinator.com/item?id=27453909\nPoints: 268\n# Comments: 136",
+          "link": "https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html",
+          "publishedOn": "2021-06-09T22:07:37.000Z",
+          "wordCount": 664,
+          "title": "Facebook extends its work-at-home policy to most employees"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27453721",
+          "author": "bananapizza",
+          "description": "Article URL: https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2\nComments URL: https://news.ycombinator.com/item?id=27453721\nPoints: 112\n# Comments: 87",
+          "link": "https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2",
+          "publishedOn": "2021-06-09T21:50:49.000Z",
+          "wordCount": 1183,
+          "title": "Evaluating necessity of Covid-19 vaccination in previously infected individuals"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27453226",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/\nComments URL: https://news.ycombinator.com/item?id=27453226\nPoints: 170\n# Comments: 183",
+          "link": "https://www.reuters.com/business/energy/tc-energy-terminates-keystone-xl-pipeline-project-2021-06-09/",
+          "publishedOn": "2021-06-09T21:06:13.000Z",
+          "wordCount": 796,
+          "title": "TC Energy scraps Keystone XL pipeline project after Biden revokes key permit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27452151",
+          "author": "mooreds",
+          "description": "Article URL: https://github.com/readme/unseen-oss\nComments URL: https://news.ycombinator.com/item?id=27452151\nPoints: 115\n# Comments: 70",
+          "link": "https://github.com/readme/unseen-oss",
+          "publishedOn": "2021-06-09T19:38:24.000Z",
+          "wordCount": 2673,
+          "title": "You use more open source software than you think"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27451844",
+          "author": "tmkadamcz",
+          "description": "Article URL: https://fragile-credences.github.io/scihub-proxy/\nComments URL: https://news.ycombinator.com/item?id=27451844\nPoints: 267\n# Comments: 114",
+          "link": "https://fragile-credences.github.io/scihub-proxy/",
+          "publishedOn": "2021-06-09T19:12:02.000Z",
+          "wordCount": 707,
+          "title": "How to circumvent Sci-Hub ISP block"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27451689",
+          "author": "amrrs",
+          "description": "Article URL: https://twitter.com/jasminericegirl/status/1402691047940100100\nComments URL: https://news.ycombinator.com/item?id=27451689\nPoints: 324\n# Comments: 399",
+          "link": "https://twitter.com/jasminericegirl/status/1402691047940100100",
+          "publishedOn": "2021-06-09T18:58:29.000Z",
+          "wordCount": 196,
+          "title": "Apple is threatening to remove Fanhouse unless they give 30% of creator earning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27451413",
+          "author": "gumby",
+          "description": "Article URL: https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad\nComments URL: https://news.ycombinator.com/item?id=27451413\nPoints: 106\n# Comments: 108",
+          "link": "https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad",
+          "publishedOn": "2021-06-09T18:34:24.000Z",
+          "wordCount": 1355,
+          "title": "How Universal Control on macOS Monterey Works"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27450373",
+          "author": "throwawaybutwhy",
+          "description": "Article URL: http://rephial.org/\nComments URL: https://news.ycombinator.com/item?id=27450373\nPoints: 133\n# Comments: 48",
+          "link": "http://rephial.org/",
+          "publishedOn": "2021-06-09T17:05:25.000Z",
+          "wordCount": 242,
+          "title": "Angband 4.2.2: A free, single-player roguelike dungeon exploration game"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27450364",
+          "author": "Arnavion",
+          "description": "Article URL: https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426\nComments URL: https://news.ycombinator.com/item?id=27450364\nPoints: 328\n# Comments: 128",
+          "link": "https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426",
+          "publishedOn": "2021-06-09T17:04:46.000Z",
+          "wordCount": 195,
+          "title": "2021.06.08 Certificate Lifetime Incident"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27449931",
+          "author": "cpach",
+          "description": "Article URL: https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/\nComments URL: https://news.ycombinator.com/item?id=27449931\nPoints: 196\n# Comments: 58",
+          "link": "https://www.reuters.com/business/energy/battery-maker-northvolt-raises-275-bln-expand-factory-2021-06-09/",
+          "publishedOn": "2021-06-09T16:34:38.000Z",
+          "wordCount": 799,
+          "title": "Sweden’s Northvolt raises $2.8B to supercharge EV battery output"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27448175",
+          "author": "zpeti",
+          "description": "Article URL: https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801\nComments URL: https://news.ycombinator.com/item?id=27448175\nPoints: 581\n# Comments: 902",
+          "link": "https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801",
+          "publishedOn": "2021-06-09T14:20:46.000Z",
+          "wordCount": 375,
+          "title": "If you sell a house these days, the buyer might be a pension fund"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27447766",
+          "author": "bcaa7f3a8bbc",
+          "description": "Article URL: https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html\nComments URL: https://news.ycombinator.com/item?id=27447766\nPoints: 228\n# Comments: 90",
+          "link": "https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html",
+          "publishedOn": "2021-06-09T13:47:06.000Z",
+          "wordCount": 1219,
+          "title": "Resistor Noise Can Be Deafening, and Hard to Reduce (2007)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27447348",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://alpaca-attack.com/\nComments URL: https://news.ycombinator.com/item?id=27447348\nPoints: 122\n# Comments: 42",
+          "link": "https://alpaca-attack.com/",
+          "publishedOn": "2021-06-09T12:58:48.000Z",
+          "wordCount": 2760,
+          "title": "Alpaca Attack"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27447206",
+          "author": "Zolt",
+          "description": "SMS-based Two-Factor Authentication is not Secure. I’ve read this before but brushed it off. It wouldn’t happen to me. It did.\nI am with Boost Mobile. On Sunday night I received a text message that my PIN was changed. Within minutes I confirmed this to be true on my PC. I used the Boost application on my phone to change the PIN and received a confirmation text.\nA few minute later I received a text message welcoming me to Metro PCS.\nA few minute later I received emails to my business email that my account security information was deleted from my person email account. They used SMS authentication to my mobile number, that they now have control of to gain access.\nA few minutes later I received an email there was an account recovery attempt on my coinbase.com account.\nIt took less than 30 minutes for these events to transpire.\nI've spent about 15 hours trying to get my phone number and my email address back to my control.\nI've accumulated a list of eight other people in the Boost Mobile Reddit.com forum where the exact same thing happened to them.\nI filed a police report and filed a report with the FCC. I received a response from the FCC that they have started the inquiry and contacted Boost.\nI finally did get my cell phone number ported back to Boost. I have not gained control of my Microsoft email address.\nI didn’t realize I could only have messages of 2,000 characters.  So I will wrap this up.\nWhen account settings were changed, Coinbase gave me a link to lock my account, Microsoft gave me a link to log in to my account, which I no longer have control of.\nUnlike competitors, which allow pins from 6 to 15 characters and for accounts to be administrative locked, Boost offers none of these options. The last Boost operator suggested I pick a more secure PIN.\nI am calculating my losses and documenting all interactions.\nComments URL: https://news.ycombinator.com/item?id=27447206\nPoints: 518\n# Comments: 247",
+          "link": "https://news.ycombinator.com/item?id=27447206",
+          "publishedOn": "2021-06-09T12:40:08.000Z",
+          "wordCount": 16185,
+          "title": "Tell HN: SMS-based two-factor authentication is not secure"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27446910",
+          "author": "destructuredObj",
+          "description": "Article URL: https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts\nComments URL: https://news.ycombinator.com/item?id=27446910\nPoints: 331\n# Comments: 61",
+          "link": "https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts",
+          "publishedOn": "2021-06-09T12:01:25.000Z",
+          "wordCount": 2136,
+          "title": "Seven Years of Factorio Friday Facts (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27446574",
+          "author": "JulianMorrison",
+          "description": "Article URL: https://www.bbc.co.uk/news/technology-57413224\nComments URL: https://news.ycombinator.com/item?id=27446574\nPoints: 252\n# Comments: 176",
+          "link": "https://www.bbc.co.uk/news/technology-57413224",
+          "publishedOn": "2021-06-09T11:14:13.000Z",
+          "wordCount": 804,
+          "title": "One Fastly customer triggered internet meltdown"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27446371",
+          "author": "lnyan",
+          "description": "Article URL: https://github.com/whitecatboard/Lua-RTOS-ESP32\nComments URL: https://news.ycombinator.com/item?id=27446371\nPoints: 158\n# Comments: 47",
+          "link": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
+          "publishedOn": "2021-06-09T10:38:44.000Z",
+          "wordCount": 1991,
+          "title": "Lua-RTOS: a real-time operating system for ESP32"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27433523",
+          "author": "rbanffy",
+          "description": "Article URL: https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/\nComments URL: https://news.ycombinator.com/item?id=27433523\nPoints: 151\n# Comments: 29",
+          "link": "https://fuse.wikichip.org/news/5531/amd-3d-stacks-sram-bumplessly/",
+          "publishedOn": "2021-06-08T11:10:21.000Z",
+          "wordCount": 2313,
+          "title": "AMD 3D Stacks SRAM Bumplessly"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27431627",
+          "author": "fernandohur",
+          "description": "Article URL: https://fhur.github.io/notes/articles/the-kelly-criterion/index.html\nComments URL: https://news.ycombinator.com/item?id=27431627\nPoints: 166\n# Comments: 78",
+          "link": "https://fhur.github.io/notes/articles/the-kelly-criterion/index.html",
+          "publishedOn": "2021-06-08T07:37:36.000Z",
+          "wordCount": 1083,
+          "title": "Kelly Criterion – how to calculate optimal bet sizes"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27427485",
           "author": "nthitz",
           "description": "Article URL: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside\nComments URL: https://news.ycombinator.com/item?id=27427485\nPoints: 136\n# Comments: 120",
@@ -1831,105 +2002,6 @@
           "publishedOn": "2021-05-12T06:51:53.000Z",
           "wordCount": 1847,
           "title": "Building a Space-Based ISP"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27110493",
-          "author": "cbg0",
-          "description": "Article URL: https://www.kedglobal.com/newsView/ked202105090002\nComments URL: https://news.ycombinator.com/item?id=27110493\nPoints: 154\n# Comments: 103",
-          "link": "https://www.kedglobal.com/newsView/ked202105090002",
-          "publishedOn": "2021-05-10T20:26:13.000Z",
-          "wordCount": 1131,
-          "title": "Samsung to jump into laptop processor market with Exynos chip in H2"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27109960",
-          "author": "cedricd",
-          "description": "Article URL: https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/\nComments URL: https://news.ycombinator.com/item?id=27109960\nPoints: 178\n# Comments: 77",
-          "link": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-          "publishedOn": "2021-05-10T19:39:15.000Z",
-          "wordCount": 2227,
-          "title": "Using PostgreSQL as a Data Warehouse"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27109142",
-          "author": "elsewhen",
-          "description": "Article URL: https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html\nComments URL: https://news.ycombinator.com/item?id=27109142\nPoints: 254\n# Comments: 293",
-          "link": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-          "publishedOn": "2021-05-10T18:22:45.000Z",
-          "wordCount": 1292,
-          "title": "Game developers sharing their salaries on Twitter"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27108593",
-          "author": "praseodym",
-          "description": "Article URL: https://github.com/microsoft/ebpf-for-windows\nComments URL: https://news.ycombinator.com/item?id=27108593\nPoints: 175\n# Comments: 115",
-          "link": "https://github.com/microsoft/ebpf-for-windows",
-          "publishedOn": "2021-05-10T17:35:15.000Z",
-          "wordCount": 1341,
-          "title": "eBPF on Windows"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27108109",
-          "author": "hacka22",
-          "description": "Article URL: https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df\nComments URL: https://news.ycombinator.com/item?id=27108109\nPoints: 194\n# Comments: 99",
-          "link": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
-          "publishedOn": "2021-05-10T16:55:24.000Z",
-          "wordCount": 5186,
-          "title": "Tracking One Year of Malicious Tor Exit Relay Activities (Part II)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27107820",
-          "author": "dehrmann",
-          "description": "Article URL: https://www.wired.co.uk/article/corporate-memphis-design-tech\nComments URL: https://news.ycombinator.com/item?id=27107820\nPoints: 131\n# Comments: 119",
-          "link": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
-          "publishedOn": "2021-05-10T16:29:09.000Z",
-          "wordCount": 1596,
-          "title": "Why does every advert look the same? Corporate Memphis"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27107647",
-          "author": "tosh",
-          "description": "Article URL: https://pyre-check.org\nComments URL: https://news.ycombinator.com/item?id=27107647\nPoints: 104\n# Comments: 73",
-          "link": "https://pyre-check.org",
-          "publishedOn": "2021-05-10T16:14:44.000Z",
-          "wordCount": 139,
-          "title": "Pyre: A performant type-checker for Python 3"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27106448",
-          "author": "Reventlov",
-          "description": "Article URL: https://berthub.eu/articles/posts/dont-ruin-the-root/\nComments URL: https://news.ycombinator.com/item?id=27106448\nPoints: 334\n# Comments: 156",
-          "link": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
-          "publishedOn": "2021-05-10T14:39:37.000Z",
-          "wordCount": 2342,
-          "title": "Dear EU: Please Don't Ruin the Root"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27106055",
-          "author": "ellegriffin",
-          "description": "Article URL: https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors\nComments URL: https://news.ycombinator.com/item?id=27106055\nPoints: 409\n# Comments: 478",
-          "link": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-          "publishedOn": "2021-05-10T14:01:27.000Z",
-          "wordCount": 3155,
-          "title": "Writing books is not really a good idea"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27105813",
-          "author": "rbanffy",
-          "description": "Article URL: https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/\nComments URL: https://news.ycombinator.com/item?id=27105813\nPoints: 187\n# Comments: 44",
-          "link": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
-          "publishedOn": "2021-05-10T13:35:06.000Z",
-          "wordCount": 618,
-          "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27104271",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated\nComments URL: https://news.ycombinator.com/item?id=27104271\nPoints: 286\n# Comments: 244",
-          "link": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-          "publishedOn": "2021-05-10T09:39:02.000Z",
-          "wordCount": 10039,
-          "title": "Why are modern 50mm lenses so damned complicated?"
         }
       ]
     },
@@ -1938,6 +2010,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340967",
+          "author": "Geoff Graham",
+          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
+          "publishedOn": "2021-06-09T20:37:00.000Z",
+          "wordCount": 1534,
+          "title": "A Cornucopia of Container Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341916",
+          "author": "Chris Coyier",
+          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/targetblank/",
+          "publishedOn": "2021-06-09T14:37:31.000Z",
+          "wordCount": 802,
+          "title": "target=blank"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341982",
+          "author": "Todd Libby",
+          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
+          "publishedOn": "2021-06-08T18:31:08.000Z",
+          "wordCount": 3234,
+          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341884",
+          "author": "Chris Coyier",
+          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
+          "publishedOn": "2021-06-08T14:16:07.000Z",
+          "wordCount": 708,
+          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
+        },
         {
           "id": "https://css-tricks.com/?p=341805",
           "author": "Chris Coyier",
@@ -2405,33 +2513,6 @@
           "publishedOn": "2021-05-11T14:33:10.000Z",
           "wordCount": 1369,
           "title": "Distributed Persistent Rendering (DPR)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340020",
-          "author": "Chris Coyier",
-          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/topframe/",
-          "publishedOn": "2021-05-10T21:14:15.000Z",
-          "wordCount": 568,
-          "title": "Topframe"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340208",
-          "author": "Chris Coyier",
-          "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
-          "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2948,
-          "title": "Migrating from Parcel to Snowpack"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339203",
-          "author": "Ana Tudor",
-          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
-          "publishedOn": "2021-05-10T14:13:12.000Z",
-          "wordCount": 2838,
-          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
         }
       ]
     },
@@ -2440,6 +2521,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
+          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "publishedOn": "2021-06-09T10:30:00.000Z",
+          "wordCount": 2600,
+          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
+          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "publishedOn": "2021-06-08T12:00:00.000Z",
+          "wordCount": 2102,
+          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "author": "hello@smashingmagazine.com (Prince Chukwudire)",
@@ -2743,24 +2852,6 @@
           "publishedOn": "2021-05-11T13:30:00.000Z",
           "wordCount": 4874,
           "title": "A Primer On CSS Container Queries"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours &mdash; but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
         }
       ]
     },
@@ -2769,6 +2860,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b357ad11ffb70827ef9a90",
+          "author": null,
+          "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
+          "link": "https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/",
+          "publishedOn": "2021-06-09T21:55:16.000Z",
+          "wordCount": 3477,
+          "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
+        },
+        {
+          "id": "60c0ccbed3126007592d5781",
+          "author": null,
+          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
+          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
+          "publishedOn": "2021-06-09T19:45:20.000Z",
+          "wordCount": 1731,
+          "title": "The Skills You Need to Start Freelancing as a Developer"
+        },
+        {
+          "id": "60c10a1dd3126007592d5988",
+          "author": null,
+          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
+          "publishedOn": "2021-06-09T18:43:07.000Z",
+          "wordCount": 336,
+          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
+        },
+        {
+          "id": "60bfa4d4d3126007592d5160",
+          "author": null,
+          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
+          "publishedOn": "2021-06-08T23:47:43.000Z",
+          "wordCount": 9491,
+          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
+        },
+        {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
+        {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
         {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
@@ -3479,24 +3633,6 @@
           "publishedOn": "2021-05-11T12:56:14.000Z",
           "wordCount": 413,
           "title": "How to Design Good Typography - Free Treehouse Course"
-        },
-        {
-          "id": "605cf4879618b008528a77e2",
-          "author": "",
-          "description": "\"It's not about what you know, it's about whom you know.\" \"70-80% of jobs are found via someone's network.\" Most of us have heard cliches and stats like the above. And I think most of us intuitively know that having a network of people that can help us find opportunities",
-          "link": "https://www.freecodecamp.org/news/networking-for-aspiring-developers/",
-          "publishedOn": "2021-05-11T01:38:36.000Z",
-          "wordCount": 3119,
-          "title": "How to Get Your First Developer Job through Intelligent, Genuine Networking"
-        },
-        {
-          "id": "60953e202cd0545b5e943a8b",
-          "author": "",
-          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
-          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
-          "publishedOn": "2021-05-10T17:04:31.000Z",
-          "wordCount": 1254,
-          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
         }
       ]
     }
