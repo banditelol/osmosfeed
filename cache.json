@@ -6,6 +6,96 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27487028",
+          "author": "chx",
+          "description": "Article URL: https://www.facebook.com/dan.colascione/posts/10107358290728348\nComments URL: https://news.ycombinator.com/item?id=27487028\nPoints: 120\n# Comments: 60",
+          "link": "https://www.facebook.com/dan.colascione/posts/10107358290728348",
+          "publishedOn": "2021-06-12T19:52:10.000Z",
+          "wordCount": 59,
+          "title": "Python is 1.3x faster by just adjusting some compiling options for libpython"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27485574",
+          "author": "tims457",
+          "description": "Article URL: https://arxiv.org/abs/2105.04026\nComments URL: https://news.ycombinator.com/item?id=27485574\nPoints: 166\n# Comments: 40",
+          "link": "https://arxiv.org/abs/2105.04026",
+          "publishedOn": "2021-06-12T16:37:55.000Z",
+          "wordCount": 582,
+          "title": "The Modern Mathematics of Deep Learning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27485270",
+          "author": "rustoo",
+          "description": "Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective\nComments URL: https://news.ycombinator.com/item?id=27485270\nPoints: 146\n# Comments: 66",
+          "link": "https://ssir.org/articles/entry/burnout_from_an_organizational_perspective",
+          "publishedOn": "2021-06-12T15:52:38.000Z",
+          "wordCount": 3080,
+          "title": "Burnout from an Organizational Perspective"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27484288",
+          "author": "AndyMPatton",
+          "description": "Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by\nComments URL: https://news.ycombinator.com/item?id=27484288\nPoints: 340\n# Comments: 208",
+          "link": "https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by",
+          "publishedOn": "2021-06-12T13:17:02.000Z",
+          "wordCount": 3629,
+          "title": "Win at Risk by using systems thinking"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27483949",
+          "author": "birriel",
+          "description": "Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/\nComments URL: https://news.ycombinator.com/item?id=27483949\nPoints: 141\n# Comments: 109",
+          "link": "https://newatlas.com/physics/charm-meson-particle-matter-antimatter/",
+          "publishedOn": "2021-06-12T12:20:58.000Z",
+          "wordCount": 1401,
+          "title": "Particle seen switching between matter and antimatter at CERN"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27483442",
+          "author": "pseudolus",
+          "description": "Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/\nComments URL: https://news.ycombinator.com/item?id=27483442\nPoints: 157\n# Comments: 44",
+          "link": "http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/",
+          "publishedOn": "2021-06-12T10:39:44.000Z",
+          "wordCount": 1386,
+          "title": "A popular household fern may be the first known eusocial plant"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27483412",
+          "author": "ushakov",
+          "description": "Article URL: https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1\nComments URL: https://news.ycombinator.com/item?id=27483412\nPoints: 400\n# Comments: 197",
+          "link": "https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1",
+          "publishedOn": "2021-06-12T10:34:27.000Z",
+          "wordCount": 55,
+          "title": "How fighter jets lock on, and how the targets know (2014)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27483207",
+          "author": "ptr",
+          "description": "Article URL: https://paulskallas.substack.com/p/refinement-culture\nComments URL: https://news.ycombinator.com/item?id=27483207\nPoints: 118\n# Comments: 39",
+          "link": "https://paulskallas.substack.com/p/refinement-culture",
+          "publishedOn": "2021-06-12T10:00:13.000Z",
+          "wordCount": 1602,
+          "title": "Refinement Culture (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27483077",
+          "author": "pabs3",
+          "description": "Article URL: https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html\nComments URL: https://news.ycombinator.com/item?id=27483077\nPoints: 216\n# Comments: 68",
+          "link": "https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html",
+          "publishedOn": "2021-06-12T09:33:26.000Z",
+          "wordCount": 619,
+          "title": "SSH quoting"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27482243",
+          "author": "hyzyla",
+          "description": "Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/\nComments URL: https://news.ycombinator.com/item?id=27482243\nPoints: 703\n# Comments: 416",
+          "link": "https://spin.atomicobject.com/2021/02/04/redis-postgresql/",
+          "publishedOn": "2021-06-12T06:57:14.000Z",
+          "wordCount": 1031,
+          "title": "Do you really need Redis? How to get away with just PostgreSQL"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27478647",
           "author": "hecubus",
           "description": "Article URL: https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education\nComments URL: https://news.ycombinator.com/item?id=27478647\nPoints: 145\n# Comments: 98",
@@ -33,6 +123,15 @@
           "title": "Few people know that Google voluntarily removes some search results"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27476206",
+          "author": "what_ever",
+          "description": "Article URL: https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017\nComments URL: https://news.ycombinator.com/item?id=27476206\nPoints: 109\n# Comments: 75",
+          "link": "https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017",
+          "publishedOn": "2021-06-11T17:33:00.000Z",
+          "wordCount": 1254,
+          "title": "Apple admits it ranked its Files app ahead of competitor Dropbox"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27475193",
           "author": "DanielDe",
           "description": "Article URL: https://www.danielde.dev/blog/surprising-shared-word-etymologies/\nComments URL: https://news.ycombinator.com/item?id=27475193\nPoints: 142\n# Comments: 80",
@@ -40,6 +139,15 @@
           "publishedOn": "2021-06-11T16:15:02.000Z",
           "wordCount": 2061,
           "title": "Surprising Shared Word Etymologies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27474487",
+          "author": "prostoalex",
+          "description": "Article URL: https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication\nComments URL: https://news.ycombinator.com/item?id=27474487\nPoints: 154\n# Comments: 41",
+          "link": "https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication",
+          "publishedOn": "2021-06-11T15:14:49.000Z",
+          "wordCount": 3851,
+          "title": "How to Think Clearly"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27474082",
@@ -85,6 +193,15 @@
           "publishedOn": "2021-06-11T13:41:52.000Z",
           "wordCount": 715,
           "title": "Wildland – open data management protocol"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27473167",
+          "author": "ali92hm",
+          "description": "Article URL: https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/\nComments URL: https://news.ycombinator.com/item?id=27473167\nPoints: 281\n# Comments: 234",
+          "link": "https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/",
+          "publishedOn": "2021-06-11T13:40:22.000Z",
+          "wordCount": 2372,
+          "title": "As religious faith has declined, ideological intensity has risen"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27473038",
@@ -1939,51 +2056,6 @@
           "publishedOn": "2021-05-14T13:04:57.000Z",
           "wordCount": 4741,
           "title": "Online, mug shots are forever – some states want to change that"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27153254",
-          "author": "herrjemand",
-          "description": "Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566\nComments URL: https://news.ycombinator.com/item?id=27153254\nPoints: 198\n# Comments: 241",
-          "link": "https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566",
-          "publishedOn": "2021-05-14T11:57:05.000Z",
-          "wordCount": 1600,
-          "title": "Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27152920",
-          "author": "linkdd",
-          "description": "Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs\nComments URL: https://news.ycombinator.com/item?id=27152920\nPoints: 218\n# Comments: 125",
-          "link": "https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs",
-          "publishedOn": "2021-05-14T11:01:06.000Z",
-          "wordCount": 886,
-          "title": "Rust Weird Expressions"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27152785",
-          "author": "ramshorst",
-          "description": "Article URL: https://elderguide.com/tech/elderjs/\nComments URL: https://news.ycombinator.com/item?id=27152785\nPoints: 179\n# Comments: 64",
-          "link": "https://elderguide.com/tech/elderjs/",
-          "publishedOn": "2021-05-14T10:38:29.000Z",
-          "wordCount": 12943,
-          "title": "Elder.js – An Opinionated, SEO Focused, Svelte Framework"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27152571",
-          "author": "blopeur",
-          "description": "Article URL: http://antirez.com/news/135\nComments URL: https://news.ycombinator.com/item?id=27152571\nPoints: 187\n# Comments: 73",
-          "link": "http://antirez.com/news/135",
-          "publishedOn": "2021-05-14T09:56:38.000Z",
-          "wordCount": 795,
-          "title": "Programming and Writing"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27151993",
-          "author": "alexellisuk",
-          "description": "Article URL: https://github.com/AkihiroSuda/lima/tree/master\nComments URL: https://news.ycombinator.com/item?id=27151993\nPoints: 169\n# Comments: 228",
-          "link": "https://github.com/AkihiroSuda/lima/tree/master",
-          "publishedOn": "2021-05-14T08:19:47.000Z",
-          "wordCount": 1626,
-          "title": "Lima: Linux-on-Mac"
         }
       ]
     },
@@ -2468,42 +2540,6 @@
           "publishedOn": "2021-05-14T14:13:07.000Z",
           "wordCount": 749,
           "title": "HTML Boilerplates"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340490",
-          "author": "Chris Coyier",
-          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
-          "publishedOn": "2021-05-13T23:22:45.000Z",
-          "wordCount": 1594,
-          "title": "DevTools for CSS layouts 2021 edition"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340573",
-          "author": "Chris Coyier",
-          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
-          "publishedOn": "2021-05-13T22:55:35.000Z",
-          "wordCount": 605,
-          "title": "2021 Design Systems (Survey/Courses)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340036",
-          "author": "Temani Afif",
-          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
-          "publishedOn": "2021-05-13T14:24:42.000Z",
-          "wordCount": 2745,
-          "title": "Advanced CSS Animation Using cubic-bezier()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340118",
-          "author": "Chris Coyier",
-          "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
-          "publishedOn": "2021-05-13T14:24:35.000Z",
-          "wordCount": 986,
-          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
         }
       ]
     },
@@ -2849,15 +2885,6 @@
           "publishedOn": "2021-05-17T11:30:00.000Z",
           "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
         }
       ]
     },
@@ -3576,42 +3603,6 @@
           "publishedOn": "2021-05-14T17:13:14.000Z",
           "wordCount": 1598,
           "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
-        },
-        {
-          "id": "609414f32cd0545b5e943526",
-          "author": "",
-          "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
-          "publishedOn": "2021-05-13T21:19:40.000Z",
-          "wordCount": 1733,
-          "title": "How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send"
-        },
-        {
-          "id": "609952396008950828b3ea8d",
-          "author": "",
-          "description": "Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should",
-          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
-          "publishedOn": "2021-05-13T19:27:45.000Z",
-          "wordCount": 1826,
-          "title": "What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects"
-        },
-        {
-          "id": "609bcc6a62ab9107fe5a9f08",
-          "author": "",
-          "description": "Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/",
-          "publishedOn": "2021-05-13T18:17:49.000Z",
-          "wordCount": 1775,
-          "title": "React Tutorial – How to Work with Multiple Checkboxes"
-        },
-        {
-          "id": "609ccb0d62ab9107fe5aa0ce",
-          "author": "",
-          "description": "I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before",
-          "link": "https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/",
-          "publishedOn": "2021-05-13T16:25:03.000Z",
-          "wordCount": 4002,
-          "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
         }
       ]
     }

@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:22:13.920Z</updated>
+    <updated>2021-06-13T00:27:10.137Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python is 1.3x faster by just adjusting some compiling options for libpython]]></title>
+        <id>https://news.ycombinator.com/item?id=27487028</id>
+        <link href="https://www.facebook.com/dan.colascione/posts/10107358290728348"/>
+        <updated>2021-06-12T19:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.facebook.com/dan.colascione/posts/10107358290728348
+Comments URL: https://news.ycombinator.com/item?id=27487028
+Points: 120
+# Comments: 60]]></summary>
+        <author>
+            <name>chx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern Mathematics of Deep Learning]]></title>
+        <id>https://news.ycombinator.com/item?id=27485574</id>
+        <link href="https://arxiv.org/abs/2105.04026"/>
+        <updated>2021-06-12T16:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2105.04026
+Comments URL: https://news.ycombinator.com/item?id=27485574
+Points: 166
+# Comments: 40]]></summary>
+        <author>
+            <name>tims457</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burnout from an Organizational Perspective]]></title>
+        <id>https://news.ycombinator.com/item?id=27485270</id>
+        <link href="https://ssir.org/articles/entry/burnout_from_an_organizational_perspective"/>
+        <updated>2021-06-12T15:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ssir.org/articles/entry/burnout_from_an_organizational_perspective
+Comments URL: https://news.ycombinator.com/item?id=27485270
+Points: 146
+# Comments: 66]]></summary>
+        <author>
+            <name>rustoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win at Risk by using systems thinking]]></title>
+        <id>https://news.ycombinator.com/item?id=27484288</id>
+        <link href="https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by"/>
+        <updated>2021-06-12T13:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
+Comments URL: https://news.ycombinator.com/item?id=27484288
+Points: 340
+# Comments: 208]]></summary>
+        <author>
+            <name>AndyMPatton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Particle seen switching between matter and antimatter at CERN]]></title>
+        <id>https://news.ycombinator.com/item?id=27483949</id>
+        <link href="https://newatlas.com/physics/charm-meson-particle-matter-antimatter/"/>
+        <updated>2021-06-12T12:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://newatlas.com/physics/charm-meson-particle-matter-antimatter/
+Comments URL: https://news.ycombinator.com/item?id=27483949
+Points: 141
+# Comments: 109]]></summary>
+        <author>
+            <name>birriel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A popular household fern may be the first known eusocial plant]]></title>
+        <id>https://news.ycombinator.com/item?id=27483442</id>
+        <link href="http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/"/>
+        <updated>2021-06-12T10:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/
+Comments URL: https://news.ycombinator.com/item?id=27483442
+Points: 157
+# Comments: 44]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How fighter jets lock on, and how the targets know (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=27483412</id>
+        <link href="https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1"/>
+        <updated>2021-06-12T10:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1
+Comments URL: https://news.ycombinator.com/item?id=27483412
+Points: 400
+# Comments: 197]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refinement Culture (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27483207</id>
+        <link href="https://paulskallas.substack.com/p/refinement-culture"/>
+        <updated>2021-06-12T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://paulskallas.substack.com/p/refinement-culture
+Comments URL: https://news.ycombinator.com/item?id=27483207
+Points: 118
+# Comments: 39]]></summary>
+        <author>
+            <name>ptr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH quoting]]></title>
+        <id>https://news.ycombinator.com/item?id=27483077</id>
+        <link href="https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html"/>
+        <updated>2021-06-12T09:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
+Comments URL: https://news.ycombinator.com/item?id=27483077
+Points: 216
+# Comments: 68]]></summary>
+        <author>
+            <name>pabs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you really need Redis? How to get away with just PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=27482243</id>
+        <link href="https://spin.atomicobject.com/2021/02/04/redis-postgresql/"/>
+        <updated>2021-06-12T06:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+Comments URL: https://news.ycombinator.com/item?id=27482243
+Points: 703
+# Comments: 416]]></summary>
+        <author>
+            <name>hyzyla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
         <id>60b72d5facb62507dd1d777b</id>
@@ -113,6 +243,19 @@ Points: 339
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple admits it ranked its Files app ahead of competitor Dropbox]]></title>
+        <id>https://news.ycombinator.com/item?id=27476206</id>
+        <link href="https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017"/>
+        <updated>2021-06-11T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017
+Comments URL: https://news.ycombinator.com/item?id=27476206
+Points: 109
+# Comments: 75]]></summary>
+        <author>
+            <name>what_ever</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Surprising Shared Word Etymologies]]></title>
         <id>https://news.ycombinator.com/item?id=27475193</id>
         <link href="https://www.danielde.dev/blog/surprising-shared-word-etymologies/"/>
@@ -133,6 +276,19 @@ Points: 142
         <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Think Clearly]]></title>
+        <id>https://news.ycombinator.com/item?id=27474487</id>
+        <link href="https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication"/>
+        <updated>2021-06-11T15:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication
+Comments URL: https://news.ycombinator.com/item?id=27474487
+Points: 154
+# Comments: 41]]></summary>
+        <author>
+            <name>prostoalex</name>
         </author>
     </entry>
     <entry>
@@ -222,6 +378,19 @@ Points: 119
 # Comments: 42]]></summary>
         <author>
             <name>omnibrain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As religious faith has declined, ideological intensity has risen]]></title>
+        <id>https://news.ycombinator.com/item?id=27473167</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/"/>
+        <updated>2021-06-11T13:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/04/america-politics-religion/618072/
+Comments URL: https://news.ycombinator.com/item?id=27473167
+Points: 281
+# Comments: 234]]></summary>
+        <author>
+            <name>ali92hm</name>
         </author>
     </entry>
     <entry>
@@ -4548,171 +4717,6 @@ Points: 118
 # Comments: 118]]></summary>
         <author>
             <name>danso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea]]></title>
-        <id>https://news.ycombinator.com/item?id=27153254</id>
-        <link href="https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566"/>
-        <updated>2021-05-14T11:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://herrjemand.medium.com/why-cloudflares-captcha-replacement-with-fido2-webauthn-is-a-really-bad-idea-d5487f6c7566
-Comments URL: https://news.ycombinator.com/item?id=27153254
-Points: 198
-# Comments: 241]]></summary>
-        <author>
-            <name>herrjemand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Weird Expressions]]></title>
-        <id>https://news.ycombinator.com/item?id=27152920</id>
-        <link href="https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs"/>
-        <updated>2021-05-14T11:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs
-Comments URL: https://news.ycombinator.com/item?id=27152920
-Points: 218
-# Comments: 125]]></summary>
-        <author>
-            <name>linkdd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elder.js – An Opinionated, SEO Focused, Svelte Framework]]></title>
-        <id>https://news.ycombinator.com/item?id=27152785</id>
-        <link href="https://elderguide.com/tech/elderjs/"/>
-        <updated>2021-05-14T10:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elderguide.com/tech/elderjs/
-Comments URL: https://news.ycombinator.com/item?id=27152785
-Points: 179
-# Comments: 64]]></summary>
-        <author>
-            <name>ramshorst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming and Writing]]></title>
-        <id>https://news.ycombinator.com/item?id=27152571</id>
-        <link href="http://antirez.com/news/135"/>
-        <updated>2021-05-14T09:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://antirez.com/news/135
-Comments URL: https://news.ycombinator.com/item?id=27152571
-Points: 187
-# Comments: 73]]></summary>
-        <author>
-            <name>blopeur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lima: Linux-on-Mac]]></title>
-        <id>https://news.ycombinator.com/item?id=27151993</id>
-        <link href="https://github.com/AkihiroSuda/lima/tree/master"/>
-        <updated>2021-05-14T08:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/AkihiroSuda/lima/tree/master
-Comments URL: https://news.ycombinator.com/item?id=27151993
-Points: 169
-# Comments: 228]]></summary>
-        <author>
-            <name>alexellisuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
-        <id>https://css-tricks.com/?p=340490</id>
-        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
-        <updated>2021-05-13T23:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
-&#8230;
-The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
-        <id>https://css-tricks.com/?p=340573</id>
-        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
-        <updated>2021-05-13T22:55:35.000Z</updated>
-        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
-The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send]]></title>
-        <id>609414f32cd0545b5e943526</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/"/>
-        <updated>2021-05-13T21:19:40.000Z</updated>
-        <summary type="html"><![CDATA[If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects]]></title>
-        <id>609952396008950828b3ea8d</id>
-        <link href="https://www.freecodecamp.org/news/types-of-software-testing/"/>
-        <updated>2021-05-13T19:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
-        <id>609bcc6a62ab9107fe5a9f08</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/"/>
-        <updated>2021-05-13T18:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills]]></title>
-        <id>609ccb0d62ab9107fe5aa0ce</id>
-        <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
-        <updated>2021-05-13T16:25:03.000Z</updated>
-        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
-        <id>https://css-tricks.com/?p=340036</id>
-        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
-        <updated>2021-05-13T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
-The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
-        <id>https://css-tricks.com/?p=340118</id>
-        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
-        <updated>2021-05-13T14:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
-The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
