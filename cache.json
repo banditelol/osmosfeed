@@ -6,6 +6,141 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27507088",
+          "author": "robin_reala",
+          "description": "Article URL: https://blog.1password.com/supporting-lets-encrypt/\nComments URL: https://news.ycombinator.com/item?id=27507088\nPoints: 122\n# Comments: 61",
+          "link": "https://blog.1password.com/supporting-lets-encrypt/",
+          "publishedOn": "2021-06-14T19:29:27.000Z",
+          "wordCount": 792,
+          "title": "Supporting Let’s Encrypt, the nonprofit making HTTPS free for all"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27507045",
+          "author": "oblib",
+          "description": "Article URL: https://azartiz.com/?2021-06-13T20:25:16.558Z\nComments URL: https://news.ycombinator.com/item?id=27507045\nPoints: 208\n# Comments: 103",
+          "link": "https://azartiz.com/?2021-06-13T20:25:16.558Z",
+          "publishedOn": "2021-06-14T19:25:13.000Z",
+          "wordCount": 44,
+          "title": "21st Century Baker's Tent"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27506609",
+          "author": "SmkyMt",
+          "description": "Article URL: https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb\nComments URL: https://news.ycombinator.com/item?id=27506609\nPoints: 172\n# Comments: 115",
+          "link": "https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb",
+          "publishedOn": "2021-06-14T18:49:51.000Z",
+          "wordCount": 64,
+          "title": "Reality Winner, NSA contractor in leak case, out of prison"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27506550",
+          "author": "jmilloy",
+          "description": "Article URL: https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/\nComments URL: https://news.ycombinator.com/item?id=27506550\nPoints: 193\n# Comments: 175",
+          "link": "https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/",
+          "publishedOn": "2021-06-14T18:45:06.000Z",
+          "wordCount": 7965,
+          "title": "Myths in cycling: wider tires are slower"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27504254",
+          "author": "ColinWright",
+          "description": "Article URL: https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html\nComments URL: https://news.ycombinator.com/item?id=27504254\nPoints: 162\n# Comments: 53",
+          "link": "https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html",
+          "publishedOn": "2021-06-14T16:03:08.000Z",
+          "wordCount": 2705,
+          "title": "Main is usually a function, so when is it not? (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27503597",
+          "author": "sitesuniverse",
+          "description": "Article URL: https://routinedb.com/routines\nComments URL: https://news.ycombinator.com/item?id=27503597\nPoints: 289\n# Comments: 153",
+          "link": "https://routinedb.com/routines",
+          "publishedOn": "2021-06-14T15:17:33.000Z",
+          "wordCount": 13,
+          "title": "Show HN: I made a community sourced fitness routine database"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27502993",
+          "author": "thomaspark",
+          "description": "Article URL: https://stripe.com/identity\nComments URL: https://news.ycombinator.com/item?id=27502993\nPoints: 830\n# Comments: 450",
+          "link": "https://stripe.com/identity",
+          "publishedOn": "2021-06-14T14:32:27.000Z",
+          "wordCount": 1686,
+          "title": "Stripe Identity"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27501805",
+          "author": "shivbhatt",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57468750\nComments URL: https://news.ycombinator.com/item?id=27501805\nPoints: 321\n# Comments: 214",
+          "link": "https://www.bbc.com/news/world-europe-57468750",
+          "publishedOn": "2021-06-14T12:33:48.000Z",
+          "wordCount": 737,
+          "title": "Irish police to be given powers over passwords"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27501659",
+          "author": "danirod",
+          "description": "Article URL: https://blog.google/products/workspace/google-workspace-everyone/\nComments URL: https://news.ycombinator.com/item?id=27501659\nPoints: 201\n# Comments: 265",
+          "link": "https://blog.google/products/workspace/google-workspace-everyone/",
+          "publishedOn": "2021-06-14T12:13:23.000Z",
+          "wordCount": 1531,
+          "title": "Google Workspace for everyone"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27501221",
+          "author": "samizdis",
+          "description": "Article URL: https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html\nComments URL: https://news.ycombinator.com/item?id=27501221\nPoints: 713\n# Comments: 875",
+          "link": "https://www.axios.com/resignations-companies-e279fcfc-c8e7-4955-8a9b-47562490ee55.html",
+          "publishedOn": "2021-06-14T11:03:54.000Z",
+          "wordCount": 1419,
+          "title": "“Great resignation” wave coming for companies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27500787",
+          "author": "Kaibeezy",
+          "description": "Article URL: http://rrbike.freeservers.com/main.htm\nComments URL: https://news.ycombinator.com/item?id=27500787\nPoints: 119\n# Comments: 59",
+          "link": "http://rrbike.freeservers.com/main.htm",
+          "publishedOn": "2021-06-14T09:34:46.000Z",
+          "wordCount": 213,
+          "title": "Bentley Railbike (2000)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27498789",
+          "author": "kregasaurusrex",
+          "description": "Article URL: https://www.youtube.com/watch?v=7ybybf4tJWw\nComments URL: https://news.ycombinator.com/item?id=27498789\nPoints: 949\n# Comments: 272",
+          "link": "https://www.youtube.com/watch?v=7ybybf4tJWw",
+          "publishedOn": "2021-06-14T02:55:18.000Z",
+          "wordCount": 18,
+          "title": "Doom Running on an IKEA Lamp [video]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27495535",
+          "author": "gofiggy",
+          "description": "Article URL: https://www.raptitude.com/2015/03/how-to-get-yourself-to-do-things/\nComments URL: https://news.ycombinator.com/item?id=27495535\nPoints: 133\n# Comments: 54",
+          "link": "https://www.raptitude.com/2015/03/how-to-get-yourself-to-do-things/",
+          "publishedOn": "2021-06-13T19:31:43.000Z",
+          "wordCount": 7557,
+          "title": "How to get yourself to do things (2015)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27491583",
+          "author": "mfrw",
+          "description": "Article URL: https://github.com/BurntSushi/ripgrep/releases/tag/13.0.0\nComments URL: https://news.ycombinator.com/item?id=27491583\nPoints: 364\n# Comments: 94",
+          "link": "https://github.com/BurntSushi/ripgrep/releases/tag/13.0.0",
+          "publishedOn": "2021-06-13T11:10:22.000Z",
+          "wordCount": 1053,
+          "title": "Ripgrep 13.0"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27491219",
+          "author": "heydenberk",
+          "description": "Article URL: https://berthub.eu/articles/posts/reed-solomon-for-programmers/\nComments URL: https://news.ycombinator.com/item?id=27491219\nPoints: 188\n# Comments: 36",
+          "link": "https://berthub.eu/articles/posts/reed-solomon-for-programmers/",
+          "publishedOn": "2021-06-13T09:51:42.000Z",
+          "wordCount": 2828,
+          "title": "Practical Reed-Solomon for Programmers"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27487028",
           "author": "chx",
           "description": "Article URL: https://www.facebook.com/dan.colascione/posts/10107358290728348\nComments URL: https://news.ycombinator.com/item?id=27487028\nPoints: 120\n# Comments: 60",
@@ -1876,186 +2011,6 @@
           "publishedOn": "2021-05-17T09:44:37.000Z",
           "wordCount": 1012,
           "title": "Umami – An alternative to Google Analytics"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27167729",
-          "author": "commoner",
-          "description": "Article URL: https://bibliogram.art\nComments URL: https://news.ycombinator.com/item?id=27167729\nPoints: 117\n# Comments: 30",
-          "link": "https://bibliogram.art",
-          "publishedOn": "2021-05-15T18:37:11.000Z",
-          "wordCount": 142,
-          "title": "Show HN: Bibliogram – Open-source front-end for Instagram"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27167604",
-          "author": "metahost",
-          "description": "Article URL: http://kai.sub.blue/en/africa.html\nComments URL: https://news.ycombinator.com/item?id=27167604\nPoints: 157\n# Comments: 101",
-          "link": "http://kai.sub.blue/en/africa.html",
-          "publishedOn": "2021-05-15T18:22:20.000Z",
-          "wordCount": 1003,
-          "title": "The True Size of Africa (2015)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27166271",
-          "author": "mgh2",
-          "description": "Article URL: https://www.bbc.com/news/stories-50435014\nComments URL: https://news.ycombinator.com/item?id=27166271\nPoints: 206\n# Comments: 141",
-          "link": "https://www.bbc.com/news/stories-50435014",
-          "publishedOn": "2021-05-15T15:49:40.000Z",
-          "wordCount": 8404,
-          "title": "Cryptoqueen: A woman scammed the world, then vanished (2019)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27166162",
-          "author": "Iazel",
-          "description": "Article URL: https://github.com/parsix/parsix\nComments URL: https://news.ycombinator.com/item?id=27166162\nPoints: 112\n# Comments: 60",
-          "link": "https://github.com/parsix/parsix",
-          "publishedOn": "2021-05-15T15:38:43.000Z",
-          "wordCount": 3025,
-          "title": "Parsix: Parse Don't Validate"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27165954",
-          "author": "EntICOnc",
-          "description": "Article URL: https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years\nComments URL: https://news.ycombinator.com/item?id=27165954\nPoints: 660\n# Comments: 381",
-          "link": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
-          "publishedOn": "2021-05-15T15:15:57.000Z",
-          "wordCount": 1493,
-          "title": "Modern Javascript: Everything you missed over the last 10 years (2020)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27165366",
-          "author": "michaelsbradley",
-          "description": "Article URL: https://forum.nim-lang.org/t/7983\nComments URL: https://news.ycombinator.com/item?id=27165366\nPoints: 203\n# Comments: 95",
-          "link": "https://forum.nim-lang.org/t/7983",
-          "publishedOn": "2021-05-15T14:08:12.000Z",
-          "wordCount": 4,
-          "title": "Nim 2.0 thoughts"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27165307",
-          "author": "jeffbee",
-          "description": "Article URL: https://rdcu.be/ckFPK\nComments URL: https://news.ycombinator.com/item?id=27165307\nPoints: 136\n# Comments: 113",
-          "link": "https://rdcu.be/ckFPK",
-          "publishedOn": "2021-05-15T13:59:34.000Z",
-          "wordCount": 24,
-          "title": "ML model can classify sex from retinal photograph, clinicians can't"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27164769",
-          "author": "JacobDesigns",
-          "description": "Article URL: https://icepanel.io/\nComments URL: https://news.ycombinator.com/item?id=27164769\nPoints: 208\n# Comments: 62",
-          "link": "https://icepanel.io/",
-          "publishedOn": "2021-05-15T12:55:52.000Z",
-          "wordCount": 19,
-          "title": "Design structured diagrams, built to increase your team's trust in your docs"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27164417",
-          "author": "gscott",
-          "description": "Article URL: https://www.rbth.com/longreads/soviet-watches/\nComments URL: https://news.ycombinator.com/item?id=27164417\nPoints: 103\n# Comments: 35",
-          "link": "https://www.rbth.com/longreads/soviet-watches/",
-          "publishedOn": "2021-05-15T11:55:52.000Z",
-          "wordCount": 1916,
-          "title": "Watches from the Soviet Union"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27164000",
-          "author": "weinzierl",
-          "description": "Article URL: https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/\nComments URL: https://news.ycombinator.com/item?id=27164000\nPoints: 271\n# Comments: 215",
-          "link": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/",
-          "publishedOn": "2021-05-15T10:27:44.000Z",
-          "wordCount": 1969,
-          "title": "Things you can’t do in Rust (and what to do instead)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27160898",
-          "author": "temp8964",
-          "description": "Article URL: https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html\nComments URL: https://news.ycombinator.com/item?id=27160898\nPoints: 308\n# Comments: 223",
-          "link": "https://www.nytimes.com/2021/05/13/science/virus-origins-lab-leak-scientists.html",
-          "publishedOn": "2021-05-14T23:52:16.000Z",
-          "wordCount": 1147,
-          "title": "More Scientists Urge Broad Inquiry into Coronavirus Origins"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27158680",
-          "author": "reikonomusha",
-          "description": "Article URL: http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig\nComments URL: https://news.ycombinator.com/item?id=27158680\nPoints: 121\n# Comments: 27",
-          "link": "http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig",
-          "publishedOn": "2021-05-14T19:26:44.000Z",
-          "wordCount": 28,
-          "title": "Shirts of Peter Norvig"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27158277",
-          "author": "andy_herbert",
-          "description": "Article URL: https://www.hyperion-entertainment.com/\nComments URL: https://news.ycombinator.com/item?id=27158277\nPoints: 104\n# Comments: 41",
-          "link": "https://www.hyperion-entertainment.com/",
-          "publishedOn": "2021-05-14T18:53:21.000Z",
-          "wordCount": 1405,
-          "title": "AmigaOS 3.2"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27158088",
-          "author": "tracyhenry",
-          "description": "Article URL: http://www.paulgraham.com/corpdev.html\nComments URL: https://news.ycombinator.com/item?id=27158088\nPoints: 122\n# Comments: 76",
-          "link": "http://www.paulgraham.com/corpdev.html",
-          "publishedOn": "2021-05-14T18:38:50.000Z",
-          "wordCount": 1275,
-          "title": "Don't Talk to Corp Dev (2015)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27157225",
-          "author": "tmfi",
-          "description": "Article URL: https://www.scs.cmu.edu/news/overcoming-tab-overload\nComments URL: https://news.ycombinator.com/item?id=27157225\nPoints: 110\n# Comments: 148",
-          "link": "https://www.scs.cmu.edu/news/overcoming-tab-overload",
-          "publishedOn": "2021-05-14T17:39:15.000Z",
-          "wordCount": null,
-          "title": "Overcoming Tab Overload"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27156859",
-          "author": "throwkeep",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-01299-y\nComments URL: https://news.ycombinator.com/item?id=27156859\nPoints: 195\n# Comments: 147",
-          "link": "https://www.nature.com/articles/d41586-021-01299-y",
-          "publishedOn": "2021-05-14T17:17:27.000Z",
-          "wordCount": 1370,
-          "title": "Delaying a Covid vaccine’s second dose boosts immune response"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27156106",
-          "author": "ykdojo",
-          "description": "Article URL: https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/\nComments URL: https://news.ycombinator.com/item?id=27156106\nPoints: 750\n# Comments: 190",
-          "link": "https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/",
-          "publishedOn": "2021-05-14T16:28:21.000Z",
-          "wordCount": 265,
-          "title": "A URL Lengthener"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27155497",
-          "author": "feross",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/\nComments URL: https://news.ycombinator.com/item?id=27155497\nPoints: 583\n# Comments: 478",
-          "link": "https://krebsonsecurity.com/2021/05/darkside-ransomware-gang-quits-after-servers-bitcoin-stash-seized/",
-          "publishedOn": "2021-05-14T15:47:30.000Z",
-          "wordCount": 2049,
-          "title": "DarkSide ransomware gang quits after servers, Bitcoin stash seized"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27154368",
-          "author": "Dowwie",
-          "description": "Article URL: https://bfi.uchicago.edu/working-paper/2021-56/\nComments URL: https://news.ycombinator.com/item?id=27154368\nPoints: 106\n# Comments: 81",
-          "link": "https://bfi.uchicago.edu/working-paper/2021-56/",
-          "publishedOn": "2021-05-14T13:58:39.000Z",
-          "wordCount": 362,
-          "title": "Work from Home and Productivity"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27153800",
-          "author": "danso",
-          "description": "Article URL: https://news.yahoo.com/online-mug-shots-forever-states-181700675.html\nComments URL: https://news.ycombinator.com/item?id=27153800\nPoints: 118\n# Comments: 118",
-          "link": "https://news.yahoo.com/online-mug-shots-forever-states-181700675.html",
-          "publishedOn": "2021-05-14T13:04:57.000Z",
-          "wordCount": 4741,
-          "title": "Online, mug shots are forever – some states want to change that"
         }
       ]
     },
@@ -2064,6 +2019,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342294",
+          "author": "Chris Coyier",
+          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
+          "publishedOn": "2021-06-14T22:04:41.000Z",
+          "wordCount": 711,
+          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342229",
+          "author": "Chris Coyier",
+          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
+          "publishedOn": "2021-06-14T18:20:17.000Z",
+          "wordCount": 730,
+          "title": "CSS-Tricks Chronicle XXXX"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342070",
+          "author": "Khari McMillian",
+          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
+          "publishedOn": "2021-06-14T13:30:27.000Z",
+          "wordCount": 3261,
+          "title": "Securing Your Website With Subresource Integrity"
+        },
         {
           "id": "https://css-tricks.com/?p=342429",
           "author": "Chris Coyier",
@@ -2513,33 +2495,6 @@
           "publishedOn": "2021-05-17T14:27:13.000Z",
           "wordCount": 3,
           "title": "Euismod"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 1881,
-          "title": "Auto-Generated Social Media Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340343",
-          "author": "Nathan Babcock",
-          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
-          "publishedOn": "2021-05-14T14:14:34.000Z",
-          "wordCount": 1344,
-          "title": "Creating Stylesheet Feature Flags With Sass !default"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340403",
-          "author": "Chris Coyier",
-          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/html-boilerplates/",
-          "publishedOn": "2021-05-14T14:13:07.000Z",
-          "wordCount": 749,
-          "title": "HTML Boilerplates"
         }
       ]
     },
@@ -2548,6 +2503,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
+          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "publishedOn": "2021-06-14T10:30:00.000Z",
+          "wordCount": 3663,
+          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
@@ -2893,6 +2862,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60873d1fdd38b9088c2c0842",
+          "author": null,
+          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
+          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
+          "publishedOn": "2021-06-14T22:46:31.000Z",
+          "wordCount": 2704,
+          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
+        },
+        {
+          "id": "60bce373acb62507dd1d9f19",
+          "author": null,
+          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
+          "publishedOn": "2021-06-14T22:39:00.000Z",
+          "wordCount": 2563,
+          "title": "How to Build a Custom Pagination Component in React"
+        },
+        {
+          "id": "60c3b862d3126007592d689b",
+          "author": null,
+          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
+          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
+          "publishedOn": "2021-06-14T20:15:00.000Z",
+          "wordCount": 1297,
+          "title": "HTML Roving tabindex Attribute Explained with Examples"
+        },
+        {
+          "id": "60c794e64dc1a607ed7b25ba",
+          "author": null,
+          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
+          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
+          "publishedOn": "2021-06-14T19:19:42.000Z",
+          "wordCount": 2588,
+          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
+        },
+        {
+          "id": "60c4b35ed3126007592d71bc",
+          "author": null,
+          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
+          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
+          "publishedOn": "2021-06-14T18:37:44.000Z",
+          "wordCount": 1599,
+          "title": "10 Best African Language Datasets for Data Science Projects"
+        },
         {
           "id": "60b72d5facb62507dd1d777b",
           "author": null,
@@ -3576,33 +3590,6 @@
           "publishedOn": "2021-05-17T14:39:55.000Z",
           "wordCount": 1233,
           "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
-        },
-        {
-          "id": "609d63e962ab9107fe5aa2ce",
-          "author": "",
-          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
-          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
-          "publishedOn": "2021-05-14T20:31:30.000Z",
-          "wordCount": 1293,
-          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
-        },
-        {
-          "id": "609ea83362ab9107fe5aa920",
-          "author": "",
-          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
-          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
-          "publishedOn": "2021-05-14T20:17:37.000Z",
-          "wordCount": 3252,
-          "title": "React for Beginners: Complete React Cheatsheet for 2021"
-        },
-        {
-          "id": "609e8c2162ab9107fe5aa77d",
-          "author": "",
-          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
-          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
-          "publishedOn": "2021-05-14T17:13:14.000Z",
-          "wordCount": 1598,
-          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
         }
       ]
     }
