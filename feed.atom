@@ -2,10 +2,365 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T00:25:45.205Z</updated>
+    <updated>2021-06-17T00:23:55.693Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4-day workweek boosted workers' productivity by 40%, Microsoft Japan says]]></title>
+        <id>https://news.ycombinator.com/item?id=27533755</id>
+        <link href="https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40"/>
+        <updated>2021-06-16T21:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40
+Comments URL: https://news.ycombinator.com/item?id=27533755
+Points: 159
+# Comments: 56]]></summary>
+        <author>
+            <name>evo_9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most copied StackOverflow snippet of all time is flawed (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27533684</id>
+        <link href="https://programming.guide/worlds-most-copied-so-snippet.html"/>
+        <updated>2021-06-16T21:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://programming.guide/worlds-most-copied-so-snippet.html
+Comments URL: https://news.ycombinator.com/item?id=27533684
+Points: 210
+# Comments: 103]]></summary>
+        <author>
+            <name>vinnyglennon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
+        <id>60c088e5d3126007592d56f1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
+        <updated>2021-06-16T21:19:08.000Z</updated>
+        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
+        <id>https://css-tricks.com/?p=342358</id>
+        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
+        <updated>2021-06-16T21:11:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
+I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
+— Sam 
+
+…
+The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
+        <id>60b8cb0aacb62507dd1d82ea</id>
+        <link href="https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/"/>
+        <updated>2021-06-16T20:56:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Better React Apps with These Simple Tricks]]></title>
+        <id>60ca25704dc1a607ed7b408c</id>
+        <link href="https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/"/>
+        <updated>2021-06-16T20:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
+        <id>https://css-tricks.com/?p=342630</id>
+        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
+        <updated>2021-06-16T19:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen: 
+If somebody says a comment isn’t adding any value, I would ask: to whom?
+Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
+Jim showed …
+The post Useful and Useless Code Comments appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayfinder – a relaxing 'art game' in the browser]]></title>
+        <id>https://news.ycombinator.com/item?id=27532068</id>
+        <link href="https://wayfinder.nfb.ca/"/>
+        <updated>2021-06-16T18:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wayfinder.nfb.ca/
+Comments URL: https://news.ycombinator.com/item?id=27532068
+Points: 330
+# Comments: 59]]></summary>
+        <author>
+            <name>vnglst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
+        <id>60ca30af4dc1a607ed7b4197</id>
+        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
+        <updated>2021-06-16T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids need freedom, too]]></title>
+        <id>https://news.ycombinator.com/item?id=27530365</id>
+        <link href="https://www.persuasion.community/p/kids-need-freedom-too"/>
+        <updated>2021-06-16T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.persuasion.community/p/kids-need-freedom-too
+Comments URL: https://news.ycombinator.com/item?id=27530365
+Points: 236
+# Comments: 230]]></summary>
+        <author>
+            <name>jseliger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Execute Docker Containers as QEMU MicroVMs]]></title>
+        <id>https://news.ycombinator.com/item?id=27530074</id>
+        <link href="https://mergeboard.com/blog/2-qemu-microvm-docker/"/>
+        <updated>2021-06-16T16:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/
+Comments URL: https://news.ycombinator.com/item?id=27530074
+Points: 131
+# Comments: 53]]></summary>
+        <author>
+            <name>DarkPlayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness]]></title>
+        <id>https://news.ycombinator.com/item?id=27529768</id>
+        <link href="https://eprint.iacr.org/2021/819"/>
+        <updated>2021-06-16T15:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eprint.iacr.org/2021/819
+Comments URL: https://news.ycombinator.com/item?id=27529768
+Points: 372
+# Comments: 78]]></summary>
+        <author>
+            <name>anonymfus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bear plus snowflake equals polar bear]]></title>
+        <id>https://news.ycombinator.com/item?id=27529697</id>
+        <link href="https://andysalerno.com/posts/weird-emojis/"/>
+        <updated>2021-06-16T15:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andysalerno.com/posts/weird-emojis/
+Comments URL: https://news.ycombinator.com/item?id=27529697
+Points: 137
+# Comments: 31]]></summary>
+        <author>
+            <name>soopurman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you think psychological science is bad, imagine how bad it was in 1999]]></title>
+        <id>https://news.ycombinator.com/item?id=27529119</id>
+        <link href="https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/"/>
+        <updated>2021-06-16T14:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/
+Comments URL: https://news.ycombinator.com/item?id=27529119
+Points: 247
+# Comments: 194]]></summary>
+        <author>
+            <name>ruaraidh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does one get hired by a top cybercrime gang?]]></title>
+        <id>https://news.ycombinator.com/item?id=27529049</id>
+        <link href="https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/"/>
+        <updated>2021-06-16T14:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/
+Comments URL: https://news.ycombinator.com/item?id=27529049
+Points: 182
+# Comments: 104]]></summary>
+        <author>
+            <name>wyldfire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
+        <id>https://css-tricks.com/?p=342353</id>
+        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
+        <updated>2021-06-16T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
+The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Okiki Ojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's iCloud+ “VPN”]]></title>
+        <id>https://news.ycombinator.com/item?id=27527559</id>
+        <link href="https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html"/>
+        <updated>2021-06-16T12:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
+Comments URL: https://news.ycombinator.com/item?id=27527559
+Points: 790
+# Comments: 340]]></summary>
+        <author>
+            <name>n1000</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo’s quest to prove online privacy is possible]]></title>
+        <id>https://news.ycombinator.com/item?id=27527391</id>
+        <link href="https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/"/>
+        <updated>2021-06-16T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/
+Comments URL: https://news.ycombinator.com/item?id=27527391
+Points: 180
+# Comments: 110]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Accessibility Tooling]]></title>
+        <id>https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/</id>
+        <link href="https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/"/>
+        <updated>2021-06-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nic Chan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
+        <id>https://css-tricks.com/?p=342198</id>
+        <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
+        <updated>2021-06-15T23:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
+The post Detect Unused Classes in… HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Engineering Course for Beginners]]></title>
+        <id>60c91b2b4dc1a607ed7b389a</id>
+        <link href="https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/"/>
+        <updated>2021-06-15T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples]]></title>
+        <id>60c72a0ad3126007592d7e2a</id>
+        <link href="https://www.freecodecamp.org/news/what-is-this-in-javascript/"/>
+        <updated>2021-06-15T21:19:12.000Z</updated>
+        <summary type="html"><![CDATA[To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word "run". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest]]></title>
+        <id>60c8912c4dc1a607ed7b2fff</id>
+        <link href="https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/"/>
+        <updated>2021-06-15T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder "Am I setting my price too high?" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
+        <id>https://css-tricks.com/?p=342519</id>
+        <link href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/"/>
+        <updated>2021-06-15T19:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
+I took the bait and had a look at some of my projects – 
+…
+The post Media Queries in Times of @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Decorators – How to Create and Use Decorators in Python With Examples]]></title>
+        <id>60c3dcb3d3126007592d6c6d</id>
+        <link href="https://www.freecodecamp.org/news/python-decorators-explained-with-examples/"/>
+        <updated>2021-06-15T17:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Strangler Fig Pattern and How it Helps Manage Legacy Code]]></title>
+        <id>602aaaf60a2838549dcc5c7f</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/"/>
+        <updated>2021-06-15T17:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open Any Repo in VS Code Without Cloning It]]></title>
+        <id>60b7cb6aacb62507dd1d7c1a</id>
+        <link href="https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/"/>
+        <updated>2021-06-15T16:06:54.000Z</updated>
+        <summary type="html"><![CDATA[You can now open anything (that you have access to) on GitHub directly from VS Code.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
+        <id>https://css-tricks.com/?p=342248</id>
+        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
+        <updated>2021-06-15T14:31:34.000Z</updated>
+        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
+Is it… big? The future …
+The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
+        <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
+        <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
+        <updated>2021-06-15T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/"/>
+        <updated>2021-06-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
         <id>60873d1fdd38b9088c2c0842</id>
@@ -134,6 +489,19 @@ The post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When pop history bombs: a response to Malcolm Gladwell]]></title>
+        <id>https://news.ycombinator.com/item?id=27506171</id>
+        <link href="https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/"/>
+        <updated>2021-06-14T18:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/
+Comments URL: https://news.ycombinator.com/item?id=27506171
+Points: 183
+# Comments: 149]]></summary>
+        <author>
+            <name>diodorus</name>
         </author>
     </entry>
     <entry>
@@ -4410,280 +4778,6 @@ The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Silvia O'Dwyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From apes to birds, animal species that “laugh”]]></title>
-        <id>https://news.ycombinator.com/item?id=27193602</id>
-        <link href="https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/"/>
-        <updated>2021-05-18T12:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/
-Comments URL: https://news.ycombinator.com/item?id=27193602
-Points: 107
-# Comments: 44]]></summary>
-        <author>
-            <name>Engineering-MD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positions chess engines don't understand]]></title>
-        <id>https://news.ycombinator.com/item?id=27188854</id>
-        <link href="https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand"/>
-        <updated>2021-05-17T21:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
-Comments URL: https://news.ycombinator.com/item?id=27188854
-Points: 121
-# Comments: 50]]></summary>
-        <author>
-            <name>diplodocusaur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
-        <id>60a2771762ab9107fe5ab383</id>
-        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
-        <updated>2021-05-17T21:11:58.000Z</updated>
-        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
-        <id>60a536e1906c5207e3a7e6b5</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
-        <updated>2021-05-17T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recovering “lost” treasure-filled floppy discs with an oscilloscope]]></title>
-        <id>https://news.ycombinator.com/item?id=27187435</id>
-        <link href="https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html"/>
-        <updated>2021-05-17T19:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html
-Comments URL: https://news.ycombinator.com/item?id=27187435
-Points: 164
-# Comments: 26]]></summary>
-        <author>
-            <name>scarybeast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index]]></title>
-        <id>https://news.ycombinator.com/item?id=27186959</id>
-        <link href="https://www.sec.gov/news/press-release/2021-84"/>
-        <updated>2021-05-17T19:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sec.gov/news/press-release/2021-84
-Comments URL: https://news.ycombinator.com/item?id=27186959
-Points: 142
-# Comments: 45]]></summary>
-        <author>
-            <name>epa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes]]></title>
-        <id>https://news.ycombinator.com/item?id=27186778</id>
-        <link href="https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/"/>
-        <updated>2021-05-17T18:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/
-Comments URL: https://news.ycombinator.com/item?id=27186778
-Points: 104
-# Comments: 61]]></summary>
-        <author>
-            <name>IMAYousaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is the Gaza Strip blurry on Google Maps?]]></title>
-        <id>https://news.ycombinator.com/item?id=27186675</id>
-        <link href="https://www.bbc.com/news/57102499"/>
-        <updated>2021-05-17T18:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/57102499
-Comments URL: https://news.ycombinator.com/item?id=27186675
-Points: 618
-# Comments: 306]]></summary>
-        <author>
-            <name>vanusa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A police dog who cried drugs at every traffic stop]]></title>
-        <id>https://news.ycombinator.com/item?id=27186436</id>
-        <link href="https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/"/>
-        <updated>2021-05-17T18:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/
-Comments URL: https://news.ycombinator.com/item?id=27186436
-Points: 175
-# Comments: 137]]></summary>
-        <author>
-            <name>pessimizer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
-        <id>60a16df162ab9107fe5ab01b</id>
-        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
-        <updated>2021-05-17T17:45:50.000Z</updated>
-        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uxn: a portable 8-bit virtual computer]]></title>
-        <id>https://news.ycombinator.com/item?id=27185950</id>
-        <link href="https://100r.co/site/uxn.html"/>
-        <updated>2021-05-17T17:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://100r.co/site/uxn.html
-Comments URL: https://news.ycombinator.com/item?id=27185950
-Points: 160
-# Comments: 28]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
-        <id>609f552e62ab9107fe5aaba0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
-        <updated>2021-05-17T16:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
-        <id>609cb90262ab9107fe5aa026</id>
-        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
-        <updated>2021-05-17T14:39:55.000Z</updated>
-        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ashley Kolodziej</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghosts of Unix past, part 3: Unfixable designs (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=27183784</id>
-        <link href="https://lwn.net/Articles/414618/"/>
-        <updated>2021-05-17T14:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/414618/
-Comments URL: https://news.ycombinator.com/item?id=27183784
-Points: 141
-# Comments: 61]]></summary>
-        <author>
-            <name>wmanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music Announces Spatial Audio and Lossless Audio]]></title>
-        <id>https://news.ycombinator.com/item?id=27182946</id>
-        <link href="https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/"/>
-        <updated>2021-05-17T13:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/
-Comments URL: https://news.ycombinator.com/item?id=27182946
-Points: 614
-# Comments: 591]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive]]></title>
-        <id>https://news.ycombinator.com/item?id=27182536</id>
-        <link href="https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024"/>
-        <updated>2021-05-17T12:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024
-Comments URL: https://news.ycombinator.com/item?id=27182536
-Points: 143
-# Comments: 61]]></summary>
-        <author>
-            <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umami – An alternative to Google Analytics]]></title>
-        <id>https://news.ycombinator.com/item?id=27181622</id>
-        <link href="https://github.com/mikecao/umami"/>
-        <updated>2021-05-17T09:44:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/mikecao/umami
-Comments URL: https://news.ycombinator.com/item?id=27181622
-Points: 175
-# Comments: 34]]></summary>
-        <author>
-            <name>sandebert</name>
         </author>
     </entry>
 </feed>

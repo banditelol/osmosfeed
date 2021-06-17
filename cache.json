@@ -6,6 +6,105 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27533755",
+          "author": "evo_9",
+          "description": "Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40\nComments URL: https://news.ycombinator.com/item?id=27533755\nPoints: 159\n# Comments: 56",
+          "link": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
+          "publishedOn": "2021-06-16T21:36:59.000Z",
+          "wordCount": 1417,
+          "title": "4-day workweek boosted workers' productivity by 40%, Microsoft Japan says"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27533684",
+          "author": "vinnyglennon",
+          "description": "Article URL: https://programming.guide/worlds-most-copied-so-snippet.html\nComments URL: https://news.ycombinator.com/item?id=27533684\nPoints: 210\n# Comments: 103",
+          "link": "https://programming.guide/worlds-most-copied-so-snippet.html",
+          "publishedOn": "2021-06-16T21:27:44.000Z",
+          "wordCount": 2487,
+          "title": "The most copied StackOverflow snippet of all time is flawed (2019)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27532068",
+          "author": "vnglst",
+          "description": "Article URL: https://wayfinder.nfb.ca/\nComments URL: https://news.ycombinator.com/item?id=27532068\nPoints: 330\n# Comments: 59",
+          "link": "https://wayfinder.nfb.ca/",
+          "publishedOn": "2021-06-16T18:51:05.000Z",
+          "wordCount": 8,
+          "title": "Wayfinder – a relaxing 'art game' in the browser"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27530365",
+          "author": "jseliger",
+          "description": "Article URL: https://www.persuasion.community/p/kids-need-freedom-too\nComments URL: https://news.ycombinator.com/item?id=27530365\nPoints: 236\n# Comments: 230",
+          "link": "https://www.persuasion.community/p/kids-need-freedom-too",
+          "publishedOn": "2021-06-16T16:27:48.000Z",
+          "wordCount": 1428,
+          "title": "Kids need freedom, too"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27530074",
+          "author": "DarkPlayer",
+          "description": "Article URL: https://mergeboard.com/blog/2-qemu-microvm-docker/\nComments URL: https://news.ycombinator.com/item?id=27530074\nPoints: 131\n# Comments: 53",
+          "link": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
+          "publishedOn": "2021-06-16T16:05:21.000Z",
+          "wordCount": 4717,
+          "title": "Execute Docker Containers as QEMU MicroVMs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27529768",
+          "author": "anonymfus",
+          "description": "Article URL: https://eprint.iacr.org/2021/819\nComments URL: https://news.ycombinator.com/item?id=27529768\nPoints: 372\n# Comments: 78",
+          "link": "https://eprint.iacr.org/2021/819",
+          "publishedOn": "2021-06-16T15:39:58.000Z",
+          "wordCount": 285,
+          "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27529697",
+          "author": "soopurman",
+          "description": "Article URL: https://andysalerno.com/posts/weird-emojis/\nComments URL: https://news.ycombinator.com/item?id=27529697\nPoints: 137\n# Comments: 31",
+          "link": "https://andysalerno.com/posts/weird-emojis/",
+          "publishedOn": "2021-06-16T15:35:18.000Z",
+          "wordCount": 1469,
+          "title": "Bear plus snowflake equals polar bear"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27529119",
+          "author": "ruaraidh",
+          "description": "Article URL: https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/\nComments URL: https://news.ycombinator.com/item?id=27529119\nPoints: 247\n# Comments: 194",
+          "link": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
+          "publishedOn": "2021-06-16T14:47:50.000Z",
+          "wordCount": 6416,
+          "title": "If you think psychological science is bad, imagine how bad it was in 1999"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27529049",
+          "author": "wyldfire",
+          "description": "Article URL: https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/\nComments URL: https://news.ycombinator.com/item?id=27529049\nPoints: 182\n# Comments: 104",
+          "link": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
+          "publishedOn": "2021-06-16T14:41:55.000Z",
+          "wordCount": 3556,
+          "title": "How does one get hired by a top cybercrime gang?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27527559",
+          "author": "n1000",
+          "description": "Article URL: https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html\nComments URL: https://news.ycombinator.com/item?id=27527559\nPoints: 790\n# Comments: 340",
+          "link": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
+          "publishedOn": "2021-06-16T12:05:13.000Z",
+          "wordCount": 488,
+          "title": "Apple's iCloud+ “VPN”"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27527391",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/\nComments URL: https://news.ycombinator.com/item?id=27527391\nPoints: 180\n# Comments: 110",
+          "link": "https://www.wired.com/story/duckduckgo-quest-prove-online-privacy-possible/",
+          "publishedOn": "2021-06-16T11:44:00.000Z",
+          "wordCount": 3234,
+          "title": "DuckDuckGo’s quest to prove online privacy is possible"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27507088",
           "author": "robin_reala",
           "description": "Article URL: https://blog.1password.com/supporting-lets-encrypt/\nComments URL: https://news.ycombinator.com/item?id=27507088\nPoints: 122\n# Comments: 61",
@@ -40,6 +139,15 @@
           "publishedOn": "2021-06-14T18:45:06.000Z",
           "wordCount": 7965,
           "title": "Myths in cycling: wider tires are slower"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27506171",
+          "author": "diodorus",
+          "description": "Article URL: https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/\nComments URL: https://news.ycombinator.com/item?id=27506171\nPoints: 183\n# Comments: 149",
+          "link": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
+          "publishedOn": "2021-06-14T18:19:39.000Z",
+          "wordCount": 5599,
+          "title": "When pop history bombs: a response to Malcolm Gladwell"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27504254",
@@ -1903,114 +2011,6 @@
           "publishedOn": "2021-05-19T10:07:21.000Z",
           "wordCount": 3721,
           "title": "A teenager's guide to avoiding actual work"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27193602",
-          "author": "Engineering-MD",
-          "description": "Article URL: https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/\nComments URL: https://news.ycombinator.com/item?id=27193602\nPoints: 107\n# Comments: 44",
-          "link": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
-          "publishedOn": "2021-05-18T12:11:32.000Z",
-          "wordCount": 1128,
-          "title": "From apes to birds, animal species that “laugh”"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27188854",
-          "author": "diplodocusaur",
-          "description": "Article URL: https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand\nComments URL: https://news.ycombinator.com/item?id=27188854\nPoints: 121\n# Comments: 50",
-          "link": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
-          "publishedOn": "2021-05-17T21:48:54.000Z",
-          "wordCount": 2174,
-          "title": "Positions chess engines don't understand"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27187435",
-          "author": "scarybeast",
-          "description": "Article URL: https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html\nComments URL: https://news.ycombinator.com/item?id=27187435\nPoints: 164\n# Comments: 26",
-          "link": "https://scarybeastsecurity.blogspot.com/2021/05/recovering-lost-treasure-filled-floppy.html",
-          "publishedOn": "2021-05-17T19:38:38.000Z",
-          "wordCount": 4610,
-          "title": "Recovering “lost” treasure-filled floppy discs with an oscilloscope"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27186959",
-          "author": "epa",
-          "description": "Article URL: https://www.sec.gov/news/press-release/2021-84\nComments URL: https://news.ycombinator.com/item?id=27186959\nPoints: 142\n# Comments: 45",
-          "link": "https://www.sec.gov/news/press-release/2021-84",
-          "publishedOn": "2021-05-17T19:01:48.000Z",
-          "wordCount": 962,
-          "title": "SEC Charges S&P Dow Jones for Failures Relating to Volatility-Related Index"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27186778",
-          "author": "IMAYousaf",
-          "description": "Article URL: https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/\nComments URL: https://news.ycombinator.com/item?id=27186778\nPoints: 104\n# Comments: 61",
-          "link": "https://showme.missouri.edu/2021/study-drivers-who-experience-shift-work-sleep-disorder-are-3x-more-likely-to-be-involved-in-a-vehicle-crash/",
-          "publishedOn": "2021-05-17T18:51:23.000Z",
-          "wordCount": 1206,
-          "title": "Some Night-Shift Workers May Have a 300% Higher Risk of Car Crashes"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27186675",
-          "author": "vanusa",
-          "description": "Article URL: https://www.bbc.com/news/57102499\nComments URL: https://news.ycombinator.com/item?id=27186675\nPoints: 618\n# Comments: 306",
-          "link": "https://www.bbc.com/news/57102499",
-          "publishedOn": "2021-05-17T18:42:45.000Z",
-          "wordCount": 1639,
-          "title": "Why is the Gaza Strip blurry on Google Maps?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27186436",
-          "author": "pessimizer",
-          "description": "Article URL: https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=27186436\nPoints: 175\n# Comments: 137",
-          "link": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
-          "publishedOn": "2021-05-17T18:23:39.000Z",
-          "wordCount": 7113,
-          "title": "A police dog who cried drugs at every traffic stop"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27185950",
-          "author": "bpierre",
-          "description": "Article URL: https://100r.co/site/uxn.html\nComments URL: https://news.ycombinator.com/item?id=27185950\nPoints: 160\n# Comments: 28",
-          "link": "https://100r.co/site/uxn.html",
-          "publishedOn": "2021-05-17T17:35:32.000Z",
-          "wordCount": 674,
-          "title": "uxn: a portable 8-bit virtual computer"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27183784",
-          "author": "wmanley",
-          "description": "Article URL: https://lwn.net/Articles/414618/\nComments URL: https://news.ycombinator.com/item?id=27183784\nPoints: 141\n# Comments: 61",
-          "link": "https://lwn.net/Articles/414618/",
-          "publishedOn": "2021-05-17T14:25:43.000Z",
-          "wordCount": 16501,
-          "title": "Ghosts of Unix past, part 3: Unfixable designs (2010)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27182946",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\nComments URL: https://news.ycombinator.com/item?id=27182946\nPoints: 614\n# Comments: 591",
-          "link": "https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/",
-          "publishedOn": "2021-05-17T13:06:31.000Z",
-          "wordCount": 1914,
-          "title": "Apple Music Announces Spatial Audio and Lossless Audio"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27182536",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024\nComments URL: https://news.ycombinator.com/item?id=27182536\nPoints: 143\n# Comments: 61",
-          "link": "https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024",
-          "publishedOn": "2021-05-17T12:09:49.000Z",
-          "wordCount": 2955,
-          "title": "AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27181622",
-          "author": "sandebert",
-          "description": "Article URL: https://github.com/mikecao/umami\nComments URL: https://news.ycombinator.com/item?id=27181622\nPoints: 175\n# Comments: 34",
-          "link": "https://github.com/mikecao/umami",
-          "publishedOn": "2021-05-17T09:44:37.000Z",
-          "wordCount": 1012,
-          "title": "Umami – An alternative to Google Analytics"
         }
       ]
     },
@@ -2019,6 +2019,60 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342358",
+          "author": "Chris Coyier",
+          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
+          "publishedOn": "2021-06-16T21:11:02.000Z",
+          "wordCount": 604,
+          "title": "Inline Styles as Classes (lol)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342630",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-16T19:08:33.000Z",
+          "wordCount": 869,
+          "title": "Useful and Useless Code Comments"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342353",
+          "author": "Okiki Ojo",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
+          "publishedOn": "2021-06-16T14:26:58.000Z",
+          "wordCount": 2409,
+          "title": "How I Used the WAAPI to Build an Animation Library"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342198",
+          "author": "Chris Coyier",
+          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
+          "publishedOn": "2021-06-15T23:24:20.000Z",
+          "wordCount": 798,
+          "title": "Detect Unused Classes in… HTML"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342519",
+          "author": "Chris Coyier",
+          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
+          "publishedOn": "2021-06-15T19:51:32.000Z",
+          "wordCount": 2234,
+          "title": "Media Queries in Times of @container"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342248",
+          "author": "Chris Coyier",
+          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
+          "publishedOn": "2021-06-15T14:31:34.000Z",
+          "wordCount": 2721,
+          "title": "Just How Niche is Headless WordPress?"
+        },
         {
           "id": "https://css-tricks.com/?p=342294",
           "author": "Chris Coyier",
@@ -2468,33 +2522,6 @@
           "publishedOn": "2021-05-18T14:31:25.000Z",
           "wordCount": 2364,
           "title": "How to Create Neon Text With CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 1356,
-          "title": "A Love Letter to HTML & CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
         }
       ]
     },
@@ -2503,6 +2530,48 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "author": "hello@smashingmagazine.com (Nic Chan)",
+          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
+          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "publishedOn": "2021-06-16T10:30:00.000Z",
+          "wordCount": 4102,
+          "title": "A Complete Guide To Accessibility Tooling",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
+          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "publishedOn": "2021-06-15T10:15:00.000Z",
+          "wordCount": 2381,
+          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "publishedOn": "2021-06-15T07:00:00.000Z",
+          "wordCount": 10715,
+          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
@@ -2827,33 +2896,6 @@
           "publishedOn": "2021-05-19T11:40:00.000Z",
           "wordCount": 4986,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
         }
       ]
     },
@@ -2862,6 +2904,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c088e5d3126007592d56f1",
+          "author": null,
+          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
+          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
+          "publishedOn": "2021-06-16T21:19:08.000Z",
+          "wordCount": 1696,
+          "title": "JavaScript Split – How to Split a String into an Array in JS"
+        },
+        {
+          "id": "60b8cb0aacb62507dd1d82ea",
+          "author": null,
+          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
+          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
+          "publishedOn": "2021-06-16T20:56:49.000Z",
+          "wordCount": 2502,
+          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
+        },
+        {
+          "id": "60ca25704dc1a607ed7b408c",
+          "author": null,
+          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
+          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
+          "publishedOn": "2021-06-16T20:55:03.000Z",
+          "wordCount": 1525,
+          "title": "Build Better React Apps with These Simple Tricks"
+        },
+        {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
+        {
+          "id": "60c91b2b4dc1a607ed7b389a",
+          "author": null,
+          "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
+          "link": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
+          "publishedOn": "2021-06-15T21:33:17.000Z",
+          "wordCount": 455,
+          "title": "DevOps Engineering Course for Beginners"
+        },
+        {
+          "id": "60c72a0ad3126007592d7e2a",
+          "author": null,
+          "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
+          "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
+          "publishedOn": "2021-06-15T21:19:12.000Z",
+          "wordCount": 1383,
+          "title": "What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples"
+        },
+        {
+          "id": "60c8912c4dc1a607ed7b2fff",
+          "author": null,
+          "description": "As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder \"Am I setting my price too high?\" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding",
+          "link": "https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/",
+          "publishedOn": "2021-06-15T21:10:54.000Z",
+          "wordCount": 2031,
+          "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
+        },
+        {
+          "id": "60c3dcb3d3126007592d6c6d",
+          "author": null,
+          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
+          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
+          "publishedOn": "2021-06-15T17:57:54.000Z",
+          "wordCount": 1409,
+          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
+        },
+        {
+          "id": "602aaaf60a2838549dcc5c7f",
+          "author": null,
+          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
+          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
+          "publishedOn": "2021-06-15T17:43:43.000Z",
+          "wordCount": 1292,
+          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
+        },
+        {
+          "id": "60b7cb6aacb62507dd1d7c1a",
+          "author": null,
+          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
+          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
+          "publishedOn": "2021-06-15T16:06:54.000Z",
+          "wordCount": 1714,
+          "title": "How to Open Any Repo in VS Code Without Cloning It"
+        },
         {
           "id": "60873d1fdd38b9088c2c0842",
           "author": null,
@@ -3545,51 +3677,6 @@
           "publishedOn": "2021-05-18T16:08:27.000Z",
           "wordCount": 4368,
           "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
-        },
-        {
-          "id": "60a2771762ab9107fe5ab383",
-          "author": "",
-          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
-          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
-          "publishedOn": "2021-05-17T21:11:58.000Z",
-          "wordCount": 1169,
-          "title": "HTML vs JSX – What&#x27;s the Difference?"
-        },
-        {
-          "id": "60a536e1906c5207e3a7e6b5",
-          "author": "",
-          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
-          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
-          "publishedOn": "2021-05-17T20:45:00.000Z",
-          "wordCount": 4218,
-          "title": "The Complete Guide to Full Stack Ethereum Development"
-        },
-        {
-          "id": "60a16df162ab9107fe5ab01b",
-          "author": "",
-          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
-          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
-          "publishedOn": "2021-05-17T17:45:50.000Z",
-          "wordCount": 1282,
-          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
-        },
-        {
-          "id": "609f552e62ab9107fe5aaba0",
-          "author": "",
-          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
-          "publishedOn": "2021-05-17T16:25:22.000Z",
-          "wordCount": 1076,
-          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
-        },
-        {
-          "id": "609cb90262ab9107fe5aa026",
-          "author": "",
-          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
-          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
-          "publishedOn": "2021-05-17T14:39:55.000Z",
-          "wordCount": 1233,
-          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
         }
       ]
     }
