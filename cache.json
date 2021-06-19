@@ -6,6 +6,96 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27554765",
+          "author": "gtonioli",
+          "description": "Article URL: https://github.com/VitorVilela7/wide-snes\nComments URL: https://news.ycombinator.com/item?id=27554765\nPoints: 205\n# Comments: 29",
+          "link": "https://github.com/VitorVilela7/wide-snes",
+          "publishedOn": "2021-06-18T20:38:40.000Z",
+          "wordCount": 1011,
+          "title": "SNES – Super Mario World Widescreen"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27553718",
+          "author": "dougmany",
+          "description": "Article URL: https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/\nComments URL: https://news.ycombinator.com/item?id=27553718\nPoints: 131\n# Comments: 65",
+          "link": "https://control.com/news/mars-helicopter-employs-advanced-control-techniques-to-survive-an-in-flight-anomaly/",
+          "publishedOn": "2021-06-18T19:03:35.000Z",
+          "wordCount": null,
+          "title": "Mars helicopter employs advanced control techniques to survive in-flight anomaly"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27553451",
+          "author": "temp8964",
+          "description": "Article URL: https://www.cpubenchmark.net/market_share.html\nComments URL: https://news.ycombinator.com/item?id=27553451\nPoints: 152\n# Comments: 111",
+          "link": "https://www.cpubenchmark.net/market_share.html",
+          "publishedOn": "2021-06-18T18:39:16.000Z",
+          "wordCount": 756,
+          "title": "AMD vs. Intel CPU Market Share"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27552611",
+          "author": "prostoalex",
+          "description": "Article URL: https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/\nComments URL: https://news.ycombinator.com/item?id=27552611\nPoints: 552\n# Comments: 300",
+          "link": "https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/",
+          "publishedOn": "2021-06-18T17:17:41.000Z",
+          "wordCount": 886,
+          "title": "80% of orgs that paid the ransom were hit again"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27550703",
+          "author": "eplanit",
+          "description": "Article URL: https://www.memorysafety.org/\nComments URL: https://news.ycombinator.com/item?id=27550703\nPoints: 100\n# Comments: 56",
+          "link": "https://www.memorysafety.org/",
+          "publishedOn": "2021-06-18T14:29:56.000Z",
+          "wordCount": 529,
+          "title": "Prossimo – Memory safety for the Internet's most critical infrastructure"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27549652",
+          "author": "elsewhen",
+          "description": "Article URL: https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting\nComments URL: https://news.ycombinator.com/item?id=27549652\nPoints: 216\n# Comments: 182",
+          "link": "https://www.vice.com/en/article/z3xz3j/oregon-has-legalized-human-composting",
+          "publishedOn": "2021-06-18T12:36:46.000Z",
+          "wordCount": 769,
+          "title": "Oregon Has Legalized Human Composting"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27549484",
+          "author": "aww_dang",
+          "description": "Article URL: http://large.stanford.edu/courses/2014/ph241/reid2/\nComments URL: https://news.ycombinator.com/item?id=27549484\nPoints: 210\n# Comments: 173",
+          "link": "http://large.stanford.edu/courses/2014/ph241/reid2/",
+          "publishedOn": "2021-06-18T12:05:46.000Z",
+          "wordCount": 2237,
+          "title": "Nuclear Power at McMurdo Station, Antarctica"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27549300",
+          "author": "rjzzleep",
+          "description": "Article URL: https://github.com/streetcomplete/StreetComplete\nComments URL: https://news.ycombinator.com/item?id=27549300\nPoints: 378\n# Comments: 45",
+          "link": "https://github.com/streetcomplete/StreetComplete",
+          "publishedOn": "2021-06-18T11:26:34.000Z",
+          "wordCount": 1153,
+          "title": "StreetComplete: Easy to use editor of OpenStreetMap data"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27540941",
+          "author": "DamnInteresting",
+          "description": "Despite my best efforts, in the past few years I have had no luck with desk chairs--each one I've had grows uncomfortable after 10-15 minutes of working. This discomfort manifests as sore legs, sore back, feeling too warm, poor seating posture, and similar inconveniences. I recognize the need to stand up and stretch periodically, but these uncomfy chairs make it really difficult to get into the zone.\nHave you found a chair that makes you happy? Given the amount of time I must spend at a keyboard, I am willing to spend real money. For reference, I am a 40ish 5'10\" male with an average build (pandemic deterioration notwithstanding).\nI also have a treadmill desk, and it's great for humdrum work, but sometimes it is necessary to sit down and dig in when the task at hand is more challenging.\nComments URL: https://news.ycombinator.com/item?id=27540941\nPoints: 129\n# Comments: 261",
+          "link": "https://news.ycombinator.com/item?id=27540941",
+          "publishedOn": "2021-06-17T15:49:44.000Z",
+          "wordCount": 18585,
+          "title": "Ask HN: Have you found a good desk chair?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27537045",
+          "author": "rodrigo975",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/\nComments URL: https://news.ycombinator.com/item?id=27537045\nPoints: 191\n# Comments: 123",
+          "link": "https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/",
+          "publishedOn": "2021-06-17T07:33:59.000Z",
+          "wordCount": 2148,
+          "title": "ZFS fans, rejoice – RAIDz expansion will be a thing soon"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27533755",
           "author": "evo_9",
           "description": "Article URL: https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40\nComments URL: https://news.ycombinator.com/item?id=27533755\nPoints: 159\n# Comments: 56",
@@ -1894,123 +1984,6 @@
           "publishedOn": "2021-05-21T07:01:14.000Z",
           "wordCount": 1465,
           "title": "useStateMachine: A ½ kb state machine hook for React"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27212812",
-          "author": "taxyovio",
-          "description": "Article URL: https://adguard.com/en/blog/youtube-ads-in-safari-explained.html\nComments URL: https://news.ycombinator.com/item?id=27212812\nPoints: 119\n# Comments: 134",
-          "link": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-          "publishedOn": "2021-05-19T18:54:05.000Z",
-          "wordCount": 2749,
-          "title": "YouTube ads in Safari: you see them now, will you see them in the future?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27212423",
-          "author": "kyleblarson",
-          "description": "Article URL: https://sfciti.org/sf-tech-exodus/\nComments URL: https://news.ycombinator.com/item?id=27212423\nPoints: 167\n# Comments: 204",
-          "link": "https://sfciti.org/sf-tech-exodus/",
-          "publishedOn": "2021-05-19T18:23:50.000Z",
-          "wordCount": 3090,
-          "title": "Tracking the San Francisco Tech Exodus"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27212270",
-          "author": "dsr12",
-          "description": "Article URL: https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html\nComments URL: https://news.ycombinator.com/item?id=27212270\nPoints: 128\n# Comments: 64",
-          "link": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-          "publishedOn": "2021-05-19T18:10:21.000Z",
-          "wordCount": 1452,
-          "title": "Sharing learnings about our image cropping algorithm"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27212127",
-          "author": "smukherjee19",
-          "description": "Article URL: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/\nComments URL: https://news.ycombinator.com/item?id=27212127\nPoints: 298\n# Comments: 161",
-          "link": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-          "publishedOn": "2021-05-19T18:00:24.000Z",
-          "wordCount": 1789,
-          "title": "Internet Explorer 11 (IE11) to be retired on June 15, 2022"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27211583",
-          "author": "ArmandGrillet",
-          "description": "Article URL: https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/\nComments URL: https://news.ycombinator.com/item?id=27211583\nPoints: 339\n# Comments: 145",
-          "link": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
-          "publishedOn": "2021-05-19T17:19:12.000Z",
-          "wordCount": 2354,
-          "title": "Previews of software updates designed for people with disabilities"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27211517",
-          "author": "marc__1",
-          "description": "Article URL: https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4\nComments URL: https://news.ycombinator.com/item?id=27211517\nPoints: 296\n# Comments: 125",
-          "link": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
-          "publishedOn": "2021-05-19T17:13:27.000Z",
-          "wordCount": 413,
-          "title": "FTC and several states sue Frontier Communications regarding internet speeds"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27210460",
-          "author": "csmajorfive",
-          "description": "Article URL: https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/\nComments URL: https://news.ycombinator.com/item?id=27210460\nPoints: 133\n# Comments: 27",
-          "link": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
-          "publishedOn": "2021-05-19T16:01:05.000Z",
-          "wordCount": 1261,
-          "title": "Next-generation Deploy Previews, plus Netlify acquires FeaturePeek (YC S19)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27209412",
-          "author": "TangerineDream",
-          "description": "Article URL: https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/\nComments URL: https://news.ycombinator.com/item?id=27209412\nPoints: 418\n# Comments: 151",
-          "link": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-          "publishedOn": "2021-05-19T14:48:43.000Z",
-          "wordCount": 1411,
-          "title": "Improving Firefox stability on Linux"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207734",
-          "author": "smitop",
-          "description": "Article URL: https://libera.chat/news/welcome-to-libera-chat\nComments URL: https://news.ycombinator.com/item?id=27207734\nPoints: 1073\n# Comments: 389",
-          "link": "https://libera.chat/news/welcome-to-libera-chat",
-          "publishedOn": "2021-05-19T12:39:41.000Z",
-          "wordCount": 359,
-          "title": "Welcome to Libera Chat"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207333",
-          "author": "mooreds",
-          "description": "Article URL: https://peterlyons.com/problog/2021/04/squeezebox-keyboard/\nComments URL: https://news.ycombinator.com/item?id=27207333\nPoints: 199\n# Comments: 81",
-          "link": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-          "publishedOn": "2021-05-19T11:53:42.000Z",
-          "wordCount": 2932,
-          "title": "Squeezebox Keyboard"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207330",
-          "author": "graderjs",
-          "description": "Article URL: https://home.cern/news/news/physics/59-new-hadrons-and-counting\nComments URL: https://news.ycombinator.com/item?id=27207330\nPoints: 100\n# Comments: 29",
-          "link": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
-          "publishedOn": "2021-05-19T11:53:09.000Z",
-          "wordCount": 1357,
-          "title": "Over the past 10 years, the LHC has found more than 50 new hadrons"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27207049",
-          "author": "choult",
-          "description": "Article URL: https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish\nComments URL: https://news.ycombinator.com/item?id=27207049\nPoints: 143\n# Comments: 104",
-          "link": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
-          "publishedOn": "2021-05-19T11:17:34.000Z",
-          "wordCount": 1974,
-          "title": "The Amish as a source of tech-savvy guidance"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27206552",
-          "author": "mad_ned",
-          "description": "Article URL: https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual\nComments URL: https://news.ycombinator.com/item?id=27206552\nPoints: 995\n# Comments: 181",
-          "link": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-          "publishedOn": "2021-05-19T10:07:21.000Z",
-          "wordCount": 3721,
-          "title": "A teenager's guide to avoiding actual work"
         }
       ]
     },
@@ -2019,6 +1992,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341511",
+          "author": "Carter Li",
+          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
+          "publishedOn": "2021-06-18T20:38:59.000Z",
+          "wordCount": 974,
+          "title": "Using the `outline` Property as a Collapsable Border"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342326",
+          "author": "Chris Coyier",
+          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-typography-2/",
+          "publishedOn": "2021-06-18T13:44:17.000Z",
+          "wordCount": 784,
+          "title": "Links on Typography"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341948",
+          "author": "Louis Hoebregts",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
+          "publishedOn": "2021-06-17T14:45:57.000Z",
+          "wordCount": 1650,
+          "title": "Perfect Tooltips With CSS Clipping and Masking"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342257",
+          "author": "ImageEngine",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
+          "publishedOn": "2021-06-17T14:38:42.000Z",
+          "wordCount": 1309,
+          "title": "Start Serving Optimized Images in Vue"
+        },
         {
           "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
@@ -2486,42 +2495,6 @@
           "publishedOn": "2021-05-20T14:20:56.000Z",
           "wordCount": 1196,
           "title": "fit-content and fit-content()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340731",
-          "author": "Chris Coyier",
-          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/notion-api/",
-          "publishedOn": "2021-05-19T23:18:42.000Z",
-          "wordCount": 1042,
-          "title": "Notion API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340692",
-          "author": "Shubham Jain",
-          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
-          "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1417,
-          "title": "svg-loader: A Different Way to Work With External SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340613",
-          "author": "Chris Coyier",
-          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
-          "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 1082,
-          "title": "Pinned Audio WordPress Theme"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2364,
-          "title": "How to Create Neon Text With CSS"
         }
       ]
     },
@@ -2530,6 +2503,48 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
+          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
+          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
+          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
+          "publishedOn": "2021-06-18T15:00:00.000Z",
+          "wordCount": 3427,
+          "title": "An Alternative Voice UI To Voice Assistants",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
+          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
+          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
+          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
+          "publishedOn": "2021-06-18T13:00:00.000Z",
+          "wordCount": 3957,
+          "title": "Client-Side Routing In Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
+          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "publishedOn": "2021-06-17T10:30:00.000Z",
+          "wordCount": 1637,
+          "title": "Your Image Is Probably Not Decorative",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "author": "hello@smashingmagazine.com (Nic Chan)",
@@ -2878,24 +2893,6 @@
           "publishedOn": "2021-05-20T14:20:00.000Z",
           "wordCount": 831,
           "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
-          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auth0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
         }
       ]
     },
@@ -2904,6 +2901,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b46dbd11ffb70827ef9dea",
+          "author": null,
+          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
+          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
+          "publishedOn": "2021-06-18T15:45:00.000Z",
+          "wordCount": 1613,
+          "title": "TCP vs UDP – Which Protocol is Faster?"
+        },
+        {
+          "id": "60cc5a904dc1a607ed7b4c54",
+          "author": null,
+          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
+          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
+          "publishedOn": "2021-06-18T15:43:56.000Z",
+          "wordCount": 906,
+          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
+        },
+        {
+          "id": "60cca3294dc1a607ed7b4c76",
+          "author": null,
+          "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
+          "link": "https://www.freecodecamp.org/news/understanding-sorting-algorithms/",
+          "publishedOn": "2021-06-18T13:56:04.000Z",
+          "wordCount": 13842,
+          "title": "Understanding Sorting Algorithms"
+        },
+        {
+          "id": "60c2aa56d3126007592d6226",
+          "author": null,
+          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2021-06-17T12:02:47.000Z",
+          "wordCount": 41178,
+          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
+        },
+        {
+          "id": "60c88bbc4dc1a607ed7b2ffa",
+          "author": null,
+          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
+          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
+          "publishedOn": "2021-06-17T00:53:04.000Z",
+          "wordCount": 1966,
+          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
+        },
         {
           "id": "60c088e5d3126007592d56f1",
           "author": null,
@@ -3596,87 +3638,6 @@
           "publishedOn": "2021-05-20T14:53:38.000Z",
           "wordCount": 1202,
           "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
-        },
-        {
-          "id": "60a341f5906c5207e3a7da61",
-          "author": "",
-          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
-          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
-          "publishedOn": "2021-05-19T23:17:21.000Z",
-          "wordCount": 2742,
-          "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2086,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": "",
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
-        },
-        {
-          "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
-          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
-          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-05-18T17:12:59.000Z",
-          "wordCount": 1973,
-          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
-        },
-        {
-          "id": "6068f146d5756f080ba9402d",
-          "author": "",
-          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
-          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
-          "publishedOn": "2021-05-18T16:50:36.000Z",
-          "wordCount": 3309,
-          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
-        },
-        {
-          "id": "609bea6b62ab9107fe5a9f89",
-          "author": "",
-          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
-          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
-          "publishedOn": "2021-05-18T16:36:22.000Z",
-          "wordCount": 1938,
-          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
-        },
-        {
-          "id": "609fc4cc62ab9107fe5aac91",
-          "author": "",
-          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
-          "publishedOn": "2021-05-18T16:18:18.000Z",
-          "wordCount": 2037,
-          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
-        },
-        {
-          "id": "60685767d5756f080ba93df4",
-          "author": "",
-          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
-          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
-          "publishedOn": "2021-05-18T16:08:27.000Z",
-          "wordCount": 4368,
-          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
         }
       ]
     }
