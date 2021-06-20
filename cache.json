@@ -6,6 +6,69 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27561238",
+          "author": "elorant",
+          "description": "Article URL: https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC\nComments URL: https://news.ycombinator.com/item?id=27561238\nPoints: 264\n# Comments: 262",
+          "link": "https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC",
+          "publishedOn": "2021-06-19T15:20:40.000Z",
+          "wordCount": 428,
+          "title": "U.S. senators propose 25% tax credit for semiconductor manufacturing"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27560781",
+          "author": "proberts",
+          "description": "I’ll be here for the next 3 hours and then again at around 12 pm for another 3 hours. As usual, there are countless possible topics and I'll be guided by whatever you're concerned with but as much as possible I’d like to focus on the recently reinstated International Entrepreneur Parole Program (or IEPP).  Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won’t have access to all the facts. Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!\nPrevious threads we've done: https://news.ycombinator.com/submitted?id=proberts.\nComments URL: https://news.ycombinator.com/item?id=27560781\nPoints: 230\n# Comments: 215",
+          "link": "https://news.ycombinator.com/item?id=27560781",
+          "publishedOn": "2021-06-19T14:39:45.000Z",
+          "wordCount": 13479,
+          "title": "I'm Peter Roberts, immigration attorney who does work for YC startups. AMA"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27560574",
+          "author": "tomhoward",
+          "description": "Article URL: https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1\nComments URL: https://news.ycombinator.com/item?id=27560574\nPoints: 115\n# Comments: 54",
+          "link": "https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1",
+          "publishedOn": "2021-06-19T14:09:24.000Z",
+          "wordCount": 2121,
+          "title": "Coober Pedy, the Australian mining town where residents live underground (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27560251",
+          "author": "nojs",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Casu_martzu\nComments URL: https://news.ycombinator.com/item?id=27560251\nPoints: 164\n# Comments: 124",
+          "link": "https://en.wikipedia.org/wiki/Casu_martzu",
+          "publishedOn": "2021-06-19T13:24:19.000Z",
+          "wordCount": 1914,
+          "title": "Casu Martzu"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27559832",
+          "author": "freediver",
+          "description": "Article URL: https://morrick.me/archives/9368\nComments URL: https://news.ycombinator.com/item?id=27559832\nPoints: 398\n# Comments: 312",
+          "link": "https://morrick.me/archives/9368",
+          "publishedOn": "2021-06-19T12:15:13.000Z",
+          "wordCount": 1958,
+          "title": "Safari 15 on Mac OS, a user interface mess"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27559795",
+          "author": "hasheddan",
+          "description": "Article URL: https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html\nComments URL: https://news.ycombinator.com/item?id=27559795\nPoints: 307\n# Comments: 237",
+          "link": "https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html",
+          "publishedOn": "2021-06-19T12:07:27.000Z",
+          "wordCount": 908,
+          "title": "Spectre mitigations murder userspace performance"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27559239",
+          "author": "belter",
+          "description": "Article URL: https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/\nComments URL: https://news.ycombinator.com/item?id=27559239\nPoints: 100\n# Comments: 46",
+          "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/",
+          "publishedOn": "2021-06-19T10:01:24.000Z",
+          "wordCount": 5680,
+          "title": "A Tour of Safe Tracing GC Designs in Rust"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27554765",
           "author": "gtonioli",
           "description": "Article URL: https://github.com/VitorVilela7/wide-snes\nComments URL: https://news.ycombinator.com/item?id=27554765\nPoints: 205\n# Comments: 29",
@@ -1939,51 +2002,6 @@
           "publishedOn": "2021-05-21T13:28:41.000Z",
           "wordCount": 3373,
           "title": "Launch HN: Journey (YC W21) – a better tool for selling software"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27233019",
-          "author": "markodenic",
-          "description": "Article URL: https://web.dev/learn/css/\nComments URL: https://news.ycombinator.com/item?id=27233019\nPoints: 714\n# Comments: 169",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-21T12:10:56.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27232552",
-          "author": "edent",
-          "description": "Article URL: https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/\nComments URL: https://news.ycombinator.com/item?id=27232552\nPoints: 137\n# Comments: 72",
-          "link": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
-          "publishedOn": "2021-05-21T11:04:08.000Z",
-          "wordCount": 962,
-          "title": "What’s your API’s “Time To 200”?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27232297",
-          "author": "diibv",
-          "description": "Article URL: https://blog.freesound.org/?p=1340\nComments URL: https://news.ycombinator.com/item?id=27232297\nPoints: 302\n# Comments: 27",
-          "link": "https://blog.freesound.org/?p=1340",
-          "publishedOn": "2021-05-21T10:25:05.000Z",
-          "wordCount": 806,
-          "title": "Freesound just reached 500K Creative Commons sounds"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27231521",
-          "author": "antonmry",
-          "description": "Article URL: https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html\nComments URL: https://news.ycombinator.com/item?id=27231521\nPoints: 162\n# Comments: 91",
-          "link": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
-          "publishedOn": "2021-05-21T07:52:39.000Z",
-          "wordCount": 2637,
-          "title": "My thoughts about the Principal role"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27231269",
-          "author": "nkjoep",
-          "description": "Article URL: https://github.com/cassiozen/useStateMachine\nComments URL: https://news.ycombinator.com/item?id=27231269\nPoints: 210\n# Comments: 83",
-          "link": "https://github.com/cassiozen/useStateMachine",
-          "publishedOn": "2021-05-21T07:01:14.000Z",
-          "wordCount": 1465,
-          "title": "useStateMachine: A ½ kb state machine hook for React"
         }
       ]
     },
@@ -2459,42 +2477,6 @@
           "publishedOn": "2021-05-21T14:29:16.000Z",
           "wordCount": 295,
           "title": "CSS Hell"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 929,
-          "title": "JSON in CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340933",
-          "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1725,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340897",
-          "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
         }
       ]
     },
@@ -2875,24 +2857,6 @@
           "publishedOn": "2021-05-24T11:30:00.000Z",
           "wordCount": 2665,
           "title": "CSS Container Queries: Use-Cases And Migration Strategies"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
-          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
-          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
         }
       ]
     },
@@ -3602,42 +3566,6 @@
           "publishedOn": "2021-05-21T15:33:45.000Z",
           "wordCount": 4309,
           "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": "",
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": "",
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
         }
       ]
     }
