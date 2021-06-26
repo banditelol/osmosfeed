@@ -2,10 +2,265 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:19:20.568Z</updated>
+    <updated>2021-06-26T00:23:42.392Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sorry, we replaced that old technology, “see-through glass”]]></title>
+        <id>https://news.ycombinator.com/item?id=27636773</id>
+        <link href="https://twitter.com/RunDaltonRun/status/1408507323031592964"/>
+        <updated>2021-06-25T21:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/RunDaltonRun/status/1408507323031592964
+Comments URL: https://news.ycombinator.com/item?id=27636773
+Points: 134
+# Comments: 70]]></summary>
+        <author>
+            <name>dmart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preliminary Assessment: Unidentified Aerial Phenomena]]></title>
+        <id>https://news.ycombinator.com/item?id=27635934</id>
+        <link href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena"/>
+        <updated>2021-06-25T20:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2223-preliminary-assessment-unidentified-aerial-phenomena
+Comments URL: https://news.ycombinator.com/item?id=27635934
+Points: 164
+# Comments: 156]]></summary>
+        <author>
+            <name>tailspin2019</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Inyerface – A worst-practice UI experiment]]></title>
+        <id>https://news.ycombinator.com/item?id=27635310</id>
+        <link href="https://userinyerface.com/"/>
+        <updated>2021-06-25T19:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://userinyerface.com/
+Comments URL: https://news.ycombinator.com/item?id=27635310
+Points: 442
+# Comments: 119]]></summary>
+        <author>
+            <name>andyjih_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Group Video Calls]]></title>
+        <id>https://news.ycombinator.com/item?id=27635101</id>
+        <link href="https://telegram.org/blog/group-video-calls"/>
+        <updated>2021-06-25T19:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://telegram.org/blog/group-video-calls
+Comments URL: https://news.ycombinator.com/item?id=27635101
+Points: 152
+# Comments: 78]]></summary>
+        <author>
+            <name>jhabdas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep dive into plastic monomers, additives, and processing aids]]></title>
+        <id>https://news.ycombinator.com/item?id=27634564</id>
+        <link href="https://pubs.acs.org/doi/10.1021/acs.est.1c00976"/>
+        <updated>2021-06-25T18:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pubs.acs.org/doi/10.1021/acs.est.1c00976
+Comments URL: https://news.ycombinator.com/item?id=27634564
+Points: 108
+# Comments: 48]]></summary>
+        <author>
+            <name>sizzle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemical space is really big (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=27634549</id>
+        <link href="https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article"/>
+        <updated>2021-06-25T18:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
+Comments URL: https://news.ycombinator.com/item?id=27634549
+Points: 113
+# Comments: 44]]></summary>
+        <author>
+            <name>optimalsolver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bflat: C# as you know it but with Go-like tooling]]></title>
+        <id>https://news.ycombinator.com/item?id=27634456</id>
+        <link href="https://github.com/MichalStrehovsky/bflat"/>
+        <updated>2021-06-25T18:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/MichalStrehovsky/bflat
+Comments URL: https://news.ycombinator.com/item?id=27634456
+Points: 234
+# Comments: 108]]></summary>
+        <author>
+            <name>tate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchical Structures in PostgreSQL (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27631765</id>
+        <link href="https://hoverbear.org/blog/postgresql-hierarchical-structures/"/>
+        <updated>2021-06-25T15:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hoverbear.org/blog/postgresql-hierarchical-structures/
+Comments URL: https://news.ycombinator.com/item?id=27631765
+Points: 186
+# Comments: 42]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS acquires Wickr]]></title>
+        <id>https://news.ycombinator.com/item?id=27631324</id>
+        <link href="https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/"/>
+        <updated>2021-06-25T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/
+Comments URL: https://news.ycombinator.com/item?id=27631324
+Points: 125
+# Comments: 111]]></summary>
+        <author>
+            <name>ramimac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was let go for refusing to deploy a dark pattern]]></title>
+        <id>https://news.ycombinator.com/item?id=27629543</id>
+        <link href="https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv"/>
+        <updated>2021-06-25T11:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv
+Comments URL: https://news.ycombinator.com/item?id=27629543
+Points: 534
+# Comments: 450]]></summary>
+        <author>
+            <name>codingclaws</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
+        <updated>2021-06-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Games is an Instant Flash to the past]]></title>
+        <id>https://news.ycombinator.com/item?id=27629340</id>
+        <link href="https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/"/>
+        <updated>2021-06-25T11:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/
+Comments URL: https://news.ycombinator.com/item?id=27629340
+Points: 192
+# Comments: 144]]></summary>
+        <author>
+            <name>meheleventyone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rally, a novel privacy-first data sharing platform]]></title>
+        <id>https://news.ycombinator.com/item?id=27629188</id>
+        <link href="https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/"/>
+        <updated>2021-06-25T10:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
+Comments URL: https://news.ycombinator.com/item?id=27629188
+Points: 224
+# Comments: 159]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood test that finds 50 types of cancer is accurate enough to be rolled out]]></title>
+        <id>https://news.ycombinator.com/item?id=27628740</id>
+        <link href="https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out"/>
+        <updated>2021-06-25T09:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out
+Comments URL: https://news.ycombinator.com/item?id=27628740
+Points: 554
+# Comments: 362]]></summary>
+        <author>
+            <name>kieranmaine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
+        <id>60d3ee396e1a1407b6b0b6ef</id>
+        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
+        <updated>2021-06-24T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
+        <id>60d4b5e96e1a1407b6b0bac4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
+        <updated>2021-06-24T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 9: Community]]></title>
+        <id>https://css-tricks.com/?p=342818</id>
+        <link href="https://css-tricks.com/chapter-9-community/"/>
+        <updated>2021-06-24T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.
+We have decided to discontinue the process of allowing new customers to sign up 
+…
+The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jay Hoffmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
+        <updated>2021-06-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Josh Singer)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
         <id>605abca5687d62084bf6b7cd</id>
@@ -95,6 +350,19 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         <summary type="html"><![CDATA[.NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disproportionate amount of bad online behaviour stems from psychological issues]]></title>
+        <id>https://news.ycombinator.com/item?id=27607203</id>
+        <link href="https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/"/>
+        <updated>2021-06-23T17:24:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/
+Comments URL: https://news.ycombinator.com/item?id=27607203
+Points: 175
+# Comments: 149]]></summary>
+        <author>
+            <name>SkyMarshal</name>
         </author>
     </entry>
     <entry>
@@ -279,6 +547,16 @@ Points: 164
 # Comments: 75]]></summary>
         <author>
             <name>aSig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logical Fallacies – Definition and Fallacy Examples]]></title>
+        <id>607f5fafdd38b9088c2bd0c9</id>
+        <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
+        <updated>2021-06-23T04:19:00.000Z</updated>
+        <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. And that's great – but you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -4341,364 +4619,6 @@ Points: 109
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I Built Multiplayer Deathmatch Joust]]></title>
-        <id>https://news.ycombinator.com/item?id=27301879</id>
-        <link href="https://joust.life/"/>
-        <updated>2021-05-27T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://joust.life/
-Comments URL: https://news.ycombinator.com/item?id=27301879
-Points: 232
-# Comments: 82]]></summary>
-        <author>
-            <name>jasonkester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elliptic Curve Cryptography Explained (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27301651</id>
-        <link href="https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/"/>
-        <updated>2021-05-27T11:23:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/
-Comments URL: https://news.ycombinator.com/item?id=27301651
-Points: 199
-# Comments: 35]]></summary>
-        <author>
-            <name>ptr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
-        <id>https://news.ycombinator.com/item?id=27295906</id>
-        <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
-        <updated>2021-05-26T20:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
-Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 238
-# Comments: 136]]></summary>
-        <author>
-            <name>djoldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life after an internet mob attack]]></title>
-        <id>https://news.ycombinator.com/item?id=27295320</id>
-        <link href="https://pasquale.cool/internet-mob"/>
-        <updated>2021-05-26T19:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pasquale.cool/internet-mob
-Comments URL: https://news.ycombinator.com/item?id=27295320
-Points: 382
-# Comments: 270]]></summary>
-        <author>
-            <name>jseliger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why and how GitHub is adopting OpenTelemetry]]></title>
-        <id>https://news.ycombinator.com/item?id=27294890</id>
-        <link href="https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/"/>
-        <updated>2021-05-26T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
-Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 165
-# Comments: 57]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servers as they should be – shipping early 2022]]></title>
-        <id>https://news.ycombinator.com/item?id=27294471</id>
-        <link href="https://oxide.computer"/>
-        <updated>2021-05-26T18:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://oxide.computer
-Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 557
-# Comments: 177]]></summary>
-        <author>
-            <name>ykl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
-        <id>606f4f5fd5756f080ba96b65</id>
-        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
-        <updated>2021-05-26T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Find Subreddits for Your Niche]]></title>
-        <id>https://news.ycombinator.com/item?id=27293902</id>
-        <link href="https://www.findareddit.com/"/>
-        <updated>2021-05-26T17:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
-Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 214
-# Comments: 122]]></summary>
-        <author>
-            <name>thisissidhant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
-        <id>https://css-tricks.com/?p=339759</id>
-        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
-        <updated>2021-05-26T17:56:34.000Z</updated>
-        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
-The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Web Components]]></title>
-        <id>https://css-tricks.com/?p=340901</id>
-        <link href="https://css-tricks.com/links-on-web-components/"/>
-        <updated>2021-05-26T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
-…
-The post Links on Web Components appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Announces Funding for Startups]]></title>
-        <id>https://news.ycombinator.com/item?id=27293676</id>
-        <link href="https://openai.com/fund/"/>
-        <updated>2021-05-26T17:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
-Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 139
-# Comments: 61]]></summary>
-        <author>
-            <name>cl42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different browsers see different colors]]></title>
-        <id>https://news.ycombinator.com/item?id=27293266</id>
-        <link href="https://mux.com/blog/your-browser-and-my-browser-see-different-colors/"/>
-        <updated>2021-05-26T17:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mux.com/blog/your-browser-and-my-browser-see-different-colors/
-Comments URL: https://news.ycombinator.com/item?id=27293266
-Points: 148
-# Comments: 65]]></summary>
-        <author>
-            <name>slimscsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.5 is overpowering]]></title>
-        <id>https://news.ycombinator.com/item?id=27291302</id>
-        <link href="https://crispgm.com/page/neovim-is-overpowering.html"/>
-        <updated>2021-05-26T14:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
-Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 563
-# Comments: 310]]></summary>
-        <author>
-            <name>imbnwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
-        <id>60aced0011ffb70827ef6d96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
-        <updated>2021-05-26T14:12:27.000Z</updated>
-        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-        <id>https://css-tricks.com/?p=340705</id>
-        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
-        <updated>2021-05-26T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
-We tested 10 different …
-The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andrei Pfeiffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon acquires MGM for $8.5B]]></title>
-        <id>https://news.ycombinator.com/item?id=27289924</id>
-        <link href="https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/"/>
-        <updated>2021-05-26T13:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/
-Comments URL: https://news.ycombinator.com/item?id=27289924
-Points: 720
-# Comments: 735]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysis of blood markers predicts human lifespan limit]]></title>
-        <id>https://news.ycombinator.com/item?id=27288796</id>
-        <link href="https://www.nature.com/articles/s41467-021-23014-1"/>
-        <updated>2021-05-26T10:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41467-021-23014-1
-Comments URL: https://news.ycombinator.com/item?id=27288796
-Points: 215
-# Comments: 91]]></summary>
-        <author>
-            <name>Kinrany</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-C is about to go from 100W to 240W, enough to power beefier laptops]]></title>
-        <id>https://news.ycombinator.com/item?id=27288483</id>
-        <link href="https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr"/>
-        <updated>2021-05-26T10:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr
-Comments URL: https://news.ycombinator.com/item?id=27288483
-Points: 332
-# Comments: 354]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only Buddhist region in Europe]]></title>
-        <id>https://news.ycombinator.com/item?id=27288447</id>
-        <link href="https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543"/>
-        <updated>2021-05-26T10:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/the-only-buddhist-region-in-europe/a-57572543
-Comments URL: https://news.ycombinator.com/item?id=27288447
-Points: 151
-# Comments: 173]]></summary>
-        <author>
-            <name>janandonly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google says Rowhammer attacks are gaining range as RAM is getting denser]]></title>
-        <id>https://news.ycombinator.com/item?id=27288079</id>
-        <link href="https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/"/>
-        <updated>2021-05-26T09:08:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/
-Comments URL: https://news.ycombinator.com/item?id=27288079
-Points: 193
-# Comments: 58]]></summary>
-        <author>
-            <name>valprop1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
-        <id>60ac3a2711ffb70827ef6aec</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
-        <updated>2021-05-25T22:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI]]></title>
-        <id>60a93b0011ffb70827ef5b0d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
-        <updated>2021-05-25T20:26:38.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
-        <id>608706aedd38b9088c2c012c</id>
-        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
-        <updated>2021-05-25T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
-        <id>https://css-tricks.com/?p=340759</id>
-        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
-        <updated>2021-05-25T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
-Table of contents
-What’s the game 
-…
-The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
-        <updated>2021-05-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
         </author>
     </entry>
 </feed>
