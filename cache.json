@@ -6,6 +6,123 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27646686",
+          "author": "zdw",
+          "description": "Article URL: https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/\nComments URL: https://news.ycombinator.com/item?id=27646686\nPoints: 184\n# Comments: 39",
+          "link": "https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/",
+          "publishedOn": "2021-06-26T22:43:41.000Z",
+          "wordCount": 1422,
+          "title": "YouTube takes down Xinjiang videos, forcing rights group to seek alternative"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27645282",
+          "author": "2939223",
+          "description": "Article URL: https://restofworld.org/2021/palestine-social-media-silence/2\nComments URL: https://news.ycombinator.com/item?id=27645282\nPoints: 207\n# Comments: 117",
+          "link": "https://restofworld.org/2021/palestine-social-media-silence/2",
+          "publishedOn": "2021-06-26T19:59:07.000Z",
+          "wordCount": 1602,
+          "title": "The blackout Palestinians are facing on social media"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27644334",
+          "author": "srl",
+          "description": "Article URL: https://austinvernon.eth.link/blog/construction.html\nComments URL: https://news.ycombinator.com/item?id=27644334\nPoints: 240\n# Comments: 243",
+          "link": "https://austinvernon.eth.link/blog/construction.html",
+          "publishedOn": "2021-06-26T18:12:11.000Z",
+          "wordCount": 2564,
+          "title": "So you want to build a house more efficiently"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27643517",
+          "author": "hassanahmad",
+          "description": "Article URL: https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it\nComments URL: https://news.ycombinator.com/item?id=27643517\nPoints: 342\n# Comments: 137",
+          "link": "https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it",
+          "publishedOn": "2021-06-26T16:54:31.000Z",
+          "wordCount": 1321,
+          "title": "CRISPR gene-editing breakthrough opens door to treating broad array of diseases"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27643330",
+          "author": "Tomte",
+          "description": "Article URL: https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics\nComments URL: https://news.ycombinator.com/item?id=27643330\nPoints: 182\n# Comments: 136",
+          "link": "https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics",
+          "publishedOn": "2021-06-26T16:34:38.000Z",
+          "wordCount": 3194,
+          "title": "Some biologists and ecologists think social media is a risk to humanity"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27643057",
+          "author": "maximilianroos",
+          "description": "Article URL: https://brennan.io/2021/06/15/git-less-is-more/\nComments URL: https://news.ycombinator.com/item?id=27643057\nPoints: 184\n# Comments: 93",
+          "link": "https://brennan.io/2021/06/15/git-less-is-more/",
+          "publishedOn": "2021-06-26T16:09:20.000Z",
+          "wordCount": 743,
+          "title": "When it comes to Git history, less is more"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27643054",
+          "author": "luke2m",
+          "description": "Article URL: https://github.com/trimstray/the-book-of-secret-knowledge\nComments URL: https://news.ycombinator.com/item?id=27643054\nPoints: 190\n# Comments: 25",
+          "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "publishedOn": "2021-06-26T16:09:10.000Z",
+          "wordCount": 22115,
+          "title": "The Book of Secret Knowledge"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27642977",
+          "author": "binkHN",
+          "description": "Article URL: http://cq.mtc.dev\nComments URL: https://news.ycombinator.com/item?id=27642977\nPoints: 107\n# Comments: 120",
+          "link": "http://cq.mtc.dev",
+          "publishedOn": "2021-06-26T16:01:27.000Z",
+          "wordCount": 830,
+          "title": "Show HN: I’m an introvert – made an app to help maintain connections with people"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27642660",
+          "author": "eplanit",
+          "description": "Article URL: https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/\nComments URL: https://news.ycombinator.com/item?id=27642660\nPoints: 369\n# Comments: 163",
+          "link": "https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/",
+          "publishedOn": "2021-06-26T15:22:48.000Z",
+          "wordCount": 4105,
+          "title": "Key witness in Assange case admits to lies in indictment"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27642263",
+          "author": "jt2190",
+          "description": "Article URL: https://codewords.recurse.com/issues/six/immutability-is-not-enough\nComments URL: https://news.ycombinator.com/item?id=27642263\nPoints: 119\n# Comments: 49",
+          "link": "https://codewords.recurse.com/issues/six/immutability-is-not-enough",
+          "publishedOn": "2021-06-26T14:40:02.000Z",
+          "wordCount": 2800,
+          "title": "Immutability is not enough (2016)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27641366",
+          "author": "rognjen",
+          "description": "Article URL: https://ognjen.io/reddits-disrespectful-design/\nComments URL: https://news.ycombinator.com/item?id=27641366\nPoints: 1071\n# Comments: 428",
+          "link": "https://ognjen.io/reddits-disrespectful-design/",
+          "publishedOn": "2021-06-26T12:43:45.000Z",
+          "wordCount": 828,
+          "title": "Reddit’s disrespectful design"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27640943",
+          "author": "pimterry",
+          "description": "Article URL: https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/\nComments URL: https://news.ycombinator.com/item?id=27640943\nPoints: 283\n# Comments: 141",
+          "link": "https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/",
+          "publishedOn": "2021-06-26T11:16:14.000Z",
+          "wordCount": 2071,
+          "title": "Whatever Happened to UI Affordances?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27639890",
+          "author": "melse",
+          "description": "Article URL: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/\nComments URL: https://news.ycombinator.com/item?id=27639890\nPoints: 351\n# Comments: 233",
+          "link": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+          "publishedOn": "2021-06-26T07:23:24.000Z",
+          "wordCount": 4160,
+          "title": "Parse, Don't Validate (2019)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27636773",
           "author": "dmart",
           "description": "Article URL: https://twitter.com/RunDaltonRun/status/1408507323031592964\nComments URL: https://news.ycombinator.com/item?id=27636773\nPoints: 134\n# Comments: 70",
@@ -121,6 +238,24 @@
           "publishedOn": "2021-06-25T09:35:52.000Z",
           "wordCount": 875,
           "title": "Blood test that finds 50 types of cancer is accurate enough to be rolled out"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27627376",
+          "author": "parsecs",
+          "description": "Article URL: https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/\nComments URL: https://news.ycombinator.com/item?id=27627376\nPoints: 126\n# Comments: 36",
+          "link": "https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/",
+          "publishedOn": "2021-06-25T05:18:04.000Z",
+          "wordCount": 17109,
+          "title": "The Queen’s Latin or Who Were the Romans, Part II: Citizens and Allies"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27620228",
+          "author": "jackpirate",
+          "description": "Article URL: https://izbicki.me/blog/teaching-open-source-in-north-korea.html\nComments URL: https://news.ycombinator.com/item?id=27620228\nPoints: 140\n# Comments: 86",
+          "link": "https://izbicki.me/blog/teaching-open-source-in-north-korea.html",
+          "publishedOn": "2021-06-24T16:47:47.000Z",
+          "wordCount": 1546,
+          "title": "Teaching open-source software in North Korea"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27610409",
@@ -1966,15 +2101,6 @@
           "publishedOn": "2021-05-28T12:58:08.000Z",
           "wordCount": null,
           "title": "Physical Warp Drives"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27303347",
-          "author": "ds",
-          "description": "Article URL: https://redact.dev/?hn\nComments URL: https://news.ycombinator.com/item?id=27303347\nPoints: 109\n# Comments: 52",
-          "link": "https://redact.dev/?hn",
-          "publishedOn": "2021-05-27T14:10:45.000Z",
-          "wordCount": 16,
-          "title": "Show HN: Redact – Automated deletion for your content on social networks"
         }
       ]
     },
@@ -2423,33 +2549,6 @@
           "publishedOn": "2021-05-28T14:36:47.000Z",
           "wordCount": 1844,
           "title": "Dynamic Favicons for WordPress"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341298",
-          "author": "Chris Coyier",
-          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
-          "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1288,
-          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341020",
-          "author": "Robin Rendle",
-          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-show-images-on-click/",
-          "publishedOn": "2021-05-27T14:25:29.000Z",
-          "wordCount": 1491,
-          "title": "How to Show Images on Click"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340910",
-          "author": "Michael Rispoli",
-          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
-          "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2452,
-          "title": "Rethinking Postgres in a Post-Server World"
         }
       ]
     },
@@ -2832,34 +2931,6 @@
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
-          "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-          "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10214,
-          "title": "Adding A Commenting System To A WYSIWYG Editor",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
-          "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
-          "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3735,
-          "title": "Useful VS Code Extensions For Front-End Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
             "length": "0",
             "type": "image/png"
           }
@@ -3563,33 +3634,6 @@
           "publishedOn": "2021-05-28T16:01:05.000Z",
           "wordCount": 1568,
           "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
-        },
-        {
-          "id": "60b0de2211ffb70827ef8d7c",
-          "author": null,
-          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
-          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
-          "publishedOn": "2021-05-28T12:26:38.000Z",
-          "wordCount": 368,
-          "title": "Advanced Computer Vision with Python"
-        },
-        {
-          "id": "60af931811ffb70827ef85d3",
-          "author": null,
-          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
-          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
-          "publishedOn": "2021-05-27T17:55:23.000Z",
-          "wordCount": 1828,
-          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
-        },
-        {
-          "id": "60a325c6906c5207e3a7da25",
-          "author": null,
-          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
-          "publishedOn": "2021-05-27T15:16:34.000Z",
-          "wordCount": 1399,
-          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
         }
       ]
     }

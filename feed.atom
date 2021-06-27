@@ -2,10 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T00:23:42.392Z</updated>
+    <updated>2021-06-27T00:28:29.393Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube takes down Xinjiang videos, forcing rights group to seek alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=27646686</id>
+        <link href="https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/"/>
+        <updated>2021-06-26T22:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/
+Comments URL: https://news.ycombinator.com/item?id=27646686
+Points: 184
+# Comments: 39]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The blackout Palestinians are facing on social media]]></title>
+        <id>https://news.ycombinator.com/item?id=27645282</id>
+        <link href="https://restofworld.org/2021/palestine-social-media-silence/2"/>
+        <updated>2021-06-26T19:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://restofworld.org/2021/palestine-social-media-silence/2
+Comments URL: https://news.ycombinator.com/item?id=27645282
+Points: 207
+# Comments: 117]]></summary>
+        <author>
+            <name>2939223</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to build a house more efficiently]]></title>
+        <id>https://news.ycombinator.com/item?id=27644334</id>
+        <link href="https://austinvernon.eth.link/blog/construction.html"/>
+        <updated>2021-06-26T18:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://austinvernon.eth.link/blog/construction.html
+Comments URL: https://news.ycombinator.com/item?id=27644334
+Points: 240
+# Comments: 243]]></summary>
+        <author>
+            <name>srl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRISPR gene-editing breakthrough opens door to treating broad array of diseases]]></title>
+        <id>https://news.ycombinator.com/item?id=27643517</id>
+        <link href="https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it"/>
+        <updated>2021-06-26T16:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it
+Comments URL: https://news.ycombinator.com/item?id=27643517
+Points: 342
+# Comments: 137]]></summary>
+        <author>
+            <name>hassanahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some biologists and ecologists think social media is a risk to humanity]]></title>
+        <id>https://news.ycombinator.com/item?id=27643330</id>
+        <link href="https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics"/>
+        <updated>2021-06-26T16:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics
+Comments URL: https://news.ycombinator.com/item?id=27643330
+Points: 182
+# Comments: 136]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When it comes to Git history, less is more]]></title>
+        <id>https://news.ycombinator.com/item?id=27643057</id>
+        <link href="https://brennan.io/2021/06/15/git-less-is-more/"/>
+        <updated>2021-06-26T16:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brennan.io/2021/06/15/git-less-is-more/
+Comments URL: https://news.ycombinator.com/item?id=27643057
+Points: 184
+# Comments: 93]]></summary>
+        <author>
+            <name>maximilianroos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Book of Secret Knowledge]]></title>
+        <id>https://news.ycombinator.com/item?id=27643054</id>
+        <link href="https://github.com/trimstray/the-book-of-secret-knowledge"/>
+        <updated>2021-06-26T16:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/trimstray/the-book-of-secret-knowledge
+Comments URL: https://news.ycombinator.com/item?id=27643054
+Points: 190
+# Comments: 25]]></summary>
+        <author>
+            <name>luke2m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I’m an introvert – made an app to help maintain connections with people]]></title>
+        <id>https://news.ycombinator.com/item?id=27642977</id>
+        <link href="http://cq.mtc.dev"/>
+        <updated>2021-06-26T16:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://cq.mtc.dev
+Comments URL: https://news.ycombinator.com/item?id=27642977
+Points: 107
+# Comments: 120]]></summary>
+        <author>
+            <name>binkHN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key witness in Assange case admits to lies in indictment]]></title>
+        <id>https://news.ycombinator.com/item?id=27642660</id>
+        <link href="https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/"/>
+        <updated>2021-06-26T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stundin.is/grein/13627/key-witness-in-assange-case-admits-to-lies-in-indictment/
+Comments URL: https://news.ycombinator.com/item?id=27642660
+Points: 369
+# Comments: 163]]></summary>
+        <author>
+            <name>eplanit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutability is not enough (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=27642263</id>
+        <link href="https://codewords.recurse.com/issues/six/immutability-is-not-enough"/>
+        <updated>2021-06-26T14:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codewords.recurse.com/issues/six/immutability-is-not-enough
+Comments URL: https://news.ycombinator.com/item?id=27642263
+Points: 119
+# Comments: 49]]></summary>
+        <author>
+            <name>jt2190</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit’s disrespectful design]]></title>
+        <id>https://news.ycombinator.com/item?id=27641366</id>
+        <link href="https://ognjen.io/reddits-disrespectful-design/"/>
+        <updated>2021-06-26T12:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ognjen.io/reddits-disrespectful-design/
+Comments URL: https://news.ycombinator.com/item?id=27641366
+Points: 1071
+# Comments: 428]]></summary>
+        <author>
+            <name>rognjen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatever Happened to UI Affordances?]]></title>
+        <id>https://news.ycombinator.com/item?id=27640943</id>
+        <link href="https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/"/>
+        <updated>2021-06-26T11:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/
+Comments URL: https://news.ycombinator.com/item?id=27640943
+Points: 283
+# Comments: 141]]></summary>
+        <author>
+            <name>pimterry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parse, Don't Validate (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27639890</id>
+        <link href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"/>
+        <updated>2021-06-26T07:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+Comments URL: https://news.ycombinator.com/item?id=27639890
+Points: 351
+# Comments: 233]]></summary>
+        <author>
+            <name>melse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorry, we replaced that old technology, “see-through glass”]]></title>
         <id>https://news.ycombinator.com/item?id=27636773</id>
@@ -219,6 +388,19 @@ Points: 554
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Queen’s Latin or Who Were the Romans, Part II: Citizens and Allies]]></title>
+        <id>https://news.ycombinator.com/item?id=27627376</id>
+        <link href="https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/"/>
+        <updated>2021-06-25T05:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/
+Comments URL: https://news.ycombinator.com/item?id=27627376
+Points: 126
+# Comments: 36]]></summary>
+        <author>
+            <name>parsecs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
         <id>60d3ee396e1a1407b6b0b6ef</id>
         <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
@@ -236,6 +418,19 @@ Points: 554
         <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching open-source software in North Korea]]></title>
+        <id>https://news.ycombinator.com/item?id=27620228</id>
+        <link href="https://izbicki.me/blog/teaching-open-source-in-north-korea.html"/>
+        <updated>2021-06-24T16:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://izbicki.me/blog/teaching-open-source-in-north-korea.html
+Comments URL: https://news.ycombinator.com/item?id=27620228
+Points: 140
+# Comments: 86]]></summary>
+        <author>
+            <name>jackpirate</name>
         </author>
     </entry>
     <entry>
@@ -4517,108 +4712,6 @@ Points: 109
 # Comments: 75]]></summary>
         <author>
             <name>phonebucket</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
-        <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
-        <link href="https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/"/>
-        <updated>2021-05-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
-        <id>https://css-tricks.com/?p=341298</id>
-        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
-        <updated>2021-05-27T18:22:11.000Z</updated>
-        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
-Like this:
-$ brew install somepackage
-The point of that is that it …
-The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
-        <id>60af931811ffb70827ef85d3</id>
-        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
-        <updated>2021-05-27T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
-        <id>60a325c6906c5207e3a7da25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
-        <updated>2021-05-27T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Show Images on Click]]></title>
-        <id>https://css-tricks.com/?p=341020</id>
-        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
-        <updated>2021-05-27T14:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
-The post How to Show Images on Click appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
-        <id>https://css-tricks.com/?p=340910</id>
-        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
-        <updated>2021-05-27T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
-The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Rispoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Redact – Automated deletion for your content on social networks]]></title>
-        <id>https://news.ycombinator.com/item?id=27303347</id>
-        <link href="https://redact.dev/?hn"/>
-        <updated>2021-05-27T14:10:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://redact.dev/?hn
-Comments URL: https://news.ycombinator.com/item?id=27303347
-Points: 109
-# Comments: 52]]></summary>
-        <author>
-            <name>ds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
-        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
-        <updated>2021-05-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
