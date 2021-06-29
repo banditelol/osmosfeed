@@ -2,10 +2,236 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:28:29.393Z</updated>
+    <updated>2021-06-29T00:25:23.918Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System *Things]]></title>
+        <id>https://css-tricks.com/?p=343040</id>
+        <link href="https://css-tricks.com/system-things/"/>
+        <updated>2021-06-28T22:14:22.000Z</updated>
+        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
+color: OldLace;
+background: rebeccapurple;
+I guess you’d just call those “named colors” in CSS. 
+Those aren’t the only kind of named colors there are though. Some of them …
+The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
+        <id>https://css-tricks.com/?p=343139</id>
+        <link href="https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/"/>
+        <updated>2021-06-28T21:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …
+The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
+        <id>60d61acc6e1a1407b6b0bd46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/"/>
+        <updated>2021-06-28T21:17:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an NLP Model with FastAPI]]></title>
+        <id>60d9766b6e1a1407b6b0cb4f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
+        <updated>2021-06-28T20:35:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
+        <id>60d07b4578f45307fee80aef</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
+        <updated>2021-06-28T20:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'Fuck You' Pattern]]></title>
+        <id>https://news.ycombinator.com/item?id=27666455</id>
+        <link href="https://cedwards.xyz/the-fuck-you-pattern/"/>
+        <updated>2021-06-28T19:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cedwards.xyz/the-fuck-you-pattern/
+Comments URL: https://news.ycombinator.com/item?id=27666455
+Points: 872
+# Comments: 392]]></summary>
+        <author>
+            <name>c7DJTLrn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge dismisses FTC antitrust complaint against Facebook]]></title>
+        <id>https://news.ycombinator.com/item?id=27666439</id>
+        <link href="https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html"/>
+        <updated>2021-06-28T19:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html
+Comments URL: https://news.ycombinator.com/item?id=27666439
+Points: 242
+# Comments: 123]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
+        <id>60d675ac6e1a1407b6b0bea1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-closure-lexical-scope/"/>
+        <updated>2021-06-28T18:45:21.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon is using algorithms with little human intervention to fire Flex workers]]></title>
+        <id>https://news.ycombinator.com/item?id=27664467</id>
+        <link href="https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/"/>
+        <updated>2021-06-28T17:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/
+Comments URL: https://news.ycombinator.com/item?id=27664467
+Points: 175
+# Comments: 170]]></summary>
+        <author>
+            <name>carride</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
+        <id>https://css-tricks.com/?p=342971</id>
+        <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
+        <updated>2021-06-28T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.
+Recently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …
+The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ryan Mulligan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
+        <id>60d4d3d86e1a1407b6b0bb25</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
+        <updated>2021-06-28T13:50:35.000Z</updated>
+        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
+        <id>60d4ea756e1a1407b6b0bb71</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
+        <updated>2021-06-28T13:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
+        <id>https://css-tricks.com/?p=343072</id>
+        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
+        <updated>2021-06-28T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[To make some terminology clear here:
+CMS = Content Management System
+CRM = Customer Relationship Management
+Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
+The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal: Getting started with JavaScript's new date time API]]></title>
+        <id>https://news.ycombinator.com/item?id=27661667</id>
+        <link href="https://2ality.com/2021/06/temporal-api.html"/>
+        <updated>2021-06-28T13:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://2ality.com/2021/06/temporal-api.html
+Comments URL: https://news.ycombinator.com/item?id=27661667
+Points: 286
+# Comments: 139]]></summary>
+        <author>
+            <name>Amorymeltzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biohackers take aim at big pharma’s stranglehold on insulin]]></title>
+        <id>https://news.ycombinator.com/item?id=27661637</id>
+        <link href="https://www.freethink.com/shows/just-might-work/how-to-make-insulin"/>
+        <updated>2021-06-28T13:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin
+Comments URL: https://news.ycombinator.com/item?id=27661637
+Points: 334
+# Comments: 279]]></summary>
+        <author>
+            <name>HiroProtagonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subdomains for IPFS]]></title>
+        <id>https://news.ycombinator.com/item?id=27660253</id>
+        <link href="https://ipds.io/"/>
+        <updated>2021-06-28T10:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ipds.io/
+Comments URL: https://news.ycombinator.com/item?id=27660253
+Points: 107
+# Comments: 35]]></summary>
+        <author>
+            <name>dumitruflorin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China releases videos of its Zhurong Mars rover]]></title>
+        <id>https://news.ycombinator.com/item?id=27660107</id>
+        <link href="https://www.bbc.com/news/science-environment-57628653"/>
+        <updated>2021-06-28T10:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/science-environment-57628653
+Comments URL: https://news.ycombinator.com/item?id=27660107
+Points: 204
+# Comments: 132]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
+        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
+        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
+        <updated>2021-06-28T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear Google: Public domain compositions exist]]></title>
+        <id>https://news.ycombinator.com/item?id=27659690</id>
+        <link href="https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist"/>
+        <updated>2021-06-28T09:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist
+Comments URL: https://news.ycombinator.com/item?id=27659690
+Points: 625
+# Comments: 183]]></summary>
+        <author>
+            <name>mod50ack</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube takes down Xinjiang videos, forcing rights group to seek alternative]]></title>
         <id>https://news.ycombinator.com/item?id=27646686</id>
@@ -4459,259 +4685,6 @@ Points: 234
 # Comments: 135]]></summary>
         <author>
             <name>ushakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trials begin on lozenge that rebuilds tooth enamel]]></title>
-        <id>https://news.ycombinator.com/item?id=27328663</id>
-        <link href="https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/"/>
-        <updated>2021-05-29T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
-Comments URL: https://news.ycombinator.com/item?id=27328663
-Points: 265
-# Comments: 124]]></summary>
-        <author>
-            <name>beefman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phacility is winding down, Phabricator no longer actively maintained]]></title>
-        <id>https://news.ycombinator.com/item?id=27328404</id>
-        <link href="https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/"/>
-        <updated>2021-05-29T21:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
-Comments URL: https://news.ycombinator.com/item?id=27328404
-Points: 122
-# Comments: 56]]></summary>
-        <author>
-            <name>carwyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
-        <id>https://news.ycombinator.com/item?id=27328087</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/"/>
-        <updated>2021-05-29T20:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
-Comments URL: https://news.ycombinator.com/item?id=27328087
-Points: 125
-# Comments: 78]]></summary>
-        <author>
-            <name>throwaway888abc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using fake reviews to find dangerous extensions]]></title>
-        <id>https://news.ycombinator.com/item?id=27326268</id>
-        <link href="https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/"/>
-        <updated>2021-05-29T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
-Comments URL: https://news.ycombinator.com/item?id=27326268
-Points: 179
-# Comments: 88]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google made it nearly impossible for users to keep their location private]]></title>
-        <id>https://news.ycombinator.com/item?id=27324755</id>
-        <link href="https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5"/>
-        <updated>2021-05-29T12:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5
-Comments URL: https://news.ycombinator.com/item?id=27324755
-Points: 537
-# Comments: 335]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost Stations of the Paris Metro]]></title>
-        <id>https://news.ycombinator.com/item?id=27324406</id>
-        <link href="https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/"/>
-        <updated>2021-05-29T10:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/
-Comments URL: https://news.ycombinator.com/item?id=27324406
-Points: 230
-# Comments: 64]]></summary>
-        <author>
-            <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
-        <updated>2021-05-28T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never mind the 1 percent: Let's talk about the 0.01 percent]]></title>
-        <id>https://news.ycombinator.com/item?id=27319923</id>
-        <link href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent"/>
-        <updated>2021-05-28T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent
-Comments URL: https://news.ycombinator.com/item?id=27319923
-Points: 127
-# Comments: 101]]></summary>
-        <author>
-            <name>arcanus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator backed MMO metaverse game is a blatant scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27319457</id>
-        <link href="https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/"/>
-        <updated>2021-05-28T19:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/
-Comments URL: https://news.ycombinator.com/item?id=27319457
-Points: 239
-# Comments: 132]]></summary>
-        <author>
-            <name>astlouis44</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's virtually impossible to read old iMessages and they take up tons of storage]]></title>
-        <id>https://news.ycombinator.com/item?id=27319099</id>
-        <link href="https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/"/>
-        <updated>2021-05-28T18:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
-Comments URL: https://news.ycombinator.com/item?id=27319099
-Points: 384
-# Comments: 167]]></summary>
-        <author>
-            <name>spenvo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwork killed more than 745k people in a year, WHO study finds]]></title>
-        <id>https://news.ycombinator.com/item?id=27319070</id>
-        <link href="https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds"/>
-        <updated>2021-05-28T18:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds
-Comments URL: https://news.ycombinator.com/item?id=27319070
-Points: 211
-# Comments: 134]]></summary>
-        <author>
-            <name>user_235711</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court rules climate change “duty of care” to future generations exists]]></title>
-        <id>https://news.ycombinator.com/item?id=27318588</id>
-        <link href="https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560"/>
-        <updated>2021-05-28T18:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560
-Comments URL: https://news.ycombinator.com/item?id=27318588
-Points: 163
-# Comments: 169]]></summary>
-        <author>
-            <name>Bluestein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Russians do not smile (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=27317859</id>
-        <link href="https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/"/>
-        <updated>2021-05-28T17:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/
-Comments URL: https://news.ycombinator.com/item?id=27317859
-Points: 231
-# Comments: 176]]></summary>
-        <author>
-            <name>1experience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I quit my job to focus on SerenityOS full time]]></title>
-        <id>https://news.ycombinator.com/item?id=27317655</id>
-        <link href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/"/>
-        <updated>2021-05-28T16:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/
-Comments URL: https://news.ycombinator.com/item?id=27317655
-Points: 923
-# Comments: 161]]></summary>
-        <author>
-            <name>there</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An experimental, people-powered search engine]]></title>
-        <id>https://news.ycombinator.com/item?id=27316752</id>
-        <link href="https://ninfex.com/hello"/>
-        <updated>2021-05-28T15:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ninfex.com/hello
-Comments URL: https://news.ycombinator.com/item?id=27316752
-Points: 110
-# Comments: 34]]></summary>
-        <author>
-            <name>zeeshanqureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter confirms Twitter Blue]]></title>
-        <id>https://news.ycombinator.com/item?id=27316115</id>
-        <link href="https://twitter.com/wongmjane/status/1398022730553860102"/>
-        <updated>2021-05-28T14:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/wongmjane/status/1398022730553860102
-Comments URL: https://news.ycombinator.com/item?id=27316115
-Points: 363
-# Comments: 604]]></summary>
-        <author>
-            <name>0xedb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/?p=341163</id>
-        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
-        <updated>2021-05-28T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
-The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Thomas Park</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Had Covid? You’ll probably make antibodies for a lifetime]]></title>
-        <id>https://news.ycombinator.com/item?id=27315074</id>
-        <link href="https://www.nature.com/articles/d41586-021-01442-9"/>
-        <updated>2021-05-28T13:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-021-01442-9
-Comments URL: https://news.ycombinator.com/item?id=27315074
-Points: 115
-# Comments: 230]]></summary>
-        <author>
-            <name>azth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical Warp Drives]]></title>
-        <id>https://news.ycombinator.com/item?id=27314827</id>
-        <link href="https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e"/>
-        <updated>2021-05-28T12:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e
-Comments URL: https://news.ycombinator.com/item?id=27314827
-Points: 109
-# Comments: 75]]></summary>
-        <author>
-            <name>phonebucket</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,78 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27666455",
+          "author": "c7DJTLrn",
+          "description": "Article URL: https://cedwards.xyz/the-fuck-you-pattern/\nComments URL: https://news.ycombinator.com/item?id=27666455\nPoints: 872\n# Comments: 392",
+          "link": "https://cedwards.xyz/the-fuck-you-pattern/",
+          "publishedOn": "2021-06-28T19:18:44.000Z",
+          "wordCount": 306,
+          "title": "The 'Fuck You' Pattern"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27666439",
+          "author": "ChrisArchitect",
+          "description": "Article URL: https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html\nComments URL: https://news.ycombinator.com/item?id=27666439\nPoints: 242\n# Comments: 123",
+          "link": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
+          "publishedOn": "2021-06-28T19:17:43.000Z",
+          "wordCount": 953,
+          "title": "Judge dismisses FTC antitrust complaint against Facebook"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27664467",
+          "author": "carride",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/\nComments URL: https://news.ycombinator.com/item?id=27664467\nPoints: 175\n# Comments: 170",
+          "link": "https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/",
+          "publishedOn": "2021-06-28T17:06:51.000Z",
+          "wordCount": 1432,
+          "title": "Amazon is using algorithms with little human intervention to fire Flex workers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27661667",
+          "author": "Amorymeltzer",
+          "description": "Article URL: https://2ality.com/2021/06/temporal-api.html\nComments URL: https://news.ycombinator.com/item?id=27661667\nPoints: 286\n# Comments: 139",
+          "link": "https://2ality.com/2021/06/temporal-api.html",
+          "publishedOn": "2021-06-28T13:26:59.000Z",
+          "wordCount": 3196,
+          "title": "Temporal: Getting started with JavaScript's new date time API"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27661637",
+          "author": "HiroProtagonist",
+          "description": "Article URL: https://www.freethink.com/shows/just-might-work/how-to-make-insulin\nComments URL: https://news.ycombinator.com/item?id=27661637\nPoints: 334\n# Comments: 279",
+          "link": "https://www.freethink.com/shows/just-might-work/how-to-make-insulin",
+          "publishedOn": "2021-06-28T13:25:03.000Z",
+          "wordCount": 1538,
+          "title": "Biohackers take aim at big pharma’s stranglehold on insulin"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27660253",
+          "author": "dumitruflorin",
+          "description": "Article URL: https://ipds.io/\nComments URL: https://news.ycombinator.com/item?id=27660253\nPoints: 107\n# Comments: 35",
+          "link": "https://ipds.io/",
+          "publishedOn": "2021-06-28T10:59:31.000Z",
+          "wordCount": 99,
+          "title": "Subdomains for IPFS"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27660107",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.bbc.com/news/science-environment-57628653\nComments URL: https://news.ycombinator.com/item?id=27660107\nPoints: 204\n# Comments: 132",
+          "link": "https://www.bbc.com/news/science-environment-57628653",
+          "publishedOn": "2021-06-28T10:39:54.000Z",
+          "wordCount": 1052,
+          "title": "China releases videos of its Zhurong Mars rover"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27659690",
+          "author": "mod50ack",
+          "description": "Article URL: https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist\nComments URL: https://news.ycombinator.com/item?id=27659690\nPoints: 625\n# Comments: 183",
+          "link": "https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist",
+          "publishedOn": "2021-06-28T09:31:54.000Z",
+          "wordCount": 597,
+          "title": "Dear Google: Public domain compositions exist"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27646686",
           "author": "zdw",
           "description": "Article URL: https://www.reuters.com/technology/exclusive-youtube-takes-down-xinjiang-videos-forces-rights-group-seek-2021-06-25/\nComments URL: https://news.ycombinator.com/item?id=27646686\nPoints: 184\n# Comments: 39",
@@ -1948,159 +2020,6 @@
           "publishedOn": "2021-05-31T10:30:27.000Z",
           "wordCount": 3080,
           "title": "Neural networks emulate any guitar pedal for $120"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27328663",
-          "author": "beefman",
-          "description": "Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/\nComments URL: https://news.ycombinator.com/item?id=27328663\nPoints: 265\n# Comments: 124",
-          "link": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
-          "publishedOn": "2021-05-29T22:15:00.000Z",
-          "wordCount": 1154,
-          "title": "Trials begin on lozenge that rebuilds tooth enamel"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27328404",
-          "author": "carwyn",
-          "description": "Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/\nComments URL: https://news.ycombinator.com/item?id=27328404\nPoints: 122\n# Comments: 56",
-          "link": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
-          "publishedOn": "2021-05-29T21:35:14.000Z",
-          "wordCount": 181,
-          "title": "Phacility is winding down, Phabricator no longer actively maintained"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27328087",
-          "author": "throwaway888abc",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/\nComments URL: https://news.ycombinator.com/item?id=27328087\nPoints: 125\n# Comments: 78",
-          "link": "https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/",
-          "publishedOn": "2021-05-29T20:39:34.000Z",
-          "wordCount": 1271,
-          "title": "Amazon devices will soon automatically share your Internet with neighbors"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27326268",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/\nComments URL: https://news.ycombinator.com/item?id=27326268\nPoints: 179\n# Comments: 88",
-          "link": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
-          "publishedOn": "2021-05-29T16:25:31.000Z",
-          "wordCount": 2152,
-          "title": "Using fake reviews to find dangerous extensions"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27324755",
-          "author": "CapitalistCartr",
-          "description": "Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5\nComments URL: https://news.ycombinator.com/item?id=27324755\nPoints: 537\n# Comments: 335",
-          "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
-          "publishedOn": "2021-05-29T12:14:07.000Z",
-          "wordCount": 1515,
-          "title": "Google made it nearly impossible for users to keep their location private"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27324406",
-          "author": "bookofjoe",
-          "description": "Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/\nComments URL: https://news.ycombinator.com/item?id=27324406\nPoints: 230\n# Comments: 64",
-          "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
-          "publishedOn": "2021-05-29T10:57:28.000Z",
-          "wordCount": 4389,
-          "title": "Ghost Stations of the Paris Metro"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27319923",
-          "author": "arcanus",
-          "description": "Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent\nComments URL: https://news.ycombinator.com/item?id=27319923\nPoints: 127\n# Comments: 101",
-          "link": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
-          "publishedOn": "2021-05-28T20:14:00.000Z",
-          "wordCount": 4079,
-          "title": "Never mind the 1 percent: Let's talk about the 0.01 percent"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27319457",
-          "author": "astlouis44",
-          "description": "Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/\nComments URL: https://news.ycombinator.com/item?id=27319457\nPoints: 239\n# Comments: 132",
-          "link": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
-          "publishedOn": "2021-05-28T19:23:34.000Z",
-          "wordCount": 3482,
-          "title": "Y Combinator backed MMO metaverse game is a blatant scam"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27319099",
-          "author": "spenvo",
-          "description": "Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/\nComments URL: https://news.ycombinator.com/item?id=27319099\nPoints: 384\n# Comments: 167",
-          "link": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
-          "publishedOn": "2021-05-28T18:48:34.000Z",
-          "wordCount": 1488,
-          "title": "It's virtually impossible to read old iMessages and they take up tons of storage"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27319070",
-          "author": "user_235711",
-          "description": "Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds\nComments URL: https://news.ycombinator.com/item?id=27319070\nPoints: 211\n# Comments: 134",
-          "link": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
-          "publishedOn": "2021-05-28T18:46:39.000Z",
-          "wordCount": 911,
-          "title": "Overwork killed more than 745k people in a year, WHO study finds"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27318588",
-          "author": "Bluestein",
-          "description": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560\nComments URL: https://news.ycombinator.com/item?id=27318588\nPoints: 163\n# Comments: 169",
-          "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
-          "publishedOn": "2021-05-28T18:04:04.000Z",
-          "wordCount": 70237,
-          "title": "Court rules climate change “duty of care” to future generations exists"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27317859",
-          "author": "1experience",
-          "description": "Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/\nComments URL: https://news.ycombinator.com/item?id=27317859\nPoints: 231\n# Comments: 176",
-          "link": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
-          "publishedOn": "2021-05-28T17:02:28.000Z",
-          "wordCount": 1644,
-          "title": "Why Russians do not smile (2002)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27317655",
-          "author": "there",
-          "description": "Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/\nComments URL: https://news.ycombinator.com/item?id=27317655\nPoints: 923\n# Comments: 161",
-          "link": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
-          "publishedOn": "2021-05-28T16:47:35.000Z",
-          "wordCount": 745,
-          "title": "I quit my job to focus on SerenityOS full time"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27316752",
-          "author": "zeeshanqureshi",
-          "description": "Article URL: https://ninfex.com/hello\nComments URL: https://news.ycombinator.com/item?id=27316752\nPoints: 110\n# Comments: 34",
-          "link": "https://ninfex.com/hello",
-          "publishedOn": "2021-05-28T15:42:21.000Z",
-          "wordCount": 194,
-          "title": "Show HN: An experimental, people-powered search engine"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27316115",
-          "author": "0xedb",
-          "description": "Article URL: https://twitter.com/wongmjane/status/1398022730553860102\nComments URL: https://news.ycombinator.com/item?id=27316115\nPoints: 363\n# Comments: 604",
-          "link": "https://twitter.com/wongmjane/status/1398022730553860102",
-          "publishedOn": "2021-05-28T14:57:19.000Z",
-          "wordCount": 196,
-          "title": "Twitter confirms Twitter Blue"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27315074",
-          "author": "azth",
-          "description": "Article URL: https://www.nature.com/articles/d41586-021-01442-9\nComments URL: https://news.ycombinator.com/item?id=27315074\nPoints: 115\n# Comments: 230",
-          "link": "https://www.nature.com/articles/d41586-021-01442-9",
-          "publishedOn": "2021-05-28T13:27:47.000Z",
-          "wordCount": 1517,
-          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27314827",
-          "author": "phonebucket",
-          "description": "Article URL: https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e\nComments URL: https://news.ycombinator.com/item?id=27314827\nPoints: 109\n# Comments: 75",
-          "link": "https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e",
-          "publishedOn": "2021-05-28T12:58:08.000Z",
-          "wordCount": null,
-          "title": "Physical Warp Drives"
         }
       ]
     },
@@ -2109,6 +2028,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343040",
+          "author": "Chris Coyier",
+          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/system-things/",
+          "publishedOn": "2021-06-28T22:14:22.000Z",
+          "wordCount": 959,
+          "title": "System *Things"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343139",
+          "author": "Chris Coyier",
+          "description": "Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …\nThe post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "publishedOn": "2021-06-28T21:17:26.000Z",
+          "wordCount": 937,
+          "title": "Working around the viewport-based fluid typography bug in Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342971",
+          "author": "Ryan Mulligan",
+          "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
+          "publishedOn": "2021-06-28T14:25:33.000Z",
+          "wordCount": 2338,
+          "title": "Positioning Overlay Content with CSS Grid"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343072",
+          "author": "Chris Coyier",
+          "description": "To make some terminology clear here:\nCMS = Content Management System\nCRM = Customer Relationship Management\nBoth are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …\nThe post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/",
+          "publishedOn": "2021-06-28T13:29:00.000Z",
+          "wordCount": 738,
+          "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
+        },
         {
           "id": "https://css-tricks.com/?p=342718",
           "author": "Chris Coyier",
@@ -2540,15 +2495,6 @@
           "publishedOn": "2021-05-31T17:13:02.000Z",
           "wordCount": 981,
           "title": "Local: Always Getting Better"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341163",
-          "author": "Thomas Park",
-          "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
-          "publishedOn": "2021-05-28T14:36:47.000Z",
-          "wordCount": 1844,
-          "title": "Dynamic Favicons for WordPress"
         }
       ]
     },
@@ -2557,6 +2503,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
+          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
+          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "publishedOn": "2021-06-28T10:30:00.000Z",
+          "wordCount": 2474,
+          "title": "Creating Custom Emmet Snippets In VS Code",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "author": "hello@smashingmagazine.com (Dom Habersack)",
@@ -2942,6 +2902,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d61acc6e1a1407b6b0bd46",
+          "author": null,
+          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
+          "publishedOn": "2021-06-28T21:17:02.000Z",
+          "wordCount": 3681,
+          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
+        },
+        {
+          "id": "60d9766b6e1a1407b6b0cb4f",
+          "author": null,
+          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
+          "publishedOn": "2021-06-28T20:35:12.000Z",
+          "wordCount": 2818,
+          "title": "How to Deploy an NLP Model with FastAPI"
+        },
+        {
+          "id": "60d07b4578f45307fee80aef",
+          "author": null,
+          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
+          "publishedOn": "2021-06-28T20:04:28.000Z",
+          "wordCount": 2258,
+          "title": "What is an IDE in Programming? An IDE Definition for Developers"
+        },
+        {
+          "id": "60d675ac6e1a1407b6b0bea1",
+          "author": null,
+          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
+          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
+          "publishedOn": "2021-06-28T18:45:21.000Z",
+          "wordCount": 740,
+          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
+        },
+        {
+          "id": "60d4d3d86e1a1407b6b0bb25",
+          "author": null,
+          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "publishedOn": "2021-06-28T13:50:35.000Z",
+          "wordCount": 67249,
+          "title": "Learn How to Create a Design System in Figma"
+        },
+        {
+          "id": "60d4ea756e1a1407b6b0bb71",
+          "author": null,
+          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
+          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
+          "publishedOn": "2021-06-28T13:44:39.000Z",
+          "wordCount": 806,
+          "title": "Why You Should Learn Data Analytics"
+        },
         {
           "id": "60d3ee396e1a1407b6b0b6ef",
           "author": null,
@@ -3616,24 +3630,6 @@
           "publishedOn": "2021-06-01T17:43:56.000Z",
           "wordCount": 407,
           "title": "Learn Next.js and Make React Development Simpler"
-        },
-        {
-          "id": "60acf28e11ffb70827ef6dd9",
-          "author": null,
-          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
-          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
-          "publishedOn": "2021-05-28T22:58:18.000Z",
-          "wordCount": 2775,
-          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
-        },
-        {
-          "id": "60b08d8811ffb70827ef8c7b",
-          "author": null,
-          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
-          "publishedOn": "2021-05-28T16:01:05.000Z",
-          "wordCount": 1568,
-          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
         }
       ]
     }
