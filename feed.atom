@@ -2,10 +2,401 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:25:23.918Z</updated>
+    <updated>2021-07-01T00:27:34.102Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SparkFun Hooks a Patent Troll]]></title>
+        <id>https://news.ycombinator.com/item?id=27694537</id>
+        <link href="https://www.sparkfun.com/news/3917"/>
+        <updated>2021-06-30T23:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sparkfun.com/news/3917
+Comments URL: https://news.ycombinator.com/item?id=27694537
+Points: 161
+# Comments: 36]]></summary>
+        <author>
+            <name>mkeeter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
+        <id>https://css-tricks.com/?p=343224</id>
+        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
+        <updated>2021-06-30T20:36:52.000Z</updated>
+        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
+The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Makes Mac OS X Lion and Mountain Lion Free to Download]]></title>
+        <id>https://news.ycombinator.com/item?id=27693065</id>
+        <link href="https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/"/>
+        <updated>2021-06-30T20:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/
+Comments URL: https://news.ycombinator.com/item?id=27693065
+Points: 101
+# Comments: 38]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨]]></title>
+        <id>6063b8d69618b008528a9d79</id>
+        <link href="https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"/>
+        <updated>2021-06-30T18:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move fast, but understand the problem first]]></title>
+        <id>https://news.ycombinator.com/item?id=27691586</id>
+        <link href="https://jacobobryant.com/blog/understand/"/>
+        <updated>2021-06-30T17:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jacobobryant.com/blog/understand/
+Comments URL: https://news.ycombinator.com/item?id=27691586
+Points: 197
+# Comments: 40]]></summary>
+        <author>
+            <name>d4rkp4ttern</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Globally Distributed Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=27690950</id>
+        <link href="https://fly.io/blog/globally-distributed-postgres/"/>
+        <updated>2021-06-30T17:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/globally-distributed-postgres/
+Comments URL: https://news.ycombinator.com/item?id=27690950
+Points: 198
+# Comments: 86]]></summary>
+        <author>
+            <name>woodrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intuit sabotages the Child Tax Credit]]></title>
+        <id>https://news.ycombinator.com/item?id=27690587</id>
+        <link href="https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc"/>
+        <updated>2021-06-30T16:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc
+Comments URL: https://news.ycombinator.com/item?id=27690587
+Points: 592
+# Comments: 252]]></summary>
+        <author>
+            <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood to pay $70M for 'systemic supervisory failures']]></title>
+        <id>https://news.ycombinator.com/item?id=27690543</id>
+        <link href="https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/"/>
+        <updated>2021-06-30T16:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/
+Comments URL: https://news.ycombinator.com/item?id=27690543
+Points: 235
+# Comments: 198]]></summary>
+        <author>
+            <name>MikeDelta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1970s mainframe RPGs we can no longer play]]></title>
+        <id>https://news.ycombinator.com/item?id=27690504</id>
+        <link href="http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html"/>
+        <updated>2021-06-30T16:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
+Comments URL: https://news.ycombinator.com/item?id=27690504
+Points: 213
+# Comments: 61]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Click is Not Just a Click]]></title>
+        <id>https://css-tricks.com/?p=343064</id>
+        <link href="https://css-tricks.com/when-a-click-is-not-just-a-click/"/>
+        <updated>2021-06-30T14:45:42.000Z</updated>
+        <summary type="html"><![CDATA[The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…
+The post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Travis Almand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing a Bug in Low-Resolution Mode]]></title>
+        <id>https://css-tricks.com/?p=343182</id>
+        <link href="https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/"/>
+        <updated>2021-06-30T14:44:54.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …
+The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is The C Programming Language? A Tutorial for Beginners]]></title>
+        <id>6055c55b687d62084bf68804</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/"/>
+        <updated>2021-06-30T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router]]></title>
+        <id>60d5ea736e1a1407b6b0bc8d</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
+        <updated>2021-06-30T14:01:01.000Z</updated>
+        <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Engineering principles to make teams better]]></title>
+        <id>https://news.ycombinator.com/item?id=27688612</id>
+        <link href="https://principles.dev/"/>
+        <updated>2021-06-30T13:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://principles.dev/
+Comments URL: https://news.ycombinator.com/item?id=27688612
+Points: 283
+# Comments: 78]]></summary>
+        <author>
+            <name>_wp_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treat Kubernetes clusters as cattle, not pets]]></title>
+        <id>https://news.ycombinator.com/item?id=27688203</id>
+        <link href="https://zitadel.ch/blog/treat-clusters-as-cattle/"/>
+        <updated>2021-06-30T13:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/
+Comments URL: https://news.ycombinator.com/item?id=27688203
+Points: 114
+# Comments: 97]]></summary>
+        <author>
+            <name>mffap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link rot and content drift are endemic to the web]]></title>
+        <id>https://news.ycombinator.com/item?id=27688090</id>
+        <link href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/"/>
+        <updated>2021-06-30T13:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+Comments URL: https://news.ycombinator.com/item?id=27688090
+Points: 210
+# Comments: 161]]></summary>
+        <author>
+            <name>timmytokyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hat Exploits of the Stupid-Easy 80s]]></title>
+        <id>https://news.ycombinator.com/item?id=27687775</id>
+        <link href="https://madned.substack.com/p/black-hat-exploits-of-the-stupid"/>
+        <updated>2021-06-30T12:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid
+Comments URL: https://news.ycombinator.com/item?id=27687775
+Points: 158
+# Comments: 72]]></summary>
+        <author>
+            <name>mad_ned</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Great Resignation’ gains steam as return-to-work plans take effect]]></title>
+        <id>https://news.ycombinator.com/item?id=27687617</id>
+        <link href="https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html"/>
+        <updated>2021-06-30T12:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html
+Comments URL: https://news.ycombinator.com/item?id=27687617
+Points: 337
+# Comments: 451]]></summary>
+        <author>
+            <name>remt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub co-pilot as open source code laundering?]]></title>
+        <id>https://news.ycombinator.com/item?id=27687450</id>
+        <link href="https://twitter.com/eevee/status/1410037309848752128"/>
+        <updated>2021-06-30T12:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/eevee/status/1410037309848752128
+Comments URL: https://news.ycombinator.com/item?id=27687450
+Points: 892
+# Comments: 398]]></summary>
+        <author>
+            <name>agomez314</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
+        <updated>2021-06-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Surma)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software estimation is hard – do it anyway]]></title>
+        <id>https://news.ycombinator.com/item?id=27687265</id>
+        <link href="https://jacobian.org/2021/may/20/estimation/"/>
+        <updated>2021-06-30T11:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jacobian.org/2021/may/20/estimation/
+Comments URL: https://news.ycombinator.com/item?id=27687265
+Points: 331
+# Comments: 201]]></summary>
+        <author>
+            <name>vortex_ape</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: A Philosophy of Software Design (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27686818</id>
+        <link href="https://johz.bearblog.dev/book-review-philosophy-software-design/"/>
+        <updated>2021-06-30T10:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/
+Comments URL: https://news.ycombinator.com/item?id=27686818
+Points: 216
+# Comments: 54]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
+        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
+        <updated>2021-06-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A foreign seller has hijacked my Amazon Klein bottle listing]]></title>
+        <id>https://news.ycombinator.com/item?id=27684807</id>
+        <link href="https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING"/>
+        <updated>2021-06-30T04:18:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING
+Comments URL: https://news.ycombinator.com/item?id=27684807
+Points: 2330
+# Comments: 551]]></summary>
+        <author>
+            <name>_Robbie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
+        <id>https://css-tricks.com/?p=343470</id>
+        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
+        <updated>2021-06-29T22:43:50.000Z</updated>
+        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
+html {
+  font: 110%/1.4 system-ui;
+}
+…
+The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
+        <id>https://css-tricks.com/?p=343260</id>
+        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
+        <updated>2021-06-29T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
+The squiggly lines that indicate possible spelling or grammar errors 
+…
+The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>60db519527f80207bcdbb6fa</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
+        <updated>2021-06-29T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
+        <id>604b8c6ea7946308b7687683</id>
+        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
+        <updated>2021-06-29T19:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
+        <id>60daf29027f80207bcdbb3fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
+        <updated>2021-06-29T18:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
+        <id>https://css-tricks.com/?p=342736</id>
+        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
+        <updated>2021-06-29T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
+The answer, it …
+The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
+        <id>60d76f6f6e1a1407b6b0c521</id>
+        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
+        <updated>2021-06-29T13:24:44.000Z</updated>
+        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
+        <updated>2021-06-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
+        <updated>2021-06-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System *Things]]></title>
         <id>https://css-tricks.com/?p=343040</id>
@@ -112,6 +503,19 @@ Points: 175
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“The Martian” + Starship]]></title>
+        <id>https://news.ycombinator.com/item?id=27663804</id>
+        <link href="https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/"/>
+        <updated>2021-06-28T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/
+Comments URL: https://news.ycombinator.com/item?id=27663804
+Points: 114
+# Comments: 61]]></summary>
+        <author>
+            <name>Thorondor</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
         <id>https://css-tricks.com/?p=342971</id>
         <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
@@ -181,6 +585,19 @@ Points: 334
 # Comments: 279]]></summary>
         <author>
             <name>HiroProtagonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Method of Loci: Build Your Memory Palace]]></title>
+        <id>https://news.ycombinator.com/item?id=27661532</id>
+        <link href="https://fs.blog/2021/06/memory-palace/"/>
+        <updated>2021-06-28T13:16:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fs.blog/2021/06/memory-palace/
+Comments URL: https://news.ycombinator.com/item?id=27661532
+Points: 105
+# Comments: 46]]></summary>
+        <author>
+            <name>feross</name>
         </author>
     </entry>
     <entry>
@@ -4455,236 +4872,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
-        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
-        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
-        <updated>2021-06-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sodium rutin extends lifespan and health span in mice by 10%]]></title>
-        <id>https://news.ycombinator.com/item?id=27347818</id>
-        <link href="https://pubmed.ncbi.nlm.nih.gov/33555034/"/>
-        <updated>2021-05-31T20:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/
-Comments URL: https://news.ycombinator.com/item?id=27347818
-Points: 113
-# Comments: 64]]></summary>
-        <author>
-            <name>ve55</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The May 18 Gwangju Uprising]]></title>
-        <id>https://news.ycombinator.com/item?id=27347039</id>
-        <link href="https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1"/>
-        <updated>2021-05-31T18:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1
-Comments URL: https://news.ycombinator.com/item?id=27347039
-Points: 158
-# Comments: 49]]></summary>
-        <author>
-            <name>exolymph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Smoking]]></title>
-        <id>https://news.ycombinator.com/item?id=27347035</id>
-        <link href="https://annagat.substack.com/p/on-smoking"/>
-        <updated>2021-05-31T18:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://annagat.substack.com/p/on-smoking
-Comments URL: https://news.ycombinator.com/item?id=27347035
-Points: 170
-# Comments: 157]]></summary>
-        <author>
-            <name>exolymph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
-        <id>https://css-tricks.com/?p=340465</id>
-        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
-        <updated>2021-05-31T17:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
-building modern, accessible user interfaces
-creating interactive elements and complex animations
-managing complex application state
-…
-The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jason Lengstorf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
-        <id>https://css-tricks.com/?p=341482</id>
-        <link href="https://css-tricks.com/local-always-getting-better/"/>
-        <updated>2021-05-31T17:13:02.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
-The post Local: Always Getting Better appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UUID, serial or identity columns for PostgreSQL auto-generated primary keys?]]></title>
-        <id>https://news.ycombinator.com/item?id=27345837</id>
-        <link href="https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/"/>
-        <updated>2021-05-31T16:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/
-Comments URL: https://news.ycombinator.com/item?id=27345837
-Points: 146
-# Comments: 86]]></summary>
-        <author>
-            <name>lhenk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most expensive number in engineering]]></title>
-        <id>https://news.ycombinator.com/item?id=27345784</id>
-        <link href="https://surjan.substack.com/p/the-most-expensive-number-in-engineering"/>
-        <updated>2021-05-31T16:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering
-Comments URL: https://news.ycombinator.com/item?id=27345784
-Points: 325
-# Comments: 117]]></summary>
-        <author>
-            <name>as89</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We only ever talk about the third attack on Pearl Harbor]]></title>
-        <id>https://news.ycombinator.com/item?id=27345075</id>
-        <link href="https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/"/>
-        <updated>2021-05-31T15:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/
-Comments URL: https://news.ycombinator.com/item?id=27345075
-Points: 243
-# Comments: 127]]></summary>
-        <author>
-            <name>stanrivers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donating my time to grow a VC-funded company: why I quit mentoring at Plato]]></title>
-        <id>https://news.ycombinator.com/item?id=27344978</id>
-        <link href="https://blog.pragmaticengineer.com/quit-mentoring-at-plato/"/>
-        <updated>2021-05-31T15:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/
-Comments URL: https://news.ycombinator.com/item?id=27344978
-Points: 147
-# Comments: 31]]></summary>
-        <author>
-            <name>yarapavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostGIS at 20, the Beginning]]></title>
-        <id>https://news.ycombinator.com/item?id=27344639</id>
-        <link href="http://blog.cleverelephant.ca/2021/05/postgis-20-years.html"/>
-        <updated>2021-05-31T14:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
-Comments URL: https://news.ycombinator.com/item?id=27344639
-Points: 243
-# Comments: 27]]></summary>
-        <author>
-            <name>jkatz05</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s new popup will further weaken Facebook’s advertisement business]]></title>
-        <id>https://news.ycombinator.com/item?id=27344617</id>
-        <link href="https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken"/>
-        <updated>2021-05-31T14:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken
-Comments URL: https://news.ycombinator.com/item?id=27344617
-Points: 170
-# Comments: 167]]></summary>
-        <author>
-            <name>devnerd239</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordTsar, a WordStar Clone]]></title>
-        <id>https://news.ycombinator.com/item?id=27344426</id>
-        <link href="http://wordtsar.ca/"/>
-        <updated>2021-05-31T14:32:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://wordtsar.ca/
-Comments URL: https://news.ycombinator.com/item?id=27344426
-Points: 165
-# Comments: 92]]></summary>
-        <author>
-            <name>rhabarba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking the computer ‘desktop’ as a concept]]></title>
-        <id>https://news.ycombinator.com/item?id=27344010</id>
-        <link href="https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40"/>
-        <updated>2021-05-31T13:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40
-Comments URL: https://news.ycombinator.com/item?id=27344010
-Points: 143
-# Comments: 240]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Commodore Amiga powered cable systems in the 90s]]></title>
-        <id>https://news.ycombinator.com/item?id=27343150</id>
-        <link href="https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s"/>
-        <updated>2021-05-31T12:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s
-Comments URL: https://news.ycombinator.com/item?id=27343150
-Points: 172
-# Comments: 65]]></summary>
-        <author>
-            <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
-        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
-        <updated>2021-05-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese paddlefish, one of the world's largest fish, declared extinct]]></title>
-        <id>https://news.ycombinator.com/item?id=27342763</id>
-        <link href="https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true"/>
-        <updated>2021-05-31T11:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true
-Comments URL: https://news.ycombinator.com/item?id=27342763
-Points: 216
-# Comments: 144]]></summary>
-        <author>
-            <name>gadf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural networks emulate any guitar pedal for $120]]></title>
-        <id>https://news.ycombinator.com/item?id=27342509</id>
-        <link href="https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/"/>
-        <updated>2021-05-31T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/
-Comments URL: https://news.ycombinator.com/item?id=27342509
-Points: 234
-# Comments: 135]]></summary>
-        <author>
-            <name>ushakov</name>
         </author>
     </entry>
 </feed>

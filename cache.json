@@ -6,6 +6,150 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27694537",
+          "author": "mkeeter",
+          "description": "Article URL: https://www.sparkfun.com/news/3917\nComments URL: https://news.ycombinator.com/item?id=27694537\nPoints: 161\n# Comments: 36",
+          "link": "https://www.sparkfun.com/news/3917",
+          "publishedOn": "2021-06-30T23:00:58.000Z",
+          "wordCount": null,
+          "title": "SparkFun Hooks a Patent Troll"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27693065",
+          "author": "tosh",
+          "description": "Article URL: https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/\nComments URL: https://news.ycombinator.com/item?id=27693065\nPoints: 101\n# Comments: 38",
+          "link": "https://www.macrumors.com/2021/06/30/os-x-lion-mountain-lion-free-to-download/",
+          "publishedOn": "2021-06-30T20:26:46.000Z",
+          "wordCount": 2093,
+          "title": "Apple Makes Mac OS X Lion and Mountain Lion Free to Download"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27691586",
+          "author": "d4rkp4ttern",
+          "description": "Article URL: https://jacobobryant.com/blog/understand/\nComments URL: https://news.ycombinator.com/item?id=27691586\nPoints: 197\n# Comments: 40",
+          "link": "https://jacobobryant.com/blog/understand/",
+          "publishedOn": "2021-06-30T17:59:09.000Z",
+          "wordCount": 497,
+          "title": "Move fast, but understand the problem first"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27690950",
+          "author": "woodrow",
+          "description": "Article URL: https://fly.io/blog/globally-distributed-postgres/\nComments URL: https://news.ycombinator.com/item?id=27690950\nPoints: 198\n# Comments: 86",
+          "link": "https://fly.io/blog/globally-distributed-postgres/",
+          "publishedOn": "2021-06-30T17:08:33.000Z",
+          "wordCount": 2350,
+          "title": "Globally Distributed Postgres"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27690587",
+          "author": "samizdis",
+          "description": "Article URL: https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc\nComments URL: https://news.ycombinator.com/item?id=27690587\nPoints: 592\n# Comments: 252",
+          "link": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/#ctc",
+          "publishedOn": "2021-06-30T16:36:33.000Z",
+          "wordCount": 2323,
+          "title": "Intuit sabotages the Child Tax Credit"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27690543",
+          "author": "MikeDelta",
+          "description": "Article URL: https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/\nComments URL: https://news.ycombinator.com/item?id=27690543\nPoints: 235\n# Comments: 198",
+          "link": "https://www.reuters.com/technology/broker-robinhood-pay-70-mln-systemic-supervisory-failures-2021-06-30/",
+          "publishedOn": "2021-06-30T16:33:01.000Z",
+          "wordCount": 1050,
+          "title": "Robinhood to pay $70M for 'systemic supervisory failures'"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27690504",
+          "author": "Tomte",
+          "description": "Article URL: http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html\nComments URL: https://news.ycombinator.com/item?id=27690504\nPoints: 213\n# Comments: 61",
+          "link": "http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html",
+          "publishedOn": "2021-06-30T16:30:04.000Z",
+          "wordCount": 6071,
+          "title": "1970s mainframe RPGs we can no longer play"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27688612",
+          "author": "_wp_",
+          "description": "Article URL: https://principles.dev/\nComments URL: https://news.ycombinator.com/item?id=27688612\nPoints: 283\n# Comments: 78",
+          "link": "https://principles.dev/",
+          "publishedOn": "2021-06-30T13:59:47.000Z",
+          "wordCount": 272,
+          "title": "Software Engineering principles to make teams better"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27688203",
+          "author": "mffap",
+          "description": "Article URL: https://zitadel.ch/blog/treat-clusters-as-cattle/\nComments URL: https://news.ycombinator.com/item?id=27688203\nPoints: 114\n# Comments: 97",
+          "link": "https://zitadel.ch/blog/treat-clusters-as-cattle/",
+          "publishedOn": "2021-06-30T13:24:36.000Z",
+          "wordCount": 2006,
+          "title": "Treat Kubernetes clusters as cattle, not pets"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27688090",
+          "author": "timmytokyo",
+          "description": "Article URL: https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/\nComments URL: https://news.ycombinator.com/item?id=27688090\nPoints: 210\n# Comments: 161",
+          "link": "https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/",
+          "publishedOn": "2021-06-30T13:15:35.000Z",
+          "wordCount": 6347,
+          "title": "Link rot and content drift are endemic to the web"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27687775",
+          "author": "mad_ned",
+          "description": "Article URL: https://madned.substack.com/p/black-hat-exploits-of-the-stupid\nComments URL: https://news.ycombinator.com/item?id=27687775\nPoints: 158\n# Comments: 72",
+          "link": "https://madned.substack.com/p/black-hat-exploits-of-the-stupid",
+          "publishedOn": "2021-06-30T12:44:24.000Z",
+          "wordCount": 3684,
+          "title": "Black Hat Exploits of the Stupid-Easy 80s"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27687617",
+          "author": "remt",
+          "description": "Article URL: https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html\nComments URL: https://news.ycombinator.com/item?id=27687617\nPoints: 337\n# Comments: 451",
+          "link": "https://www.cnbc.com/2021/06/29/more-people-plan-to-quit-as-return-to-work-plans-go-into-effect-.html",
+          "publishedOn": "2021-06-30T12:25:40.000Z",
+          "wordCount": 891,
+          "title": "‘Great Resignation’ gains steam as return-to-work plans take effect"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27687450",
+          "author": "agomez314",
+          "description": "Article URL: https://twitter.com/eevee/status/1410037309848752128\nComments URL: https://news.ycombinator.com/item?id=27687450\nPoints: 892\n# Comments: 398",
+          "link": "https://twitter.com/eevee/status/1410037309848752128",
+          "publishedOn": "2021-06-30T12:00:41.000Z",
+          "wordCount": 196,
+          "title": "GitHub co-pilot as open source code laundering?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27687265",
+          "author": "vortex_ape",
+          "description": "Article URL: https://jacobian.org/2021/may/20/estimation/\nComments URL: https://news.ycombinator.com/item?id=27687265\nPoints: 331\n# Comments: 201",
+          "link": "https://jacobian.org/2021/may/20/estimation/",
+          "publishedOn": "2021-06-30T11:29:57.000Z",
+          "wordCount": 768,
+          "title": "Software estimation is hard – do it anyway"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27686818",
+          "author": "fagnerbrack",
+          "description": "Article URL: https://johz.bearblog.dev/book-review-philosophy-software-design/\nComments URL: https://news.ycombinator.com/item?id=27686818\nPoints: 216\n# Comments: 54",
+          "link": "https://johz.bearblog.dev/book-review-philosophy-software-design/",
+          "publishedOn": "2021-06-30T10:14:33.000Z",
+          "wordCount": 1787,
+          "title": "Book Review: A Philosophy of Software Design (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27684807",
+          "author": "_Robbie",
+          "description": "Article URL: https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING\nComments URL: https://news.ycombinator.com/item?id=27684807\nPoints: 2330\n# Comments: 551",
+          "link": "https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING",
+          "publishedOn": "2021-06-30T04:18:34.000Z",
+          "wordCount": null,
+          "title": "A foreign seller has hijacked my Amazon Klein bottle listing"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27666455",
           "author": "c7DJTLrn",
           "description": "Article URL: https://cedwards.xyz/the-fuck-you-pattern/\nComments URL: https://news.ycombinator.com/item?id=27666455\nPoints: 872\n# Comments: 392",
@@ -33,6 +177,15 @@
           "title": "Amazon is using algorithms with little human intervention to fire Flex workers"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27663804",
+          "author": "Thorondor",
+          "description": "Article URL: https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/\nComments URL: https://news.ycombinator.com/item?id=27663804\nPoints: 114\n# Comments: 61",
+          "link": "https://caseyhandmer.wordpress.com/2021/04/09/the-martian-starship/",
+          "publishedOn": "2021-06-28T16:17:32.000Z",
+          "wordCount": 4181,
+          "title": "“The Martian” + Starship"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27661667",
           "author": "Amorymeltzer",
           "description": "Article URL: https://2ality.com/2021/06/temporal-api.html\nComments URL: https://news.ycombinator.com/item?id=27661667\nPoints: 286\n# Comments: 139",
@@ -49,6 +202,15 @@
           "publishedOn": "2021-06-28T13:25:03.000Z",
           "wordCount": 1538,
           "title": "Biohackers take aim at big pharma’s stranglehold on insulin"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27661532",
+          "author": "feross",
+          "description": "Article URL: https://fs.blog/2021/06/memory-palace/\nComments URL: https://news.ycombinator.com/item?id=27661532\nPoints: 105\n# Comments: 46",
+          "link": "https://fs.blog/2021/06/memory-palace/",
+          "publishedOn": "2021-06-28T13:16:39.000Z",
+          "wordCount": 2988,
+          "title": "The Method of Loci: Build Your Memory Palace"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27660253",
@@ -1894,132 +2056,6 @@
           "publishedOn": "2021-06-02T07:36:54.000Z",
           "wordCount": 2095,
           "title": "I built my own analog drum machine"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27347818",
-          "author": "ve55",
-          "description": "Article URL: https://pubmed.ncbi.nlm.nih.gov/33555034/\nComments URL: https://news.ycombinator.com/item?id=27347818\nPoints: 113\n# Comments: 64",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/33555034/",
-          "publishedOn": "2021-05-31T20:35:20.000Z",
-          "wordCount": 1693,
-          "title": "Sodium rutin extends lifespan and health span in mice by 10%"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27347039",
-          "author": "exolymph",
-          "description": "Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1\nComments URL: https://news.ycombinator.com/item?id=27347039\nPoints: 158\n# Comments: 49",
-          "link": "https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1",
-          "publishedOn": "2021-05-31T18:50:23.000Z",
-          "wordCount": 38340,
-          "title": "The May 18 Gwangju Uprising"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27347035",
-          "author": "exolymph",
-          "description": "Article URL: https://annagat.substack.com/p/on-smoking\nComments URL: https://news.ycombinator.com/item?id=27347035\nPoints: 170\n# Comments: 157",
-          "link": "https://annagat.substack.com/p/on-smoking",
-          "publishedOn": "2021-05-31T18:50:07.000Z",
-          "wordCount": 637,
-          "title": "On Smoking"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27345837",
-          "author": "lhenk",
-          "description": "Article URL: https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/\nComments URL: https://news.ycombinator.com/item?id=27345837\nPoints: 146\n# Comments: 86",
-          "link": "https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/",
-          "publishedOn": "2021-05-31T16:38:04.000Z",
-          "wordCount": 2192,
-          "title": "UUID, serial or identity columns for PostgreSQL auto-generated primary keys?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27345784",
-          "author": "as89",
-          "description": "Article URL: https://surjan.substack.com/p/the-most-expensive-number-in-engineering\nComments URL: https://news.ycombinator.com/item?id=27345784\nPoints: 325\n# Comments: 117",
-          "link": "https://surjan.substack.com/p/the-most-expensive-number-in-engineering",
-          "publishedOn": "2021-05-31T16:34:16.000Z",
-          "wordCount": 2828,
-          "title": "The most expensive number in engineering"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27345075",
-          "author": "stanrivers",
-          "description": "Article URL: https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/\nComments URL: https://news.ycombinator.com/item?id=27345075\nPoints: 243\n# Comments: 127",
-          "link": "https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/",
-          "publishedOn": "2021-05-31T15:35:18.000Z",
-          "wordCount": 1505,
-          "title": "We only ever talk about the third attack on Pearl Harbor"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27344978",
-          "author": "yarapavan",
-          "description": "Article URL: https://blog.pragmaticengineer.com/quit-mentoring-at-plato/\nComments URL: https://news.ycombinator.com/item?id=27344978\nPoints: 147\n# Comments: 31",
-          "link": "https://blog.pragmaticengineer.com/quit-mentoring-at-plato/",
-          "publishedOn": "2021-05-31T15:25:59.000Z",
-          "wordCount": 2013,
-          "title": "Donating my time to grow a VC-funded company: why I quit mentoring at Plato"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27344639",
-          "author": "jkatz05",
-          "description": "Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html\nComments URL: https://news.ycombinator.com/item?id=27344639\nPoints: 243\n# Comments: 27",
-          "link": "http://blog.cleverelephant.ca/2021/05/postgis-20-years.html",
-          "publishedOn": "2021-05-31T14:53:15.000Z",
-          "wordCount": 1436,
-          "title": "PostGIS at 20, the Beginning"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27344617",
-          "author": "devnerd239",
-          "description": "Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken\nComments URL: https://news.ycombinator.com/item?id=27344617\nPoints: 170\n# Comments: 167",
-          "link": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken",
-          "publishedOn": "2021-05-31T14:50:03.000Z",
-          "wordCount": 1050,
-          "title": "Google’s new popup will further weaken Facebook’s advertisement business"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27344426",
-          "author": "rhabarba",
-          "description": "Article URL: http://wordtsar.ca/\nComments URL: https://news.ycombinator.com/item?id=27344426\nPoints: 165\n# Comments: 92",
-          "link": "http://wordtsar.ca/",
-          "publishedOn": "2021-05-31T14:32:16.000Z",
-          "wordCount": 1342,
-          "title": "WordTsar, a WordStar Clone"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27344010",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40\nComments URL: https://news.ycombinator.com/item?id=27344010\nPoints: 143\n# Comments: 240",
-          "link": "https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40",
-          "publishedOn": "2021-05-31T13:47:02.000Z",
-          "wordCount": 3296,
-          "title": "Rethinking the computer ‘desktop’ as a concept"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27343150",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s\nComments URL: https://news.ycombinator.com/item?id=27343150\nPoints: 172\n# Comments: 65",
-          "link": "https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s",
-          "publishedOn": "2021-05-31T12:01:51.000Z",
-          "wordCount": 2823,
-          "title": "How the Commodore Amiga powered cable systems in the 90s"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27342763",
-          "author": "gadf",
-          "description": "Article URL: https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true\nComments URL: https://news.ycombinator.com/item?id=27342763\nPoints: 216\n# Comments: 144",
-          "link": "https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true",
-          "publishedOn": "2021-05-31T11:10:13.000Z",
-          "wordCount": 2230,
-          "title": "Chinese paddlefish, one of the world's largest fish, declared extinct"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27342509",
-          "author": "ushakov",
-          "description": "Article URL: https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/\nComments URL: https://news.ycombinator.com/item?id=27342509\nPoints: 234\n# Comments: 135",
-          "link": "https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/",
-          "publishedOn": "2021-05-31T10:30:27.000Z",
-          "wordCount": 3080,
-          "title": "Neural networks emulate any guitar pedal for $120"
         }
       ]
     },
@@ -2028,6 +2064,60 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343224",
+          "author": "Chris Coyier",
+          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
+          "publishedOn": "2021-06-30T20:36:52.000Z",
+          "wordCount": 645,
+          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343064",
+          "author": "Travis Almand",
+          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
+          "publishedOn": "2021-06-30T14:45:42.000Z",
+          "wordCount": 4397,
+          "title": "When a Click is Not Just a Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343182",
+          "author": "Chris Coyier",
+          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
+          "publishedOn": "2021-06-30T14:44:54.000Z",
+          "wordCount": 725,
+          "title": "Fixing a Bug in Low-Resolution Mode"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343470",
+          "author": "Chris Coyier",
+          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
+          "publishedOn": "2021-06-29T22:43:50.000Z",
+          "wordCount": 672,
+          "title": "What does `font: 110%/1.4 system-ui` mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343260",
+          "author": "Chris Coyier",
+          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
+          "publishedOn": "2021-06-29T20:25:00.000Z",
+          "wordCount": 3316,
+          "title": "Chromium spelling and grammar features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342736",
+          "author": "Chris Coyier",
+          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
+          "publishedOn": "2021-06-29T14:37:21.000Z",
+          "wordCount": 773,
+          "title": ":nth-child Between Two Fixed Indexes"
+        },
         {
           "id": "https://css-tricks.com/?p=343040",
           "author": "Chris Coyier",
@@ -2477,24 +2567,6 @@
           "publishedOn": "2021-06-01T14:16:55.000Z",
           "wordCount": 926,
           "title": "Jetpack Boost Handles Critical CSS For You"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340465",
-          "author": "Jason Lengstorf",
-          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
-          "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1796,
-          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341482",
-          "author": "Chris Coyier",
-          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/local-always-getting-better/",
-          "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 981,
-          "title": "Local: Always Getting Better"
         }
       ]
     },
@@ -2503,6 +2575,62 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "author": "hello@smashingmagazine.com (Surma)",
+          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
+          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "publishedOn": "2021-06-30T12:00:00.000Z",
+          "wordCount": 4736,
+          "title": "The State Of Web Workers In 2021",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
+          "publishedOn": "2021-06-30T09:30:00.000Z",
+          "wordCount": 3594,
+          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
+          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "publishedOn": "2021-06-29T11:00:00.000Z",
+          "wordCount": 2453,
+          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "publishedOn": "2021-06-29T05:30:00.000Z",
+          "wordCount": 6617,
+          "title": "Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "author": "hello@smashingmagazine.com (Manuel Matuzović)",
@@ -2866,34 +2994,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
-          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
-          "publishedOn": "2021-06-01T09:00:00.000Z",
-          "wordCount": 1362,
-          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
-          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
-          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -2902,6 +3002,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6063b8d69618b008528a9d79",
+          "author": null,
+          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
+          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
+          "publishedOn": "2021-06-30T18:49:49.000Z",
+          "wordCount": 956,
+          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
+        },
+        {
+          "id": "6055c55b687d62084bf68804",
+          "author": null,
+          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
+          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
+          "publishedOn": "2021-06-30T14:25:53.000Z",
+          "wordCount": 12270,
+          "title": "What is The C Programming Language? A Tutorial for Beginners"
+        },
+        {
+          "id": "60d5ea736e1a1407b6b0bc8d",
+          "author": null,
+          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
+          "link": "https://www.freecodecamp.org/news/learn-react-router/",
+          "publishedOn": "2021-06-30T14:01:01.000Z",
+          "wordCount": 5542,
+          "title": "Learn React Router"
+        },
+        {
+          "id": "60db519527f80207bcdbb6fa",
+          "author": null,
+          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
+          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
+          "publishedOn": "2021-06-29T20:00:32.000Z",
+          "wordCount": 908,
+          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
+        },
+        {
+          "id": "604b8c6ea7946308b7687683",
+          "author": null,
+          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
+          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
+          "publishedOn": "2021-06-29T19:47:13.000Z",
+          "wordCount": 1079,
+          "title": "Linux List Processes – How to Check Running Processes"
+        },
+        {
+          "id": "60daf29027f80207bcdbb3fe",
+          "author": null,
+          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
+          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
+          "publishedOn": "2021-06-29T18:25:52.000Z",
+          "wordCount": 926,
+          "title": "How to Use timedelta Objects in Python to Work with Dates"
+        },
+        {
+          "id": "60d76f6f6e1a1407b6b0c521",
+          "author": null,
+          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
+          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
+          "publishedOn": "2021-06-29T13:24:44.000Z",
+          "wordCount": 684,
+          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
+        },
         {
           "id": "60d61acc6e1a1407b6b0bd46",
           "author": null,
