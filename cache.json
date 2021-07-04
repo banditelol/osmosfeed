@@ -6,6 +6,51 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27724042",
+          "author": "janvdberg",
+          "description": "Article URL: https://thelig.ht/abandoning-github/\nComments URL: https://news.ycombinator.com/item?id=27724042\nPoints: 599\n# Comments: 374",
+          "link": "https://thelig.ht/abandoning-github/",
+          "publishedOn": "2021-07-03T19:21:17.000Z",
+          "wordCount": 102,
+          "title": "I do not agree with Github's use of copyrighted code as training for Copilot"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27723333",
+          "author": "curmudgeon22",
+          "description": "Article URL: https://taibbi.substack.com/p/a-case-of-intellectual-capture-on\nComments URL: https://news.ycombinator.com/item?id=27723333\nPoints: 127\n# Comments: 86",
+          "link": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
+          "publishedOn": "2021-07-03T17:38:50.000Z",
+          "wordCount": 2416,
+          "title": "Using government guidelines to police content: state censorship?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27722221",
+          "author": "nathell",
+          "description": "Article URL: http://blog.danieljanus.pl/2021/07/01/commit-groups/\nComments URL: https://news.ycombinator.com/item?id=27722221\nPoints: 154\n# Comments: 119",
+          "link": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
+          "publishedOn": "2021-07-03T15:27:32.000Z",
+          "wordCount": 1900,
+          "title": "Things I wish Git had: Commit groups"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27721748",
+          "author": "mewithoutyou",
+          "description": "Article URL: https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/\nComments URL: https://news.ycombinator.com/item?id=27721748\nPoints: 120\n# Comments: 78",
+          "link": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
+          "publishedOn": "2021-07-03T14:14:40.000Z",
+          "wordCount": 2812,
+          "title": "What did ancient languages sound like?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27720517",
+          "author": "danboarder",
+          "description": "Article URL: https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative\nComments URL: https://news.ycombinator.com/item?id=27720517\nPoints: 104\n# Comments: 38",
+          "link": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
+          "publishedOn": "2021-07-03T09:57:38.000Z",
+          "wordCount": 1518,
+          "title": "The ‘flow state’: Where creative work thrives (2019)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27716083",
           "author": "apsec112",
           "description": "Article URL: https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/\nComments URL: https://news.ycombinator.com/item?id=27716083\nPoints: 126\n# Comments: 83",
@@ -103,6 +148,15 @@
           "publishedOn": "2021-07-02T06:33:06.000Z",
           "wordCount": 1981,
           "title": "Simple, solar-powered water desalination (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27697386",
+          "author": "DanielleMolloy",
+          "description": "Article URL: https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/\nComments URL: https://news.ycombinator.com/item?id=27697386\nPoints: 250\n# Comments: 82",
+          "link": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
+          "publishedOn": "2021-07-01T08:49:57.000Z",
+          "wordCount": 1166,
+          "title": "Steve Jobs in Kyoto"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27694537",
@@ -2020,33 +2074,6 @@
           "publishedOn": "2021-06-04T12:48:22.000Z",
           "wordCount": 608,
           "title": "Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27392607",
-          "author": "helsinkiandrew",
-          "description": "Article URL: https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667\nComments URL: https://news.ycombinator.com/item?id=27392607\nPoints: 135\n# Comments: 29",
-          "link": "https://www.ft.com/content/1836b3a0-cf7b-4dd1-9821-85f209e15667",
-          "publishedOn": "2021-06-04T11:44:15.000Z",
-          "wordCount": 974,
-          "title": "UK and EU launch antitrust probes into Facebook"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27390512",
-          "author": "SerCe",
-          "description": "Article URL: https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html\nComments URL: https://news.ycombinator.com/item?id=27390512\nPoints: 2080\n# Comments: 415",
-          "link": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
-          "publishedOn": "2021-06-04T04:21:31.000Z",
-          "wordCount": 2557,
-          "title": "An Unbelievable Demo"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27389500",
-          "author": "sohkamyung",
-          "description": "Article URL: https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security\nComments URL: https://news.ycombinator.com/item?id=27389500\nPoints: 180\n# Comments: 73",
-          "link": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
-          "publishedOn": "2021-06-04T01:32:47.000Z",
-          "wordCount": 2942,
-          "title": "Van Buren is a victory against overbroad interpretations of the CFAA"
         }
       ]
     },
@@ -2540,24 +2567,6 @@
           "publishedOn": "2021-06-04T14:37:59.000Z",
           "wordCount": 1327,
           "title": "Can I :has()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341584",
-          "author": "Temani Afif",
-          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
-          "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 5032,
-          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341494",
-          "author": "Chris Coyier",
-          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
-          "publishedOn": "2021-06-03T14:25:19.000Z",
-          "wordCount": 955,
-          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
         }
       ]
     },
@@ -2942,20 +2951,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
-          "author": "hello@smashingmagazine.com (Nwani Victory)",
-          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
-          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
-          "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4138,
-          "title": "Getting Started With Webpack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -3657,60 +3652,6 @@
           "publishedOn": "2021-06-04T18:01:00.000Z",
           "wordCount": 2225,
           "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b98ebfacb62507dd1d8ec4",
-          "author": null,
-          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
-          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
-          "publishedOn": "2021-06-04T02:32:22.000Z",
-          "wordCount": 390,
-          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
-        },
-        {
-          "id": "60b11ff811ffb70827ef8f94",
-          "author": null,
-          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
-          "publishedOn": "2021-06-03T21:44:03.000Z",
-          "wordCount": 3978,
-          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
-        },
-        {
-          "id": "60afd68611ffb70827ef86d8",
-          "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called \"Schofield's",
-          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
-          "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1595,
-          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
-        },
-        {
-          "id": "60b7c02cacb62507dd1d7b80",
-          "author": null,
-          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
-          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
-          "publishedOn": "2021-06-03T18:42:20.000Z",
-          "wordCount": 1748,
-          "title": "Lists in Python – A Comprehensive Guide"
-        },
-        {
-          "id": "60affbe411ffb70827ef8951",
-          "author": null,
-          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
-          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
-          "publishedOn": "2021-06-03T18:07:17.000Z",
-          "wordCount": 2708,
-          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
-        },
-        {
-          "id": "60aa708711ffb70827ef5f4b",
-          "author": null,
-          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
-          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
-          "publishedOn": "2021-06-03T16:51:37.000Z",
-          "wordCount": 1453,
-          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
         }
       ]
     }
