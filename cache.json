@@ -6,6 +6,123 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27741910",
+          "author": "ushakov",
+          "description": "Article URL: https://github.com/cookiengineer/audacity\nComments URL: https://news.ycombinator.com/item?id=27741910\nPoints: 155\n# Comments: 105",
+          "link": "https://github.com/cookiengineer/audacity",
+          "publishedOn": "2021-07-05T21:18:38.000Z",
+          "wordCount": 1182,
+          "title": "Audacity fork without any sentry telemetry or crash reporting"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27741210",
+          "author": "jshchnz",
+          "description": "Article URL: https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520\nComments URL: https://news.ycombinator.com/item?id=27741210\nPoints: 108\n# Comments: 34",
+          "link": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
+          "publishedOn": "2021-07-05T19:42:24.000Z",
+          "wordCount": 1611,
+          "title": "How iOS 15 makes apps launch faster"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27740295",
+          "author": "jsnell",
+          "description": "Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html\nComments URL: https://news.ycombinator.com/item?id=27740295\nPoints: 184\n# Comments: 47",
+          "link": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
+          "publishedOn": "2021-07-05T17:54:46.000Z",
+          "wordCount": 3048,
+          "title": "Writing a firmware-only keylogger"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27739991",
+          "author": "thunderbong",
+          "description": "Article URL: https://transfer.sh\nComments URL: https://news.ycombinator.com/item?id=27739991\nPoints: 118\n# Comments: 45",
+          "link": "https://transfer.sh",
+          "publishedOn": "2021-07-05T17:22:16.000Z",
+          "wordCount": 219,
+          "title": "Transfer.sh – Easy file sharing from the command line"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27739860",
+          "author": "Aissen",
+          "description": "Article URL: https://www.bbc.com/news/world-middle-east-57719551\nComments URL: https://news.ycombinator.com/item?id=27739860\nPoints: 102\n# Comments: 42",
+          "link": "https://www.bbc.com/news/world-middle-east-57719551",
+          "publishedOn": "2021-07-05T17:02:34.000Z",
+          "wordCount": 1098,
+          "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27739568",
+          "author": "Vinnl",
+          "description": "Article URL: https://feed-me-up-scotty.vincenttunru.com/\nComments URL: https://news.ycombinator.com/item?id=27739568\nPoints: 346\n# Comments: 87",
+          "link": "https://feed-me-up-scotty.vincenttunru.com/",
+          "publishedOn": "2021-07-05T16:28:02.000Z",
+          "wordCount": 123,
+          "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27738312",
+          "author": "mrry",
+          "description": "Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html\nComments URL: https://news.ycombinator.com/item?id=27738312\nPoints: 141\n# Comments: 52",
+          "link": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
+          "publishedOn": "2021-07-05T14:24:45.000Z",
+          "wordCount": 1706,
+          "title": "Computing Performance on the Horizon"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27738029",
+          "author": "Anon84",
+          "description": "Article URL: https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic\nComments URL: https://news.ycombinator.com/item?id=27738029\nPoints: 101\n# Comments: 31",
+          "link": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
+          "publishedOn": "2021-07-05T13:56:32.000Z",
+          "wordCount": 44,
+          "title": "The future of deep learning is photonic"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27737887",
+          "author": "Vaslo",
+          "description": "Article URL: https://www.musicforprogramming.net/\nComments URL: https://news.ycombinator.com/item?id=27737887\nPoints: 242\n# Comments: 123",
+          "link": "https://www.musicforprogramming.net/",
+          "publishedOn": "2021-07-05T13:42:09.000Z",
+          "wordCount": 316,
+          "title": "Music for Programming"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27737718",
+          "author": "watchdogtimer",
+          "description": "Article URL: https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/\nComments URL: https://news.ycombinator.com/item?id=27737718\nPoints: 282\n# Comments: 55",
+          "link": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
+          "publishedOn": "2021-07-05T13:24:11.000Z",
+          "wordCount": 1533,
+          "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27737064",
+          "author": "alexhwoods",
+          "description": "Article URL: https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/\nComments URL: https://news.ycombinator.com/item?id=27737064\nPoints: 200\n# Comments: 68",
+          "link": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
+          "publishedOn": "2021-07-05T12:04:02.000Z",
+          "wordCount": 1478,
+          "title": "Everything useful I know about kubectl"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27736713",
+          "author": "smartmic",
+          "description": "Article URL: https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/\nComments URL: https://news.ycombinator.com/item?id=27736713\nPoints: 143\n# Comments: 62",
+          "link": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
+          "publishedOn": "2021-07-05T11:18:33.000Z",
+          "wordCount": 4544,
+          "title": "The Rise and Fall of the OLAP Cube (2020)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27736650",
+          "author": "aarroyoc",
+          "description": "Article URL: https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/\nComments URL: https://news.ycombinator.com/item?id=27736650\nPoints: 271\n# Comments: 425",
+          "link": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
+          "publishedOn": "2021-07-05T11:10:49.000Z",
+          "wordCount": 3307,
+          "title": "GitHub Copilot is not infringing copyright"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27724042",
           "author": "janvdberg",
           "description": "Article URL: https://thelig.ht/abandoning-github/\nComments URL: https://news.ycombinator.com/item?id=27724042\nPoints: 599\n# Comments: 374",
@@ -1894,186 +2011,6 @@
           "publishedOn": "2021-06-06T18:28:29.000Z",
           "wordCount": 2078,
           "title": "How to Start a Novel"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27408683",
-          "author": "ncpa-cpl",
-          "description": "Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html\nComments URL: https://news.ycombinator.com/item?id=27408683\nPoints: 148\n# Comments: 85",
-          "link": "https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html",
-          "publishedOn": "2021-06-05T21:43:27.000Z",
-          "wordCount": 849,
-          "title": "El Salvador to adopt Bitcoin as legal tender"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27408647",
-          "author": "prostoalex",
-          "description": "Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/\nComments URL: https://news.ycombinator.com/item?id=27408647\nPoints: 131\n# Comments: 59",
-          "link": "https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/",
-          "publishedOn": "2021-06-05T21:37:32.000Z",
-          "wordCount": 721,
-          "title": "Justice Department withdraws FBI subpoena for USA Today records ID'ing readers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27407603",
-          "author": "arthurmorgan",
-          "description": "Article URL: https://lock.cmpxchg8b.com/passmgrs.html\nComments URL: https://news.ycombinator.com/item?id=27407603\nPoints: 166\n# Comments: 131",
-          "link": "https://lock.cmpxchg8b.com/passmgrs.html",
-          "publishedOn": "2021-06-05T18:52:23.000Z",
-          "wordCount": 1691,
-          "title": "Password Managers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27406243",
-          "author": "chetangoti",
-          "description": "Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/\nComments URL: https://news.ycombinator.com/item?id=27406243\nPoints: 201\n# Comments: 64",
-          "link": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
-          "publishedOn": "2021-06-05T16:13:15.000Z",
-          "wordCount": 1609,
-          "title": "All controversial trades by Senators in the 2020 Congressional insider trading"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27406132",
-          "author": "x14km2d",
-          "description": "Article URL: https://danluu.com/web-bloat/\nComments URL: https://news.ycombinator.com/item?id=27406132\nPoints: 176\n# Comments: 118",
-          "link": "https://danluu.com/web-bloat/",
-          "publishedOn": "2021-06-05T16:01:44.000Z",
-          "wordCount": 4346,
-          "title": "The modern web on a slow connection (2017)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27405450",
-          "author": "rfreytag",
-          "description": "Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html\nComments URL: https://news.ycombinator.com/item?id=27405450\nPoints: 143\n# Comments: 46",
-          "link": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
-          "publishedOn": "2021-06-05T14:40:52.000Z",
-          "wordCount": 1836,
-          "title": "The Mandelbrot Monk (1999)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27404301",
-          "author": "bpierre",
-          "description": "Article URL: https://github.com/google/iconvg\nComments URL: https://news.ycombinator.com/item?id=27404301\nPoints: 111\n# Comments: 53",
-          "link": "https://github.com/google/iconvg",
-          "publishedOn": "2021-06-05T12:21:57.000Z",
-          "wordCount": 921,
-          "title": "IconVG is a compact, binary format for simple vector graphics"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27404018",
-          "author": "ddek",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-57368247\nComments URL: https://news.ycombinator.com/item?id=27404018\nPoints: 857\n# Comments: 738",
-          "link": "https://www.bbc.co.uk/news/world-57368247",
-          "publishedOn": "2021-06-05T11:24:19.000Z",
-          "wordCount": 1747,
-          "title": "G7: Rich nations back deal to tax multinationals"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27403877",
-          "author": "ingve",
-          "description": "Article URL: https://github.com/ArthurSonzogni/FTXUI\nComments URL: https://news.ycombinator.com/item?id=27403877\nPoints: 131\n# Comments: 59",
-          "link": "https://github.com/ArthurSonzogni/FTXUI",
-          "publishedOn": "2021-06-05T10:50:03.000Z",
-          "wordCount": 716,
-          "title": "Ftxui: C++ Functional Terminal User Interface"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27399581",
-          "author": "bqe",
-          "description": "Article URL: https://twitter.com/paulbiggar/status/1400904600421535744\nComments URL: https://news.ycombinator.com/item?id=27399581\nPoints: 570\n# Comments: 242",
-          "link": "https://twitter.com/paulbiggar/status/1400904600421535744",
-          "publishedOn": "2021-06-04T22:01:55.000Z",
-          "wordCount": 196,
-          "title": "Lol just got kicked out of  @ycombinator"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27399416",
-          "author": "tosh",
-          "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666\nComments URL: https://news.ycombinator.com/item?id=27399416\nPoints: 165\n# Comments: 96",
-          "link": "https://twitter.com/ID_AA_Carmack/status/1400930510671601666",
-          "publishedOn": "2021-06-04T21:43:53.000Z",
-          "wordCount": 196,
-          "title": "John Carmack on JPEG"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27397208",
-          "author": "brundolf",
-          "description": "Article URL: https://binji.github.io/posts/pokegb/\nComments URL: https://news.ycombinator.com/item?id=27397208\nPoints: 365\n# Comments: 41",
-          "link": "https://binji.github.io/posts/pokegb/",
-          "publishedOn": "2021-06-04T18:31:27.000Z",
-          "wordCount": 11960,
-          "title": "Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27396873",
-          "author": "myth_drannon",
-          "description": "Article URL: https://www.nature.com/articles/s41413-020-00127-9\nComments URL: https://news.ycombinator.com/item?id=27396873\nPoints: 112\n# Comments: 89",
-          "link": "https://www.nature.com/articles/s41413-020-00127-9",
-          "publishedOn": "2021-06-04T18:11:44.000Z",
-          "wordCount": 10035,
-          "title": "Ultra-processed food targets bone quality via endochondral ossification"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27396848",
-          "author": "eklitzke",
-          "description": "Article URL: https://www.eejournal.com/article/we-interrupt-this-program/\nComments URL: https://news.ycombinator.com/item?id=27396848\nPoints: 151\n# Comments: 82",
-          "link": "https://www.eejournal.com/article/we-interrupt-this-program/",
-          "publishedOn": "2021-06-04T18:10:27.000Z",
-          "wordCount": 2487,
-          "title": "Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27396803",
-          "author": "packet_nerd",
-          "description": "Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer\nComments URL: https://news.ycombinator.com/item?id=27396803\nPoints: 104\n# Comments: 63",
-          "link": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
-          "publishedOn": "2021-06-04T18:08:14.000Z",
-          "wordCount": 1111,
-          "title": "Heroic Rat Retiring from Detecting Land Mines"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27396208",
-          "author": "belter",
-          "description": "Article URL: https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/\nComments URL: https://news.ycombinator.com/item?id=27396208\nPoints: 114\n# Comments: 31",
-          "link": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
-          "publishedOn": "2021-06-04T17:28:44.000Z",
-          "wordCount": 3610,
-          "title": "Anatomy of a Linux DNS Lookup"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27395861",
-          "author": "thibaut_barrere",
-          "description": "Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/\nComments URL: https://news.ycombinator.com/item?id=27395861\nPoints: 173\n# Comments: 52",
-          "link": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
-          "publishedOn": "2021-06-04T17:06:33.000Z",
-          "wordCount": 1271,
-          "title": "Social virtual spaces with Elixir at Mozilla"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27395635",
-          "author": "rcoveson",
-          "description": "Article URL: https://www.bing.com/images/search?q=tank+man\nComments URL: https://news.ycombinator.com/item?id=27395635\nPoints: 1678\n# Comments: 416",
-          "link": "https://www.bing.com/images/search?q=tank+man",
-          "publishedOn": "2021-06-04T16:51:37.000Z",
-          "wordCount": 219,
-          "title": "There are no results for tank man"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27394983",
-          "author": "oppodeldoc",
-          "description": "Article URL: https://thereboot.com/why-we-should-end-the-data-economy/\nComments URL: https://news.ycombinator.com/item?id=27394983\nPoints: 395\n# Comments: 325",
-          "link": "https://thereboot.com/why-we-should-end-the-data-economy/",
-          "publishedOn": "2021-06-04T16:02:21.000Z",
-          "wordCount": 1788,
-          "title": "Why We Should End the Data Economy"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27393047",
-          "author": "Hard_Space",
-          "description": "Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/\nComments URL: https://news.ycombinator.com/item?id=27393047\nPoints: 136\n# Comments: 40",
-          "link": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
-          "publishedOn": "2021-06-04T12:48:22.000Z",
-          "wordCount": 608,
-          "title": "Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control"
         }
       ]
     },
@@ -2082,6 +2019,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343166",
+          "author": "Lari Maza",
+          "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/",
+          "publishedOn": "2021-07-05T14:17:33.000Z",
+          "wordCount": 1113,
+          "title": "Kubernetes Explained Simply: Containers, Pods and Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343671",
+          "author": "Chris Coyier",
+          "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
+          "publishedOn": "2021-07-05T14:15:20.000Z",
+          "wordCount": 2661,
+          "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343496",
+          "author": "Chris Coyier",
+          "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-fourteenth-fourth/",
+          "publishedOn": "2021-07-04T13:29:01.000Z",
+          "wordCount": 1921,
+          "title": "The Fourteenth Fourth"
+        },
         {
           "id": "https://css-tricks.com/?p=343435",
           "author": "Chris Coyier",
@@ -2549,24 +2513,6 @@
           "publishedOn": "2021-06-07T14:13:50.000Z",
           "wordCount": 1453,
           "title": "VS Code Extensions for HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341793",
-          "author": "Chris Coyier",
-          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
-          "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1039,
-          "title": "Principles for user-centered front-end development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341968",
-          "author": "Chris Coyier",
-          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://bkardell.com/blog/canihas.html",
-          "publishedOn": "2021-06-04T14:37:59.000Z",
-          "wordCount": 1327,
-          "title": "Can I :has()"
         }
       ]
     },
@@ -2575,6 +2521,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
+          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
+          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
+          "publishedOn": "2021-07-05T10:30:00.000Z",
+          "wordCount": 1581,
+          "title": "Using HSL Colors In CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/email-testing-flow/",
           "author": "hello@smashingmagazine.com (Andriy Zapisotskyi)",
@@ -3616,42 +3576,6 @@
           "publishedOn": "2021-06-07T15:01:26.000Z",
           "wordCount": 1547,
           "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
-        },
-        {
-          "id": "60b3480c11ffb70827ef9a88",
-          "author": null,
-          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
-          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
-          "publishedOn": "2021-06-04T21:34:33.000Z",
-          "wordCount": 2174,
-          "title": "How to Search and Filter Components in React"
-        },
-        {
-          "id": "60ba33d7acb62507dd1d9050",
-          "author": null,
-          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
-          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
-          "publishedOn": "2021-06-04T20:58:07.000Z",
-          "wordCount": 1544,
-          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
-        },
-        {
-          "id": "60b8f5c7acb62507dd1d8500",
-          "author": null,
-          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
-          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
-          "publishedOn": "2021-06-04T20:41:29.000Z",
-          "wordCount": 2163,
-          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
-        },
-        {
-          "id": "60b2a4c611ffb70827ef9842",
-          "author": null,
-          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
-          "publishedOn": "2021-06-04T18:01:00.000Z",
-          "wordCount": 2225,
-          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
         }
       ]
     }

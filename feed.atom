@@ -2,10 +2,224 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://banditelol.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:24:51.937Z</updated>
+    <updated>2021-07-06T00:26:22.955Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://banditelol.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://banditelol.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Audacity fork without any sentry telemetry or crash reporting]]></title>
+        <id>https://news.ycombinator.com/item?id=27741910</id>
+        <link href="https://github.com/cookiengineer/audacity"/>
+        <updated>2021-07-05T21:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/cookiengineer/audacity
+Comments URL: https://news.ycombinator.com/item?id=27741910
+Points: 155
+# Comments: 105]]></summary>
+        <author>
+            <name>ushakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How iOS 15 makes apps launch faster]]></title>
+        <id>https://news.ycombinator.com/item?id=27741210</id>
+        <link href="https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520"/>
+        <updated>2021-07-05T19:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520
+Comments URL: https://news.ycombinator.com/item?id=27741210
+Points: 108
+# Comments: 34]]></summary>
+        <author>
+            <name>jshchnz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a firmware-only keylogger]]></title>
+        <id>https://news.ycombinator.com/item?id=27740295</id>
+        <link href="https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html"/>
+        <updated>2021-07-05T17:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
+Comments URL: https://news.ycombinator.com/item?id=27740295
+Points: 184
+# Comments: 47]]></summary>
+        <author>
+            <name>jsnell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transfer.sh – Easy file sharing from the command line]]></title>
+        <id>https://news.ycombinator.com/item?id=27739991</id>
+        <link href="https://transfer.sh"/>
+        <updated>2021-07-05T17:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://transfer.sh
+Comments URL: https://news.ycombinator.com/item?id=27739991
+Points: 118
+# Comments: 45]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever Given: Egypt agrees deal to release ship that blocked Suez Canal]]></title>
+        <id>https://news.ycombinator.com/item?id=27739860</id>
+        <link href="https://www.bbc.com/news/world-middle-east-57719551"/>
+        <updated>2021-07-05T17:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-middle-east-57719551
+Comments URL: https://news.ycombinator.com/item?id=27739860
+Points: 102
+# Comments: 42]]></summary>
+        <author>
+            <name>Aissen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RSS feeds for arbitrary websites using CSS selectors]]></title>
+        <id>https://news.ycombinator.com/item?id=27739568</id>
+        <link href="https://feed-me-up-scotty.vincenttunru.com/"/>
+        <updated>2021-07-05T16:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://feed-me-up-scotty.vincenttunru.com/
+Comments URL: https://news.ycombinator.com/item?id=27739568
+Points: 346
+# Comments: 87]]></summary>
+        <author>
+            <name>Vinnl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computing Performance on the Horizon]]></title>
+        <id>https://news.ycombinator.com/item?id=27738312</id>
+        <link href="https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html"/>
+        <updated>2021-07-05T14:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
+Comments URL: https://news.ycombinator.com/item?id=27738312
+Points: 141
+# Comments: 52]]></summary>
+        <author>
+            <name>mrry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
+        <id>https://css-tricks.com/?p=343166</id>
+        <link href="https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/"/>
+        <updated>2021-07-05T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!
+As a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …
+The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Lari Maza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
+        <id>https://css-tricks.com/?p=343671</id>
+        <link href="https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/"/>
+        <updated>2021-07-05T14:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …
+The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of deep learning is photonic]]></title>
+        <id>https://news.ycombinator.com/item?id=27738029</id>
+        <link href="https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic"/>
+        <updated>2021-07-05T13:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic
+Comments URL: https://news.ycombinator.com/item?id=27738029
+Points: 101
+# Comments: 31]]></summary>
+        <author>
+            <name>Anon84</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music for Programming]]></title>
+        <id>https://news.ycombinator.com/item?id=27737887</id>
+        <link href="https://www.musicforprogramming.net/"/>
+        <updated>2021-07-05T13:42:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.musicforprogramming.net/
+Comments URL: https://news.ycombinator.com/item?id=27737887
+Points: 242
+# Comments: 123]]></summary>
+        <author>
+            <name>Vaslo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76]]></title>
+        <id>https://news.ycombinator.com/item?id=27737718</id>
+        <link href="https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/"/>
+        <updated>2021-07-05T13:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/
+Comments URL: https://news.ycombinator.com/item?id=27737718
+Points: 282
+# Comments: 55]]></summary>
+        <author>
+            <name>watchdogtimer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything useful I know about kubectl]]></title>
+        <id>https://news.ycombinator.com/item?id=27737064</id>
+        <link href="https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/"/>
+        <updated>2021-07-05T12:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
+Comments URL: https://news.ycombinator.com/item?id=27737064
+Points: 200
+# Comments: 68]]></summary>
+        <author>
+            <name>alexhwoods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise and Fall of the OLAP Cube (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=27736713</id>
+        <link href="https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/"/>
+        <updated>2021-07-05T11:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+Comments URL: https://news.ycombinator.com/item?id=27736713
+Points: 143
+# Comments: 62]]></summary>
+        <author>
+            <name>smartmic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot is not infringing copyright]]></title>
+        <id>https://news.ycombinator.com/item?id=27736650</id>
+        <link href="https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/"/>
+        <updated>2021-07-05T11:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/
+Comments URL: https://news.ycombinator.com/item?id=27736650
+Points: 271
+# Comments: 425]]></summary>
+        <author>
+            <name>aarroyoc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
+        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
+        <updated>2021-07-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fourteenth Fourth]]></title>
+        <id>https://css-tricks.com/?p=343496</id>
+        <link href="https://css-tricks.com/the-fourteenth-fourth/"/>
+        <updated>2021-07-04T13:29:01.000Z</updated>
+        <summary type="html"><![CDATA[It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. 
+I’m writing this just days after my current home state of Oregon has …
+The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I do not agree with Github's use of copyrighted code as training for Copilot]]></title>
         <id>https://news.ycombinator.com/item?id=27724042</id>
@@ -4400,333 +4614,6 @@ Points: 105
 # Comments: 69]]></summary>
         <author>
             <name>see-also</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Salvador to adopt Bitcoin as legal tender]]></title>
-        <id>https://news.ycombinator.com/item?id=27408683</id>
-        <link href="https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html"/>
-        <updated>2021-06-05T21:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
-Comments URL: https://news.ycombinator.com/item?id=27408683
-Points: 148
-# Comments: 85]]></summary>
-        <author>
-            <name>ncpa-cpl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justice Department withdraws FBI subpoena for USA Today records ID'ing readers]]></title>
-        <id>https://news.ycombinator.com/item?id=27408647</id>
-        <link href="https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/"/>
-        <updated>2021-06-05T21:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/
-Comments URL: https://news.ycombinator.com/item?id=27408647
-Points: 131
-# Comments: 59]]></summary>
-        <author>
-            <name>prostoalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Password Managers]]></title>
-        <id>https://news.ycombinator.com/item?id=27407603</id>
-        <link href="https://lock.cmpxchg8b.com/passmgrs.html"/>
-        <updated>2021-06-05T18:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
-Comments URL: https://news.ycombinator.com/item?id=27407603
-Points: 166
-# Comments: 131]]></summary>
-        <author>
-            <name>arthurmorgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All controversial trades by Senators in the 2020 Congressional insider trading]]></title>
-        <id>https://news.ycombinator.com/item?id=27406243</id>
-        <link href="https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/"/>
-        <updated>2021-06-05T16:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/
-Comments URL: https://news.ycombinator.com/item?id=27406243
-Points: 201
-# Comments: 64]]></summary>
-        <author>
-            <name>chetangoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The modern web on a slow connection (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27406132</id>
-        <link href="https://danluu.com/web-bloat/"/>
-        <updated>2021-06-05T16:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
-Comments URL: https://news.ycombinator.com/item?id=27406132
-Points: 176
-# Comments: 118]]></summary>
-        <author>
-            <name>x14km2d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mandelbrot Monk (1999)]]></title>
-        <id>https://news.ycombinator.com/item?id=27405450</id>
-        <link href="https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html"/>
-        <updated>2021-06-05T14:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
-Comments URL: https://news.ycombinator.com/item?id=27405450
-Points: 143
-# Comments: 46]]></summary>
-        <author>
-            <name>rfreytag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IconVG is a compact, binary format for simple vector graphics]]></title>
-        <id>https://news.ycombinator.com/item?id=27404301</id>
-        <link href="https://github.com/google/iconvg"/>
-        <updated>2021-06-05T12:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
-Comments URL: https://news.ycombinator.com/item?id=27404301
-Points: 111
-# Comments: 53]]></summary>
-        <author>
-            <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G7: Rich nations back deal to tax multinationals]]></title>
-        <id>https://news.ycombinator.com/item?id=27404018</id>
-        <link href="https://www.bbc.co.uk/news/world-57368247"/>
-        <updated>2021-06-05T11:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-57368247
-Comments URL: https://news.ycombinator.com/item?id=27404018
-Points: 857
-# Comments: 738]]></summary>
-        <author>
-            <name>ddek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ftxui: C++ Functional Terminal User Interface]]></title>
-        <id>https://news.ycombinator.com/item?id=27403877</id>
-        <link href="https://github.com/ArthurSonzogni/FTXUI"/>
-        <updated>2021-06-05T10:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ArthurSonzogni/FTXUI
-Comments URL: https://news.ycombinator.com/item?id=27403877
-Points: 131
-# Comments: 59]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lol just got kicked out of  @ycombinator]]></title>
-        <id>https://news.ycombinator.com/item?id=27399581</id>
-        <link href="https://twitter.com/paulbiggar/status/1400904600421535744"/>
-        <updated>2021-06-04T22:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/paulbiggar/status/1400904600421535744
-Comments URL: https://news.ycombinator.com/item?id=27399581
-Points: 570
-# Comments: 242]]></summary>
-        <author>
-            <name>bqe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Carmack on JPEG]]></title>
-        <id>https://news.ycombinator.com/item?id=27399416</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/1400930510671601666"/>
-        <updated>2021-06-04T21:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666
-Comments URL: https://news.ycombinator.com/item?id=27399416
-Points: 165
-# Comments: 96]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
-        <id>60b3480c11ffb70827ef9a88</id>
-        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
-        <updated>2021-06-04T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
-        <id>60ba33d7acb62507dd1d9050</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
-        <updated>2021-06-04T20:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
-        <id>60b8f5c7acb62507dd1d8500</id>
-        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
-        <updated>2021-06-04T20:41:29.000Z</updated>
-        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
-        <id>https://css-tricks.com/?p=341793</id>
-        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
-        <updated>2021-06-04T20:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Colin Oakley:
-• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
-• Agnostic — Build 
-…
-The post Principles for user-centered front-end development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++]]></title>
-        <id>https://news.ycombinator.com/item?id=27397208</id>
-        <link href="https://binji.github.io/posts/pokegb/"/>
-        <updated>2021-06-04T18:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://binji.github.io/posts/pokegb/
-Comments URL: https://news.ycombinator.com/item?id=27397208
-Points: 365
-# Comments: 41]]></summary>
-        <author>
-            <name>brundolf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultra-processed food targets bone quality via endochondral ossification]]></title>
-        <id>https://news.ycombinator.com/item?id=27396873</id>
-        <link href="https://www.nature.com/articles/s41413-020-00127-9"/>
-        <updated>2021-06-04T18:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s41413-020-00127-9
-Comments URL: https://news.ycombinator.com/item?id=27396873
-Points: 112
-# Comments: 89]]></summary>
-        <author>
-            <name>myth_drannon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling]]></title>
-        <id>https://news.ycombinator.com/item?id=27396848</id>
-        <link href="https://www.eejournal.com/article/we-interrupt-this-program/"/>
-        <updated>2021-06-04T18:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eejournal.com/article/we-interrupt-this-program/
-Comments URL: https://news.ycombinator.com/item?id=27396848
-Points: 151
-# Comments: 82]]></summary>
-        <author>
-            <name>eklitzke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroic Rat Retiring from Detecting Land Mines]]></title>
-        <id>https://news.ycombinator.com/item?id=27396803</id>
-        <link href="https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer"/>
-        <updated>2021-06-04T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer
-Comments URL: https://news.ycombinator.com/item?id=27396803
-Points: 104
-# Comments: 63]]></summary>
-        <author>
-            <name>packet_nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
-        <id>60b2a4c611ffb70827ef9842</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
-        <updated>2021-06-04T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of a Linux DNS Lookup]]></title>
-        <id>https://news.ycombinator.com/item?id=27396208</id>
-        <link href="https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/"/>
-        <updated>2021-06-04T17:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
-Comments URL: https://news.ycombinator.com/item?id=27396208
-Points: 114
-# Comments: 31]]></summary>
-        <author>
-            <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social virtual spaces with Elixir at Mozilla]]></title>
-        <id>https://news.ycombinator.com/item?id=27395861</id>
-        <link href="https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/"/>
-        <updated>2021-06-04T17:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/
-Comments URL: https://news.ycombinator.com/item?id=27395861
-Points: 173
-# Comments: 52]]></summary>
-        <author>
-            <name>thibaut_barrere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There are no results for tank man]]></title>
-        <id>https://news.ycombinator.com/item?id=27395635</id>
-        <link href="https://www.bing.com/images/search?q=tank+man"/>
-        <updated>2021-06-04T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bing.com/images/search?q=tank+man
-Comments URL: https://news.ycombinator.com/item?id=27395635
-Points: 1678
-# Comments: 416]]></summary>
-        <author>
-            <name>rcoveson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We Should End the Data Economy]]></title>
-        <id>https://news.ycombinator.com/item?id=27394983</id>
-        <link href="https://thereboot.com/why-we-should-end-the-data-economy/"/>
-        <updated>2021-06-04T16:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thereboot.com/why-we-should-end-the-data-economy/
-Comments URL: https://news.ycombinator.com/item?id=27394983
-Points: 395
-# Comments: 325]]></summary>
-        <author>
-            <name>oppodeldoc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I :has()]]></title>
-        <id>https://css-tricks.com/?p=341968</id>
-        <link href="https://bkardell.com/blog/canihas.html"/>
-        <updated>2021-06-04T14:37:59.000Z</updated>
-        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
-The post Can I :has() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control]]></title>
-        <id>https://news.ycombinator.com/item?id=27393047</id>
-        <link href="http://gvv.mpi-inf.mpg.de/projects/NeuralActor/"/>
-        <updated>2021-06-04T12:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://gvv.mpi-inf.mpg.de/projects/NeuralActor/
-Comments URL: https://news.ycombinator.com/item?id=27393047
-Points: 136
-# Comments: 40]]></summary>
-        <author>
-            <name>Hard_Space</name>
         </author>
     </entry>
 </feed>
